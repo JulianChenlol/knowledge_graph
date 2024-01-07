@@ -1,0 +1,708 @@
+{
+    "content": null,
+    "children": [
+        {
+            "content": "Cerebrovascular accident due to occlusion of right posterior communicating artery (disorder)",
+            "children": []
+        },
+        {
+            "content": "Cerebrovascular accident of thalamus (disorder)",
+            "children": []
+        },
+        {
+            "content": "Cerebrovascular accident of brainstem (disorder)",
+            "children": [
+                {
+                    "content": "Cerebrovascular accident of medulla oblongata (disorder)",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "content": "Cerebrovascular accident of basal ganglia (disorder)",
+            "children": []
+        },
+        {
+            "content": "Cerebrovascular accident due to occlusion of basilar artery (disorder)",
+            "children": []
+        },
+        {
+            "content": "Cerebrovascular accident due to occlusion of left posterior communicating artery (disorder)",
+            "children": []
+        },
+        {
+            "content": "Cerebellar stroke (disorder)",
+            "children": []
+        },
+        {
+            "content": "Cerebrovascular accident due to stenosis of left carotid artery (disorder)",
+            "children": [
+                {
+                    "content": "Cerebrovascular accident due to stenosis of bilateral carotid arteries (disorder)",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "content": "Cerebrovascular accident due to stenosis of right carotid artery (disorder)",
+            "children": [
+                {
+                    "content": "Cerebrovascular accident due to stenosis of bilateral carotid arteries (disorder)",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "content": "Cerebrovascular accident due to occlusion of right cerebellar artery (disorder)",
+            "children": [
+                {
+                    "content": "Cerebrovascular accident due to occlusion of bilateral cerebellar arteries (disorder)",
+                    "children": []
+                },
+                {
+                    "content": "Cerebrovascular accident due to occlusion of right cerebellar artery by embolus (disorder)",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "content": "Cerebrovascular accident due to occlusion of left cerebellar artery (disorder)",
+            "children": [
+                {
+                    "content": "Cerebrovascular accident due to occlusion of bilateral cerebellar arteries (disorder)",
+                    "children": []
+                },
+                {
+                    "content": "Cerebrovascular accident due to occlusion of left cerebellar artery by embolus (disorder)",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "content": "Cerebrovascular accident due to occlusion of left carotid artery (disorder)",
+            "children": [
+                {
+                    "content": "Cerebrovascular accident due to occlusion of bilateral carotid arteries (disorder)",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "content": "Cerebrovascular accident due to occlusion of right pontine artery (disorder)",
+            "children": [
+                {
+                    "content": "Cerebrovascular accident due to occlusion of bilateral pontine arteries (disorder)",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "content": "Cerebrovascular accident due to occlusion of left pontine artery (disorder)",
+            "children": [
+                {
+                    "content": "Cerebrovascular accident due to occlusion of bilateral pontine arteries (disorder)",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "content": "Cerebrovascular accident due to occlusion of right carotid artery (disorder)",
+            "children": [
+                {
+                    "content": "Cerebrovascular accident due to occlusion of bilateral carotid arteries (disorder)",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "content": "Cerebrovascular accident following procedure on heart (disorder)",
+            "children": []
+        },
+        {
+            "content": "Cerebrovascular accident due to occlusion of left vertebral artery (disorder)",
+            "children": [
+                {
+                    "content": "Cerebrovascular accident due to occlusion of bilateral vertebral arteries (disorder)",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "content": "Cerebrovascular accident due to occlusion of right vertebral artery (disorder)",
+            "children": [
+                {
+                    "content": "Cerebrovascular accident due to occlusion of bilateral vertebral arteries (disorder)",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "content": "Cerebrovascular accident due to stenosis of left vertebral artery (disorder)",
+            "children": [
+                {
+                    "content": "Cerebrovascular accident due to stenosis of bilateral vertebral arteries (disorder)",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "content": "Cerebrovascular accident due to stenosis of right vertebral artery (disorder)",
+            "children": [
+                {
+                    "content": "Cerebrovascular accident due to stenosis of bilateral vertebral arteries (disorder)",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "content": "Cerebral infarction due to stenosis of carotid artery (disorder)",
+            "children": []
+        },
+        {
+            "content": "Occlusion of cerebral artery with stroke (disorder)",
+            "children": [
+                {
+                    "content": "Malignant middle cerebral artery syndrome (disorder)",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "content": "Cerebrovascular accident with intracranial hemorrhage (disorder)",
+            "children": [
+                {
+                    "content": "Traumatic subarachnoid hemorrhage with loss of consciousness (disorder)",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "content": "Cerebrovascular accident due to occlusion of anterior choroidal artery (disorder)",
+            "children": [
+                {
+                    "content": "Cerebrovascular accident due to occlusion of right anterior choroidal artery (disorder)",
+                    "children": []
+                },
+                {
+                    "content": "Cerebrovascular accident due to occlusion of left anterior choroidal artery (disorder)",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "content": "Cerebral ischemic stroke due to subarachnoid hemorrhage (disorder)",
+            "children": []
+        },
+        {
+            "content": "Cerebral ischemic stroke due to hypercoagulable state (disorder)",
+            "children": []
+        },
+        {
+            "content": "Cerebral ischemic stroke due to global hypoperfusion with watershed infarct (disorder)",
+            "children": []
+        },
+        {
+            "content": "Cerebral ischemic stroke due to dissection of artery (disorder)",
+            "children": []
+        },
+        {
+            "content": "Stroke co-occurrent with migraine (disorder)",
+            "children": []
+        },
+        {
+            "content": "Cerebrovascular accident during surgery (disorder)",
+            "children": []
+        },
+        {
+            "content": "Ischemic stroke (disorder)",
+            "children": [
+                {
+                    "content": "Cryptogenic stroke (disorder)",
+                    "children": []
+                },
+                {
+                    "content": "Ischemic stroke without coma (disorder)",
+                    "children": []
+                },
+                {
+                    "content": "Ischemic stroke with coma (disorder)",
+                    "children": []
+                },
+                {
+                    "content": "Pediatric arterial ischemic stroke (disorder)",
+                    "children": []
+                },
+                {
+                    "content": "Neonatal ischemic stroke (disorder)",
+                    "children": []
+                },
+                {
+                    "content": "Ischemic stroke without residual deficits (disorder)",
+                    "children": []
+                },
+                {
+                    "content": "Cerebral ischemic stroke due to stenosis of extracranial large artery (disorder)",
+                    "children": []
+                },
+                {
+                    "content": "Cerebral ischemic stroke due to occlusion of extracranial large artery (disorder)",
+                    "children": []
+                },
+                {
+                    "content": "Cerebral ischemic stroke due to extracranial large artery atherosclerosis (disorder)",
+                    "children": []
+                },
+                {
+                    "content": "Cerebral ischemic stroke due to intracranial large artery atherosclerosis (disorder)",
+                    "children": []
+                },
+                {
+                    "content": "Cerebral ischemic stroke due to small artery occlusion (disorder)",
+                    "children": []
+                },
+                {
+                    "content": "Perinatal arterial ischemic stroke of fetus and/or neonate (disorder)",
+                    "children": []
+                },
+                {
+                    "content": "Occlusive stroke (disorder)",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "content": "Periventricular hemorrhagic venous infarct (disorder)",
+            "children": []
+        },
+        {
+            "content": "Neonatal stroke (disorder)",
+            "children": [
+                {
+                    "content": "Neonatal ischemic stroke (disorder)",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "content": "Embolic stroke (disorder)",
+            "children": [
+                {
+                    "content": "Cerebrovascular accident due to embolism of bilateral middle cerebral arteries (disorder)",
+                    "children": []
+                },
+                {
+                    "content": "Cerebrovascular accident due to embolism of basilar artery (disorder)",
+                    "children": []
+                },
+                {
+                    "content": "Cerebrovascular accident due to embolism of left carotid artery (disorder)",
+                    "children": [
+                        {
+                            "content": "Cerebrovascular accident due to embolism of bilateral carotid arteries (disorder)",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebrovascular accident due to embolism of right anterior cerebral artery (disorder)",
+                    "children": [
+                        {
+                            "content": "Cerebrovascular accident due to embolism of bilateral anterior cerebral arteries (disorder)",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebrovascular accident due to embolism of right vertebral artery (disorder)",
+                    "children": [
+                        {
+                            "content": "Cerebrovascular accident due to embolism of bilateral vertebral arteries (disorder)",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebrovascular accident due to embolism of left vertebral artery (disorder)",
+                    "children": [
+                        {
+                            "content": "Cerebrovascular accident due to embolism of bilateral vertebral arteries (disorder)",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebrovascular accident due to embolism of right carotid artery (disorder)",
+                    "children": [
+                        {
+                            "content": "Cerebrovascular accident due to embolism of bilateral carotid arteries (disorder)",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebrovascular accident due to embolism of left anterior cerebral artery (disorder)",
+                    "children": [
+                        {
+                            "content": "Cerebrovascular accident due to embolism of bilateral anterior cerebral arteries (disorder)",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebrovascular accident due to embolism of bilateral posterior cerebral arteries (disorder)",
+                    "children": []
+                },
+                {
+                    "content": "Cerebrovascular accident due to embolism of bilateral cerebellar arteries (disorder)",
+                    "children": []
+                },
+                {
+                    "content": "Cerebrovascular accident due to occlusion of left cerebellar artery by embolus (disorder)",
+                    "children": []
+                },
+                {
+                    "content": "Cerebrovascular accident due to occlusion of right cerebellar artery by embolus (disorder)",
+                    "children": []
+                },
+                {
+                    "content": "Cerebrovascular accident due to occlusion of left posterior cerebral artery by embolus (disorder)",
+                    "children": []
+                },
+                {
+                    "content": "Cerebrovascular accident due to occlusion of right posterior cerebral artery by embolus (disorder)",
+                    "children": []
+                },
+                {
+                    "content": "Cerebrovascular accident due to occlusion of left middle cerebral artery by embolus (disorder)",
+                    "children": []
+                },
+                {
+                    "content": "Cerebrovascular accident due to occlusion of right middle cerebral artery by embolus (disorder)",
+                    "children": []
+                },
+                {
+                    "content": "Cerebral ischemic stroke due to aortic arch embolism (disorder)",
+                    "children": []
+                },
+                {
+                    "content": "Cardioembolic stroke (disorder)",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "content": "Thrombotic stroke (disorder)",
+            "children": [
+                {
+                    "content": "Cerebrovascular accident due to thrombosis of left cerebellar artery (disorder)",
+                    "children": [
+                        {
+                            "content": "Cerebrovascular accident due to thrombosis of bilateral cerebellar arteries (disorder)",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebrovascular accident due to thrombosis of left posterior cerebral artery (disorder)",
+                    "children": [
+                        {
+                            "content": "Cerebrovascular accident due to thrombosis of bilateral posterior cerebral arteries (disorder)",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebrovascular accident due to thrombosis of left vertebral artery (disorder)",
+                    "children": [
+                        {
+                            "content": "Cerebrovascular accident due to thrombosis of bilateral vertebral arteries (disorder)",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebrovascular accident due to thrombosis of right vertebral artery (disorder)",
+                    "children": [
+                        {
+                            "content": "Cerebrovascular accident due to thrombosis of bilateral vertebral arteries (disorder)",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebrovascular accident due to thrombosis of right cerebellar artery (disorder)",
+                    "children": [
+                        {
+                            "content": "Cerebrovascular accident due to thrombosis of bilateral cerebellar arteries (disorder)",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebrovascular accident due to thrombosis of right posterior cerebral artery (disorder)",
+                    "children": [
+                        {
+                            "content": "Cerebrovascular accident due to thrombosis of bilateral posterior cerebral arteries (disorder)",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebrovascular accident due to thrombus of left middle cerebral artery (disorder)",
+                    "children": []
+                },
+                {
+                    "content": "Cerebrovascular accident due to thrombus of right middle cerebral artery (disorder)",
+                    "children": []
+                },
+                {
+                    "content": "Cerebrovascular accident due to thrombus of left carotid artery (disorder)",
+                    "children": [
+                        {
+                            "content": "Cerebrovascular accident due to thrombosis of bilateral carotid arteries (disorder)",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebrovascular accident due to thrombus of right carotid artery (disorder)",
+                    "children": [
+                        {
+                            "content": "Cerebrovascular accident due to thrombosis of bilateral carotid arteries (disorder)",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebrovascular accident due to thrombus of basilar artery (disorder)",
+                    "children": []
+                },
+                {
+                    "content": "Cerebrovascular accident due to thrombosis of anterior cerebral artery (disorder)",
+                    "children": [
+                        {
+                            "content": "Cerebrovascular accident due to thrombosis of right anterior cerebral artery (disorder)",
+                            "children": []
+                        },
+                        {
+                            "content": "Cerebrovascular accident due to thrombosis of left anterior cerebral artery (disorder)",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebellar stroke syndrome (disorder)",
+                    "children": [
+                        {
+                            "content": "Superior cerebellar artery syndrome (disorder)",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "content": "Extension of cerebrovascular accident (disorder)",
+            "children": []
+        },
+        {
+            "content": "Stroke in the puerperium (disorder)",
+            "children": []
+        },
+        {
+            "content": "Stroke of uncertain pathology (disorder)",
+            "children": [
+                {
+                    "content": "Posterior circulation stroke of uncertain pathology (disorder)",
+                    "children": []
+                },
+                {
+                    "content": "Anterior circulation stroke of uncertain pathology (disorder)",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "content": "Cerebrovascular accident due to occlusion of cerebral artery (disorder)",
+            "children": [
+                {
+                    "content": "Cerebrovascular accident due to occlusion of right anterior cerebral artery (disorder)",
+                    "children": [
+                        {
+                            "content": "Cerebrovascular accident due to occlusion of bilateral anterior cerebral arteries (disorder)",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebrovascular accident due to occlusion of left anterior cerebral artery (disorder)",
+                    "children": [
+                        {
+                            "content": "Cerebrovascular accident due to occlusion of bilateral anterior cerebral arteries (disorder)",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebrovascular accident due to occlusion of left middle cerebral artery (disorder)",
+                    "children": [
+                        {
+                            "content": "Cerebrovascular accident due to occlusion of bilateral middle cerebral arteries (disorder)",
+                            "children": []
+                        },
+                        {
+                            "content": "Cerebrovascular accident due to occlusion of left middle cerebral artery by embolus (disorder)",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebrovascular accident due to occlusion of right middle cerebral artery (disorder)",
+                    "children": [
+                        {
+                            "content": "Cerebrovascular accident due to occlusion of bilateral middle cerebral arteries (disorder)",
+                            "children": []
+                        },
+                        {
+                            "content": "Cerebrovascular accident due to occlusion of right middle cerebral artery by embolus (disorder)",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebrovascular accident due to occlusion of right posterior cerebral artery (disorder)",
+                    "children": [
+                        {
+                            "content": "Cerebrovascular accident due to occlusion of bilateral posterior cerebral arteries (disorder)",
+                            "children": []
+                        },
+                        {
+                            "content": "Cerebrovascular accident due to occlusion of right posterior cerebral artery by embolus (disorder)",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebrovascular accident due to occlusion of left posterior cerebral artery (disorder)",
+                    "children": [
+                        {
+                            "content": "Cerebrovascular accident due to occlusion of bilateral posterior cerebral arteries (disorder)",
+                            "children": []
+                        },
+                        {
+                            "content": "Cerebrovascular accident due to occlusion of left posterior cerebral artery by embolus (disorder)",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebral ischemic stroke due to small artery occlusion (disorder)",
+                    "children": []
+                },
+                {
+                    "content": "Claude's syndrome (disorder)",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "content": "Right sided cerebral hemisphere cerebrovascular accident (disorder)",
+            "children": []
+        },
+        {
+            "content": "Left sided cerebral hemisphere cerebrovascular accident (disorder)",
+            "children": []
+        },
+        {
+            "content": "Brainstem stroke syndrome (disorder)",
+            "children": [
+                {
+                    "content": "Millard-Gubler syndrome (disorder)",
+                    "children": []
+                },
+                {
+                    "content": "Foville syndrome (disorder)",
+                    "children": []
+                },
+                {
+                    "content": "Claude's syndrome (disorder)",
+                    "children": []
+                },
+                {
+                    "content": "Posterior inferior cerebellar artery syndrome (disorder)",
+                    "children": []
+                },
+                {
+                    "content": "Weber-Gubler syndrome (disorder)",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "content": "Posterior cerebral artery syndrome (disorder)",
+            "children": []
+        },
+        {
+            "content": "Anterior cerebral artery syndrome (disorder)",
+            "children": []
+        },
+        {
+            "content": "Middle cerebral artery syndrome (disorder)",
+            "children": [
+                {
+                    "content": "Malignant middle cerebral artery syndrome (disorder)",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "content": "Paralytic stroke (disorder)",
+            "children": []
+        },
+        {
+            "content": "Nonparalytic stroke (disorder)",
+            "children": []
+        },
+        {
+            "content": "Progressing stroke (disorder)",
+            "children": []
+        },
+        {
+            "content": "Multi-infarct dementia (disorder)",
+            "children": [
+                {
+                    "content": "Behavioral disturbance due to multi-infarct dementia (disorder)",
+                    "children": []
+                },
+                {
+                    "content": "Multi-infarct dementia due to atherosclerosis (disorder)",
+                    "children": []
+                },
+                {
+                    "content": "Multi-infarct dementia, uncomplicated (disorder)",
+                    "children": []
+                },
+                {
+                    "content": "Multi-infarct dementia with delusions (disorder)",
+                    "children": []
+                },
+                {
+                    "content": "Multi-infarct dementia with depression (disorder)",
+                    "children": []
+                },
+                {
+                    "content": "Multi-infarct dementia with delirium (disorder)",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "content": "Juvenile myopathy, encephalopathy, lactic acidosis, stroke (disorder)",
+            "children": []
+        },
+        {
+            "content": "Completed stroke (disorder)",
+            "children": []
+        }
+    ]
+}

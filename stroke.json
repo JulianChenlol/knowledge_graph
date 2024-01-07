@@ -1,0 +1,4198 @@
+{
+    "content": "stroke",
+    "children": [
+        {
+            "content": "Cerebrovascular accident due to occlusion of right posterior communicating artery",
+            "children": [],
+            "relationships": [
+                {
+                    "type": "Is a",
+                    "target": "Disease"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Cerebrovascular system structure"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Brain structure"
+                },
+                {
+                    "type": "Associated morphology",
+                    "target": "Damage"
+                }
+            ]
+        },
+        {
+            "content": "Cerebrovascular accident of thalamus",
+            "children": [],
+            "relationships": [
+                {
+                    "type": "Is a",
+                    "target": "Disease"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Cerebrovascular system structure"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Brain structure"
+                },
+                {
+                    "type": "Associated morphology",
+                    "target": "Damage"
+                }
+            ]
+        },
+        {
+            "content": "Cerebrovascular accident of brainstem",
+            "children": [
+                {
+                    "content": "Cerebrovascular accident of medulla oblongata",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Clinical course",
+                            "target": "Sudden onset AND/OR short duration"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brainstem structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Damage"
+                        }
+                    ]
+                }
+            ],
+            "relationships": [
+                {
+                    "type": "Is a",
+                    "target": "Disease"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Cerebrovascular system structure"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Brain structure"
+                },
+                {
+                    "type": "Associated morphology",
+                    "target": "Damage"
+                }
+            ]
+        },
+        {
+            "content": "Cerebrovascular accident of basal ganglia",
+            "children": [],
+            "relationships": [
+                {
+                    "type": "Is a",
+                    "target": "Disease"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Cerebrovascular system structure"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Brain structure"
+                },
+                {
+                    "type": "Associated morphology",
+                    "target": "Damage"
+                }
+            ]
+        },
+        {
+            "content": "Cerebrovascular accident due to occlusion of basilar artery",
+            "children": [],
+            "relationships": [
+                {
+                    "type": "Is a",
+                    "target": "Disease"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Cerebrovascular system structure"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Brain structure"
+                },
+                {
+                    "type": "Associated morphology",
+                    "target": "Damage"
+                }
+            ]
+        },
+        {
+            "content": "Cerebrovascular accident due to occlusion of left posterior communicating artery",
+            "children": [],
+            "relationships": [
+                {
+                    "type": "Is a",
+                    "target": "Disease"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Cerebrovascular system structure"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Brain structure"
+                },
+                {
+                    "type": "Associated morphology",
+                    "target": "Damage"
+                }
+            ]
+        },
+        {
+            "content": "Cerebellar stroke",
+            "children": [],
+            "relationships": [
+                {
+                    "type": "Is a",
+                    "target": "Disease"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Cerebrovascular system structure"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Brain structure"
+                },
+                {
+                    "type": "Associated morphology",
+                    "target": "Damage"
+                }
+            ]
+        },
+        {
+            "content": "Cerebrovascular accident due to left carotid artery stenosis",
+            "children": [
+                {
+                    "content": "Cerebrovascular accident due to stenosis of bilateral carotid arteries",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Left carotid artery stenosis"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Damage"
+                        }
+                    ]
+                }
+            ],
+            "relationships": [
+                {
+                    "type": "Is a",
+                    "target": "Disease"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Cerebrovascular system structure"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Brain structure"
+                },
+                {
+                    "type": "Associated morphology",
+                    "target": "Damage"
+                }
+            ]
+        },
+        {
+            "content": "Cerebrovascular accident due to right carotid artery stenosis",
+            "children": [
+                {
+                    "content": "Cerebrovascular accident due to stenosis of bilateral carotid arteries",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Right carotid artery stenosis"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Damage"
+                        }
+                    ]
+                }
+            ],
+            "relationships": [
+                {
+                    "type": "Is a",
+                    "target": "Disease"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Cerebrovascular system structure"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Brain structure"
+                },
+                {
+                    "type": "Associated morphology",
+                    "target": "Damage"
+                }
+            ]
+        },
+        {
+            "content": "Cerebrovascular accident due to occlusion of right cerebellar artery",
+            "children": [
+                {
+                    "content": "Cerebrovascular accident due to occlusion of bilateral cerebellar arteries",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Occlusion of right cerebellar artery"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Damage"
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebrovascular accident due to occlusion of right cerebellar artery by embolus",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Occlusion of right cerebellar artery"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Damage"
+                        }
+                    ]
+                }
+            ],
+            "relationships": [
+                {
+                    "type": "Is a",
+                    "target": "Disease"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Cerebrovascular system structure"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Brain structure"
+                },
+                {
+                    "type": "Associated morphology",
+                    "target": "Damage"
+                }
+            ]
+        },
+        {
+            "content": "Cerebrovascular accident due to occlusion of left cerebellar artery",
+            "children": [
+                {
+                    "content": "Cerebrovascular accident due to occlusion of bilateral cerebellar arteries",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Occlusion of left cerebellar artery"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Damage"
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebrovascular accident due to occlusion of left cerebellar artery by embolus",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Occlusion of left cerebellar artery"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Damage"
+                        }
+                    ]
+                }
+            ],
+            "relationships": [
+                {
+                    "type": "Is a",
+                    "target": "Disease"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Cerebrovascular system structure"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Brain structure"
+                },
+                {
+                    "type": "Associated morphology",
+                    "target": "Damage"
+                }
+            ]
+        },
+        {
+            "content": "Cerebrovascular accident due to occlusion of left carotid artery",
+            "children": [
+                {
+                    "content": "Cerebrovascular accident due to occlusion of bilateral carotid arteries",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Left carotid artery occlusion"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Damage"
+                        }
+                    ]
+                }
+            ],
+            "relationships": [
+                {
+                    "type": "Is a",
+                    "target": "Disease"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Cerebrovascular system structure"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Brain structure"
+                },
+                {
+                    "type": "Associated morphology",
+                    "target": "Damage"
+                }
+            ]
+        },
+        {
+            "content": "Cerebrovascular accident due to occlusion of right pontine artery",
+            "children": [
+                {
+                    "content": "Cerebrovascular accident due to occlusion of bilateral pontine arteries",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Occlusion of right pontine artery"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Damage"
+                        }
+                    ]
+                }
+            ],
+            "relationships": [
+                {
+                    "type": "Is a",
+                    "target": "Disease"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Cerebrovascular system structure"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Brain structure"
+                },
+                {
+                    "type": "Associated morphology",
+                    "target": "Damage"
+                }
+            ]
+        },
+        {
+            "content": "Cerebrovascular accident due to occlusion of left pontine artery",
+            "children": [
+                {
+                    "content": "Cerebrovascular accident due to occlusion of bilateral pontine arteries",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Occlusion of left pontine artery"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Damage"
+                        }
+                    ]
+                }
+            ],
+            "relationships": [
+                {
+                    "type": "Is a",
+                    "target": "Disease"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Cerebrovascular system structure"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Brain structure"
+                },
+                {
+                    "type": "Associated morphology",
+                    "target": "Damage"
+                }
+            ]
+        },
+        {
+            "content": "Cerebrovascular accident due to right carotid artery occlusion",
+            "children": [
+                {
+                    "content": "Cerebrovascular accident due to occlusion of bilateral carotid arteries",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Right carotid artery occlusion"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Damage"
+                        }
+                    ]
+                }
+            ],
+            "relationships": [
+                {
+                    "type": "Is a",
+                    "target": "Disease"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Cerebrovascular system structure"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Brain structure"
+                },
+                {
+                    "type": "Associated morphology",
+                    "target": "Damage"
+                }
+            ]
+        },
+        {
+            "content": "Cerebrovascular accident following heart procedure",
+            "children": [],
+            "relationships": [
+                {
+                    "type": "Is a",
+                    "target": "Disease"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Cerebrovascular system structure"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Brain structure"
+                },
+                {
+                    "type": "Associated morphology",
+                    "target": "Damage"
+                }
+            ]
+        },
+        {
+            "content": "Cerebrovascular accident due to occlusion of left vertebral artery",
+            "children": [
+                {
+                    "content": "Cerebrovascular accident due to occlusion of bilateral vertebral arteries",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Occlusion of left vertebral artery"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Damage"
+                        }
+                    ]
+                }
+            ],
+            "relationships": [
+                {
+                    "type": "Is a",
+                    "target": "Disease"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Cerebrovascular system structure"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Brain structure"
+                },
+                {
+                    "type": "Associated morphology",
+                    "target": "Damage"
+                }
+            ]
+        },
+        {
+            "content": "Cerebrovascular accident due to right vertebral artery occlusion",
+            "children": [
+                {
+                    "content": "Cerebrovascular accident due to occlusion of bilateral vertebral arteries",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Occlusion of right vertebral artery"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Damage"
+                        }
+                    ]
+                }
+            ],
+            "relationships": [
+                {
+                    "type": "Is a",
+                    "target": "Disease"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Cerebrovascular system structure"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Brain structure"
+                },
+                {
+                    "type": "Associated morphology",
+                    "target": "Damage"
+                }
+            ]
+        },
+        {
+            "content": "Cerebrovascular accident due to stenosis of left vertebral artery",
+            "children": [
+                {
+                    "content": "Cerebrovascular accident due to stenosis of bilateral vertebral arteries",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Stenosis of left vertebral artery"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Damage"
+                        }
+                    ]
+                }
+            ],
+            "relationships": [
+                {
+                    "type": "Is a",
+                    "target": "Disease"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Cerebrovascular system structure"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Brain structure"
+                },
+                {
+                    "type": "Associated morphology",
+                    "target": "Damage"
+                }
+            ]
+        },
+        {
+            "content": "Cerebrovascular accident due to stenosis of right vertebral artery",
+            "children": [
+                {
+                    "content": "Cerebrovascular accident due to stenosis of bilateral vertebral arteries",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Stenosis of right vertebral artery"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Damage"
+                        }
+                    ]
+                }
+            ],
+            "relationships": [
+                {
+                    "type": "Is a",
+                    "target": "Disease"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Cerebrovascular system structure"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Brain structure"
+                },
+                {
+                    "type": "Associated morphology",
+                    "target": "Damage"
+                }
+            ]
+        },
+        {
+            "content": "Cerebral infarction due to stenosis of carotid artery",
+            "children": [],
+            "relationships": [
+                {
+                    "type": "Is a",
+                    "target": "Disease"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Cerebrovascular system structure"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Brain structure"
+                },
+                {
+                    "type": "Associated morphology",
+                    "target": "Damage"
+                }
+            ]
+        },
+        {
+            "content": "Occlusion of cerebral artery with stroke",
+            "children": [
+                {
+                    "content": "Malignant middle cerebral artery syndrome",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Damage"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Structure of cerebral artery"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Complete obstruction"
+                        }
+                    ]
+                }
+            ],
+            "relationships": [
+                {
+                    "type": "Is a",
+                    "target": "Disease"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Cerebrovascular system structure"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Brain structure"
+                },
+                {
+                    "type": "Associated morphology",
+                    "target": "Damage"
+                }
+            ]
+        },
+        {
+            "content": "Cerebrovascular accident with intracranial hemorrhage",
+            "children": [
+                {
+                    "content": "Traumatic subarachnoid hemorrhage with loss of consciousness",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Damage"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Intracranial structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Hemorrhage"
+                        }
+                    ]
+                }
+            ],
+            "relationships": [
+                {
+                    "type": "Is a",
+                    "target": "Disease"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Cerebrovascular system structure"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Brain structure"
+                },
+                {
+                    "type": "Associated morphology",
+                    "target": "Damage"
+                }
+            ]
+        },
+        {
+            "content": "Cerebrovascular accident due to occlusion of anterior choroidal artery",
+            "children": [
+                {
+                    "content": "Cerebrovascular accident due to occlusion of right anterior choroidal artery",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Occlusion of anterior choroidal artery"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Damage"
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebrovascular accident due to occlusion of left anterior choroidal artery",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Occlusion of anterior choroidal artery"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Damage"
+                        }
+                    ]
+                }
+            ],
+            "relationships": [
+                {
+                    "type": "Is a",
+                    "target": "Disease"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Cerebrovascular system structure"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Brain structure"
+                },
+                {
+                    "type": "Associated morphology",
+                    "target": "Damage"
+                }
+            ]
+        },
+        {
+            "content": "Cerebral ischemic stroke due to subarachnoid hemorrhage",
+            "children": [],
+            "relationships": [
+                {
+                    "type": "Is a",
+                    "target": "Disease"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Cerebrovascular system structure"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Brain structure"
+                },
+                {
+                    "type": "Associated morphology",
+                    "target": "Damage"
+                }
+            ]
+        },
+        {
+            "content": "Cerebral ischemic stroke due to hypercoagulable state",
+            "children": [],
+            "relationships": [
+                {
+                    "type": "Is a",
+                    "target": "Disease"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Cerebrovascular system structure"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Brain structure"
+                },
+                {
+                    "type": "Associated morphology",
+                    "target": "Damage"
+                }
+            ]
+        },
+        {
+            "content": "Cerebral ischemic stroke due to global hypoperfusion with watershed infarct",
+            "children": [],
+            "relationships": [
+                {
+                    "type": "Is a",
+                    "target": "Disease"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Cerebrovascular system structure"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Brain structure"
+                },
+                {
+                    "type": "Associated morphology",
+                    "target": "Damage"
+                }
+            ]
+        },
+        {
+            "content": "Cerebral ischemic stroke due to dissection of artery",
+            "children": [],
+            "relationships": [
+                {
+                    "type": "Is a",
+                    "target": "Disease"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Cerebrovascular system structure"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Brain structure"
+                },
+                {
+                    "type": "Associated morphology",
+                    "target": "Damage"
+                }
+            ]
+        },
+        {
+            "content": "Stroke co-occurrent with migraine",
+            "children": [],
+            "relationships": [
+                {
+                    "type": "Is a",
+                    "target": "Disease"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Cerebrovascular system structure"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Brain structure"
+                },
+                {
+                    "type": "Associated morphology",
+                    "target": "Damage"
+                }
+            ]
+        },
+        {
+            "content": "CVA (cerebrovascular accident) during surgery",
+            "children": [],
+            "relationships": [
+                {
+                    "type": "Is a",
+                    "target": "Disease"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Cerebrovascular system structure"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Brain structure"
+                },
+                {
+                    "type": "Associated morphology",
+                    "target": "Damage"
+                }
+            ]
+        },
+        {
+            "content": "Ischemic stroke",
+            "children": [
+                {
+                    "content": "Cryptogenic stroke",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Ischemia"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Infarct"
+                        }
+                    ]
+                },
+                {
+                    "content": "Ischemic stroke without coma",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Ischemia"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Infarct"
+                        }
+                    ]
+                },
+                {
+                    "content": "Ischemic stroke with coma",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Ischemia"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Infarct"
+                        }
+                    ]
+                },
+                {
+                    "content": "Pediatric arterial ischemic stroke",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Ischemia"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Infarct"
+                        }
+                    ]
+                },
+                {
+                    "content": "Neonatal ischemic stroke",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Ischemia"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Infarct"
+                        }
+                    ]
+                },
+                {
+                    "content": "Ischemic stroke without residual deficits",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Ischemia"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Infarct"
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebral ischemic stroke due to stenosis of extracranial large artery",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Ischemia"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Infarct"
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebral ischemic stroke due to occlusion of extracranial large artery",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Ischemia"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Infarct"
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebral ischemic stroke due to extracranial large artery atherosclerosis",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Ischemia"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Infarct"
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebral ischemic stroke due to intracranial large artery atherosclerosis",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Ischemia"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Infarct"
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebral ischemic stroke due to small artery occlusion",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Ischemia"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Infarct"
+                        }
+                    ]
+                },
+                {
+                    "content": "Perinatal arterial ischemic stroke of fetus and/or neonate",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Ischemia"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Infarct"
+                        }
+                    ]
+                },
+                {
+                    "content": "Occlusive stroke",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Ischemia"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Infarct"
+                        }
+                    ]
+                }
+            ],
+            "relationships": [
+                {
+                    "type": "Is a",
+                    "target": "Disease"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Cerebrovascular system structure"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Brain structure"
+                },
+                {
+                    "type": "Associated morphology",
+                    "target": "Damage"
+                }
+            ]
+        },
+        {
+            "content": "Periventricular hemorrhagic venous infarct",
+            "children": [],
+            "relationships": [
+                {
+                    "type": "Is a",
+                    "target": "Disease"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Cerebrovascular system structure"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Brain structure"
+                },
+                {
+                    "type": "Associated morphology",
+                    "target": "Damage"
+                }
+            ]
+        },
+        {
+            "content": "Neonatal stroke",
+            "children": [
+                {
+                    "content": "Neonatal ischemic stroke",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Cerebrovascular accident"
+                        },
+                        {
+                            "type": "Occurrence",
+                            "target": "Neonatal"
+                        }
+                    ]
+                }
+            ],
+            "relationships": [
+                {
+                    "type": "Is a",
+                    "target": "Disease"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Cerebrovascular system structure"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Brain structure"
+                },
+                {
+                    "type": "Associated morphology",
+                    "target": "Damage"
+                }
+            ]
+        },
+        {
+            "content": "Embolic stroke",
+            "children": [
+                {
+                    "content": "Cerebrovascular accident due to embolism of bilateral middle cerebral arteries",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Embolism"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Damage"
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebrovascular accident due to embolism of basilar artery",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Embolism"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Damage"
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebrovascular accident due to embolism of left carotid artery",
+                    "children": [
+                        {
+                            "content": "Cerebrovascular accident due to embolism of bilateral carotid arteries",
+                            "children": [],
+                            "relationships": [
+                                {
+                                    "type": "Is a",
+                                    "target": "Disease"
+                                },
+                                {
+                                    "type": "Clinical course",
+                                    "target": "Sudden onset AND/OR short duration"
+                                },
+                                {
+                                    "type": "Due to",
+                                    "target": "Embolism of left carotid artery"
+                                },
+                                {
+                                    "type": "Finding site",
+                                    "target": "Cerebrovascular system structure"
+                                },
+                                {
+                                    "type": "Finding site",
+                                    "target": "Brain structure"
+                                },
+                                {
+                                    "type": "Associated morphology",
+                                    "target": "Damage"
+                                }
+                            ]
+                        }
+                    ],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Embolism"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Damage"
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebrovascular accident due to embolism of right anterior cerebral artery",
+                    "children": [
+                        {
+                            "content": "Cerebrovascular accident due to embolism of bilateral anterior cerebral arteries",
+                            "children": [],
+                            "relationships": [
+                                {
+                                    "type": "Is a",
+                                    "target": "Disease"
+                                },
+                                {
+                                    "type": "Clinical course",
+                                    "target": "Sudden onset AND/OR short duration"
+                                },
+                                {
+                                    "type": "Due to",
+                                    "target": "Embolism of right anterior cerebral artery"
+                                },
+                                {
+                                    "type": "Finding site",
+                                    "target": "Cerebrovascular system structure"
+                                },
+                                {
+                                    "type": "Finding site",
+                                    "target": "Brain structure"
+                                },
+                                {
+                                    "type": "Associated morphology",
+                                    "target": "Damage"
+                                }
+                            ]
+                        }
+                    ],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Embolism"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Damage"
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebrovascular accident due to embolism of right vertebral artery",
+                    "children": [
+                        {
+                            "content": "Cerebrovascular accident due to embolism of bilateral vertebral arteries",
+                            "children": [],
+                            "relationships": [
+                                {
+                                    "type": "Is a",
+                                    "target": "Disease"
+                                },
+                                {
+                                    "type": "Clinical course",
+                                    "target": "Sudden onset AND/OR short duration"
+                                },
+                                {
+                                    "type": "Due to",
+                                    "target": "Embolism of right vertebral artery"
+                                },
+                                {
+                                    "type": "Finding site",
+                                    "target": "Cerebrovascular system structure"
+                                },
+                                {
+                                    "type": "Finding site",
+                                    "target": "Brain structure"
+                                },
+                                {
+                                    "type": "Associated morphology",
+                                    "target": "Damage"
+                                }
+                            ]
+                        }
+                    ],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Embolism"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Damage"
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebrovascular accident due to embolism of left vertebral artery",
+                    "children": [
+                        {
+                            "content": "Cerebrovascular accident due to embolism of bilateral vertebral arteries",
+                            "children": [],
+                            "relationships": [
+                                {
+                                    "type": "Is a",
+                                    "target": "Disease"
+                                },
+                                {
+                                    "type": "Clinical course",
+                                    "target": "Sudden onset AND/OR short duration"
+                                },
+                                {
+                                    "type": "Due to",
+                                    "target": "Embolism of left vertebral artery"
+                                },
+                                {
+                                    "type": "Finding site",
+                                    "target": "Cerebrovascular system structure"
+                                },
+                                {
+                                    "type": "Finding site",
+                                    "target": "Brain structure"
+                                },
+                                {
+                                    "type": "Associated morphology",
+                                    "target": "Damage"
+                                }
+                            ]
+                        }
+                    ],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Embolism"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Damage"
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebrovascular accident due to embolism of right carotid artery",
+                    "children": [
+                        {
+                            "content": "Cerebrovascular accident due to embolism of bilateral carotid arteries",
+                            "children": [],
+                            "relationships": [
+                                {
+                                    "type": "Is a",
+                                    "target": "Disease"
+                                },
+                                {
+                                    "type": "Clinical course",
+                                    "target": "Sudden onset AND/OR short duration"
+                                },
+                                {
+                                    "type": "Due to",
+                                    "target": "Embolism of right carotid artery"
+                                },
+                                {
+                                    "type": "Finding site",
+                                    "target": "Cerebrovascular system structure"
+                                },
+                                {
+                                    "type": "Finding site",
+                                    "target": "Brain structure"
+                                },
+                                {
+                                    "type": "Associated morphology",
+                                    "target": "Damage"
+                                }
+                            ]
+                        }
+                    ],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Embolism"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Damage"
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebrovascular accident due to embolism of left anterior cerebral artery",
+                    "children": [
+                        {
+                            "content": "Cerebrovascular accident due to embolism of bilateral anterior cerebral arteries",
+                            "children": [],
+                            "relationships": [
+                                {
+                                    "type": "Is a",
+                                    "target": "Disease"
+                                },
+                                {
+                                    "type": "Clinical course",
+                                    "target": "Sudden onset AND/OR short duration"
+                                },
+                                {
+                                    "type": "Due to",
+                                    "target": "Embolism of left anterior cerebral artery"
+                                },
+                                {
+                                    "type": "Finding site",
+                                    "target": "Cerebrovascular system structure"
+                                },
+                                {
+                                    "type": "Finding site",
+                                    "target": "Brain structure"
+                                },
+                                {
+                                    "type": "Associated morphology",
+                                    "target": "Damage"
+                                }
+                            ]
+                        }
+                    ],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Embolism"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Damage"
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebrovascular accident due to embolism of bilateral posterior cerebral arteries",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Embolism"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Damage"
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebrovascular accident due to embolism of bilateral cerebellar arteries",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Embolism"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Damage"
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebrovascular accident due to occlusion of left cerebellar artery by embolus",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Embolism"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Damage"
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebrovascular accident due to occlusion of right cerebellar artery by embolus",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Embolism"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Damage"
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebrovascular accident due to occlusion of left posterior cerebral artery by embolus",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Embolism"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Damage"
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebrovascular accident due to occlusion of right posterior cerebral artery by embolus",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Embolism"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Damage"
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebrovascular accident due to occlusion of left middle cerebral artery by embolus",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Embolism"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Damage"
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebrovascular accident due to occlusion of right middle cerebral artery by embolus",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Embolism"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Damage"
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebral ischemic stroke due to aortic arch embolism",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Embolism"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Damage"
+                        }
+                    ]
+                },
+                {
+                    "content": "Cardioembolic stroke",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Embolism"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Damage"
+                        }
+                    ]
+                }
+            ],
+            "relationships": [
+                {
+                    "type": "Is a",
+                    "target": "Disease"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Cerebrovascular system structure"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Brain structure"
+                },
+                {
+                    "type": "Associated morphology",
+                    "target": "Damage"
+                }
+            ]
+        },
+        {
+            "content": "Thrombotic stroke",
+            "children": [
+                {
+                    "content": "Cerebrovascular accident due to thrombosis of left cerebellar artery",
+                    "children": [
+                        {
+                            "content": "Cerebrovascular accident due to thrombosis of bilateral cerebellar arteries",
+                            "children": [],
+                            "relationships": [
+                                {
+                                    "type": "Is a",
+                                    "target": "Disease"
+                                },
+                                {
+                                    "type": "Clinical course",
+                                    "target": "Sudden onset AND/OR short duration"
+                                },
+                                {
+                                    "type": "Due to",
+                                    "target": "Left cerebellar artery thrombosis"
+                                },
+                                {
+                                    "type": "Finding site",
+                                    "target": "Cerebrovascular system structure"
+                                },
+                                {
+                                    "type": "Finding site",
+                                    "target": "Brain structure"
+                                },
+                                {
+                                    "type": "Associated morphology",
+                                    "target": "Damage"
+                                }
+                            ]
+                        }
+                    ],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Arterial thrombosis"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Damage"
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebrovascular accident due to thrombosis of left posterior cerebral artery",
+                    "children": [
+                        {
+                            "content": "Cerebrovascular accident due to thrombosis of bilateral posterior cerebral arteries",
+                            "children": [],
+                            "relationships": [
+                                {
+                                    "type": "Is a",
+                                    "target": "Disease"
+                                },
+                                {
+                                    "type": "Clinical course",
+                                    "target": "Sudden onset AND/OR short duration"
+                                },
+                                {
+                                    "type": "Due to",
+                                    "target": "Left posterior cerebral artery thrombosis"
+                                },
+                                {
+                                    "type": "Finding site",
+                                    "target": "Cerebrovascular system structure"
+                                },
+                                {
+                                    "type": "Finding site",
+                                    "target": "Brain structure"
+                                },
+                                {
+                                    "type": "Associated morphology",
+                                    "target": "Damage"
+                                }
+                            ]
+                        }
+                    ],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Arterial thrombosis"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Damage"
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebrovascular accident due to thrombosis of left vertebral artery",
+                    "children": [
+                        {
+                            "content": "Cerebrovascular accident due to thrombosis of bilateral vertebral arteries",
+                            "children": [],
+                            "relationships": [
+                                {
+                                    "type": "Is a",
+                                    "target": "Disease"
+                                },
+                                {
+                                    "type": "Clinical course",
+                                    "target": "Sudden onset AND/OR short duration"
+                                },
+                                {
+                                    "type": "Due to",
+                                    "target": "Thrombosis of left vertebral artery"
+                                },
+                                {
+                                    "type": "Finding site",
+                                    "target": "Cerebrovascular system structure"
+                                },
+                                {
+                                    "type": "Finding site",
+                                    "target": "Brain structure"
+                                },
+                                {
+                                    "type": "Associated morphology",
+                                    "target": "Damage"
+                                }
+                            ]
+                        }
+                    ],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Arterial thrombosis"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Damage"
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebrovascular accident due to thrombosis of right vertebral artery",
+                    "children": [
+                        {
+                            "content": "Cerebrovascular accident due to thrombosis of bilateral vertebral arteries",
+                            "children": [],
+                            "relationships": [
+                                {
+                                    "type": "Is a",
+                                    "target": "Disease"
+                                },
+                                {
+                                    "type": "Clinical course",
+                                    "target": "Sudden onset AND/OR short duration"
+                                },
+                                {
+                                    "type": "Due to",
+                                    "target": "Thrombosis of right vertebral artery"
+                                },
+                                {
+                                    "type": "Finding site",
+                                    "target": "Cerebrovascular system structure"
+                                },
+                                {
+                                    "type": "Finding site",
+                                    "target": "Brain structure"
+                                },
+                                {
+                                    "type": "Associated morphology",
+                                    "target": "Damage"
+                                }
+                            ]
+                        }
+                    ],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Arterial thrombosis"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Damage"
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebrovascular accident due to thrombosis of right cerebellar artery",
+                    "children": [
+                        {
+                            "content": "Cerebrovascular accident due to thrombosis of bilateral cerebellar arteries",
+                            "children": [],
+                            "relationships": [
+                                {
+                                    "type": "Is a",
+                                    "target": "Disease"
+                                },
+                                {
+                                    "type": "Clinical course",
+                                    "target": "Sudden onset AND/OR short duration"
+                                },
+                                {
+                                    "type": "Due to",
+                                    "target": "Right cerebellar artery thrombosis"
+                                },
+                                {
+                                    "type": "Finding site",
+                                    "target": "Cerebrovascular system structure"
+                                },
+                                {
+                                    "type": "Finding site",
+                                    "target": "Brain structure"
+                                },
+                                {
+                                    "type": "Associated morphology",
+                                    "target": "Damage"
+                                }
+                            ]
+                        }
+                    ],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Arterial thrombosis"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Damage"
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebrovascular accident due to thrombosis of right posterior cerebral artery",
+                    "children": [
+                        {
+                            "content": "Cerebrovascular accident due to thrombosis of bilateral posterior cerebral arteries",
+                            "children": [],
+                            "relationships": [
+                                {
+                                    "type": "Is a",
+                                    "target": "Disease"
+                                },
+                                {
+                                    "type": "Clinical course",
+                                    "target": "Sudden onset AND/OR short duration"
+                                },
+                                {
+                                    "type": "Due to",
+                                    "target": "Right posterior cerebral artery thrombosis"
+                                },
+                                {
+                                    "type": "Finding site",
+                                    "target": "Cerebrovascular system structure"
+                                },
+                                {
+                                    "type": "Finding site",
+                                    "target": "Brain structure"
+                                },
+                                {
+                                    "type": "Associated morphology",
+                                    "target": "Damage"
+                                }
+                            ]
+                        }
+                    ],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Arterial thrombosis"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Damage"
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebrovascular accident due to thrombus of left middle cerebral artery",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Arterial thrombosis"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Damage"
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebrovascular accident due to thrombus of right middle cerebral artery",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Arterial thrombosis"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Damage"
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebrovascular accident due to thrombus of left carotid artery",
+                    "children": [
+                        {
+                            "content": "Cerebrovascular accident due to thrombosis of bilateral carotid arteries",
+                            "children": [],
+                            "relationships": [
+                                {
+                                    "type": "Is a",
+                                    "target": "Disease"
+                                },
+                                {
+                                    "type": "Due to",
+                                    "target": "Thrombosis of left carotid artery"
+                                },
+                                {
+                                    "type": "Finding site",
+                                    "target": "Cerebrovascular system structure"
+                                },
+                                {
+                                    "type": "Finding site",
+                                    "target": "Brain structure"
+                                },
+                                {
+                                    "type": "Associated morphology",
+                                    "target": "Damage"
+                                }
+                            ]
+                        }
+                    ],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Arterial thrombosis"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Damage"
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebrovascular accident due to thrombus of right carotid artery",
+                    "children": [
+                        {
+                            "content": "Cerebrovascular accident due to thrombosis of bilateral carotid arteries",
+                            "children": [],
+                            "relationships": [
+                                {
+                                    "type": "Is a",
+                                    "target": "Disease"
+                                },
+                                {
+                                    "type": "Due to",
+                                    "target": "Thrombosis of right carotid artery"
+                                },
+                                {
+                                    "type": "Finding site",
+                                    "target": "Cerebrovascular system structure"
+                                },
+                                {
+                                    "type": "Finding site",
+                                    "target": "Brain structure"
+                                },
+                                {
+                                    "type": "Associated morphology",
+                                    "target": "Damage"
+                                }
+                            ]
+                        }
+                    ],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Arterial thrombosis"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Damage"
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebrovascular accident due to thrombus of basilar artery",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Arterial thrombosis"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Damage"
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebrovascular accident due to thrombosis of anterior cerebral artery",
+                    "children": [
+                        {
+                            "content": "Cerebrovascular accident due to thrombosis of right anterior cerebral artery",
+                            "children": [],
+                            "relationships": [
+                                {
+                                    "type": "Is a",
+                                    "target": "Disease"
+                                },
+                                {
+                                    "type": "Clinical course",
+                                    "target": "Sudden onset AND/OR short duration"
+                                },
+                                {
+                                    "type": "Due to",
+                                    "target": "Thrombosis of anterior cerebral artery"
+                                },
+                                {
+                                    "type": "Finding site",
+                                    "target": "Cerebrovascular system structure"
+                                },
+                                {
+                                    "type": "Finding site",
+                                    "target": "Brain structure"
+                                },
+                                {
+                                    "type": "Associated morphology",
+                                    "target": "Damage"
+                                }
+                            ]
+                        },
+                        {
+                            "content": "Cerebrovascular accident due to thrombosis of left anterior cerebral artery",
+                            "children": [],
+                            "relationships": [
+                                {
+                                    "type": "Is a",
+                                    "target": "Disease"
+                                },
+                                {
+                                    "type": "Clinical course",
+                                    "target": "Sudden onset AND/OR short duration"
+                                },
+                                {
+                                    "type": "Due to",
+                                    "target": "Thrombosis of anterior cerebral artery"
+                                },
+                                {
+                                    "type": "Finding site",
+                                    "target": "Cerebrovascular system structure"
+                                },
+                                {
+                                    "type": "Finding site",
+                                    "target": "Brain structure"
+                                },
+                                {
+                                    "type": "Associated morphology",
+                                    "target": "Damage"
+                                }
+                            ]
+                        }
+                    ],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Arterial thrombosis"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Damage"
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebellar stroke syndrome",
+                    "children": [
+                        {
+                            "content": "Superior cerebellar artery syndrome",
+                            "children": [],
+                            "relationships": [
+                                {
+                                    "type": "Is a",
+                                    "target": "Cerebellar disorder"
+                                },
+                                {
+                                    "type": "Is a",
+                                    "target": "Thrombotic stroke"
+                                },
+                                {
+                                    "type": "Due to",
+                                    "target": "Cerebellar artery thrombosis"
+                                }
+                            ]
+                        }
+                    ],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Arterial thrombosis"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Damage"
+                        }
+                    ]
+                }
+            ],
+            "relationships": [
+                {
+                    "type": "Is a",
+                    "target": "Disease"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Cerebrovascular system structure"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Brain structure"
+                },
+                {
+                    "type": "Associated morphology",
+                    "target": "Damage"
+                }
+            ]
+        },
+        {
+            "content": "Extension of cerebrovascular accident",
+            "children": [],
+            "relationships": [
+                {
+                    "type": "Is a",
+                    "target": "Disease"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Cerebrovascular system structure"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Brain structure"
+                },
+                {
+                    "type": "Associated morphology",
+                    "target": "Damage"
+                }
+            ]
+        },
+        {
+            "content": "Stroke in the puerperium",
+            "children": [],
+            "relationships": [
+                {
+                    "type": "Is a",
+                    "target": "Disease"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Cerebrovascular system structure"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Brain structure"
+                },
+                {
+                    "type": "Associated morphology",
+                    "target": "Damage"
+                }
+            ]
+        },
+        {
+            "content": "Stroke of uncertain pathology",
+            "children": [
+                {
+                    "content": "Posterior circulation stroke of uncertain pathology",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Cerebrovascular accident"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        }
+                    ]
+                },
+                {
+                    "content": "Anterior circulation stroke of uncertain pathology",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Cerebrovascular accident"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        }
+                    ]
+                }
+            ],
+            "relationships": [
+                {
+                    "type": "Is a",
+                    "target": "Disease"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Cerebrovascular system structure"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Brain structure"
+                },
+                {
+                    "type": "Associated morphology",
+                    "target": "Damage"
+                }
+            ]
+        },
+        {
+            "content": "CVA - cerebrovascular accident due to cerebral artery occlusion",
+            "children": [
+                {
+                    "content": "Cerebrovascular accident due to occlusion of right anterior cerebral artery",
+                    "children": [
+                        {
+                            "content": "Cerebrovascular accident due to occlusion of bilateral anterior cerebral arteries",
+                            "children": [],
+                            "relationships": [
+                                {
+                                    "type": "Is a",
+                                    "target": "Disease"
+                                },
+                                {
+                                    "type": "Clinical course",
+                                    "target": "Sudden onset AND/OR short duration"
+                                },
+                                {
+                                    "type": "Due to",
+                                    "target": "Occlusion of right anterior cerebral artery"
+                                },
+                                {
+                                    "type": "Finding site",
+                                    "target": "Cerebrovascular system structure"
+                                },
+                                {
+                                    "type": "Finding site",
+                                    "target": "Brain structure"
+                                },
+                                {
+                                    "type": "Associated morphology",
+                                    "target": "Damage"
+                                }
+                            ]
+                        }
+                    ],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Cerebral artery occlusion"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Damage"
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebrovascular accident due to occlusion of left anterior cerebral artery",
+                    "children": [
+                        {
+                            "content": "Cerebrovascular accident due to occlusion of bilateral anterior cerebral arteries",
+                            "children": [],
+                            "relationships": [
+                                {
+                                    "type": "Is a",
+                                    "target": "Disease"
+                                },
+                                {
+                                    "type": "Clinical course",
+                                    "target": "Sudden onset AND/OR short duration"
+                                },
+                                {
+                                    "type": "Due to",
+                                    "target": "Occlusion of left anterior cerebral artery"
+                                },
+                                {
+                                    "type": "Finding site",
+                                    "target": "Cerebrovascular system structure"
+                                },
+                                {
+                                    "type": "Finding site",
+                                    "target": "Brain structure"
+                                },
+                                {
+                                    "type": "Associated morphology",
+                                    "target": "Damage"
+                                }
+                            ]
+                        }
+                    ],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Cerebral artery occlusion"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Damage"
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebrovascular accident due to occlusion of left middle cerebral artery",
+                    "children": [
+                        {
+                            "content": "Cerebrovascular accident due to occlusion of bilateral middle cerebral arteries",
+                            "children": [],
+                            "relationships": [
+                                {
+                                    "type": "Is a",
+                                    "target": "Disease"
+                                },
+                                {
+                                    "type": "Due to",
+                                    "target": "Occlusion of left middle cerebral artery"
+                                },
+                                {
+                                    "type": "Finding site",
+                                    "target": "Cerebrovascular system structure"
+                                },
+                                {
+                                    "type": "Finding site",
+                                    "target": "Brain structure"
+                                },
+                                {
+                                    "type": "Associated morphology",
+                                    "target": "Damage"
+                                }
+                            ]
+                        },
+                        {
+                            "content": "Cerebrovascular accident due to occlusion of left middle cerebral artery by embolus",
+                            "children": [],
+                            "relationships": [
+                                {
+                                    "type": "Is a",
+                                    "target": "Disease"
+                                },
+                                {
+                                    "type": "Due to",
+                                    "target": "Occlusion of left middle cerebral artery"
+                                },
+                                {
+                                    "type": "Finding site",
+                                    "target": "Cerebrovascular system structure"
+                                },
+                                {
+                                    "type": "Finding site",
+                                    "target": "Brain structure"
+                                },
+                                {
+                                    "type": "Associated morphology",
+                                    "target": "Damage"
+                                }
+                            ]
+                        }
+                    ],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Cerebral artery occlusion"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Damage"
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebrovascular accident due to occlusion of right middle cerebral artery",
+                    "children": [
+                        {
+                            "content": "Cerebrovascular accident due to occlusion of bilateral middle cerebral arteries",
+                            "children": [],
+                            "relationships": [
+                                {
+                                    "type": "Is a",
+                                    "target": "Disease"
+                                },
+                                {
+                                    "type": "Due to",
+                                    "target": "Occlusion of right middle cerebral artery"
+                                },
+                                {
+                                    "type": "Finding site",
+                                    "target": "Cerebrovascular system structure"
+                                },
+                                {
+                                    "type": "Finding site",
+                                    "target": "Brain structure"
+                                },
+                                {
+                                    "type": "Associated morphology",
+                                    "target": "Damage"
+                                }
+                            ]
+                        },
+                        {
+                            "content": "Cerebrovascular accident due to occlusion of right middle cerebral artery by embolus",
+                            "children": [],
+                            "relationships": [
+                                {
+                                    "type": "Is a",
+                                    "target": "Disease"
+                                },
+                                {
+                                    "type": "Due to",
+                                    "target": "Occlusion of right middle cerebral artery"
+                                },
+                                {
+                                    "type": "Finding site",
+                                    "target": "Cerebrovascular system structure"
+                                },
+                                {
+                                    "type": "Finding site",
+                                    "target": "Brain structure"
+                                },
+                                {
+                                    "type": "Associated morphology",
+                                    "target": "Damage"
+                                }
+                            ]
+                        }
+                    ],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Cerebral artery occlusion"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Damage"
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebrovascular accident due to occlusion of right posterior cerebral artery",
+                    "children": [
+                        {
+                            "content": "Cerebrovascular accident due to occlusion of bilateral posterior cerebral arteries",
+                            "children": [],
+                            "relationships": [
+                                {
+                                    "type": "Is a",
+                                    "target": "Disease"
+                                },
+                                {
+                                    "type": "Due to",
+                                    "target": "Occlusion of right posterior cerebral artery"
+                                },
+                                {
+                                    "type": "Finding site",
+                                    "target": "Cerebrovascular system structure"
+                                },
+                                {
+                                    "type": "Finding site",
+                                    "target": "Brain structure"
+                                },
+                                {
+                                    "type": "Associated morphology",
+                                    "target": "Damage"
+                                }
+                            ]
+                        },
+                        {
+                            "content": "Cerebrovascular accident due to occlusion of right posterior cerebral artery by embolus",
+                            "children": [],
+                            "relationships": [
+                                {
+                                    "type": "Is a",
+                                    "target": "Disease"
+                                },
+                                {
+                                    "type": "Due to",
+                                    "target": "Occlusion of right posterior cerebral artery"
+                                },
+                                {
+                                    "type": "Finding site",
+                                    "target": "Cerebrovascular system structure"
+                                },
+                                {
+                                    "type": "Finding site",
+                                    "target": "Brain structure"
+                                },
+                                {
+                                    "type": "Associated morphology",
+                                    "target": "Damage"
+                                }
+                            ]
+                        }
+                    ],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Cerebral artery occlusion"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Damage"
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebrovascular accident due to occlusion of left posterior cerebral artery",
+                    "children": [
+                        {
+                            "content": "Cerebrovascular accident due to occlusion of bilateral posterior cerebral arteries",
+                            "children": [],
+                            "relationships": [
+                                {
+                                    "type": "Is a",
+                                    "target": "Disease"
+                                },
+                                {
+                                    "type": "Due to",
+                                    "target": "Occlusion of left posterior cerebral artery"
+                                },
+                                {
+                                    "type": "Finding site",
+                                    "target": "Cerebrovascular system structure"
+                                },
+                                {
+                                    "type": "Finding site",
+                                    "target": "Brain structure"
+                                },
+                                {
+                                    "type": "Associated morphology",
+                                    "target": "Damage"
+                                }
+                            ]
+                        },
+                        {
+                            "content": "Cerebrovascular accident due to occlusion of left posterior cerebral artery by embolus",
+                            "children": [],
+                            "relationships": [
+                                {
+                                    "type": "Is a",
+                                    "target": "Disease"
+                                },
+                                {
+                                    "type": "Due to",
+                                    "target": "Occlusion of left posterior cerebral artery"
+                                },
+                                {
+                                    "type": "Finding site",
+                                    "target": "Cerebrovascular system structure"
+                                },
+                                {
+                                    "type": "Finding site",
+                                    "target": "Brain structure"
+                                },
+                                {
+                                    "type": "Associated morphology",
+                                    "target": "Damage"
+                                }
+                            ]
+                        }
+                    ],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Cerebral artery occlusion"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Damage"
+                        }
+                    ]
+                },
+                {
+                    "content": "Cerebral ischemic stroke due to small artery occlusion",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Cerebral artery occlusion"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Damage"
+                        }
+                    ]
+                },
+                {
+                    "content": "Claude's syndrome",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Cerebral artery occlusion"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrovascular system structure"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brain structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Damage"
+                        }
+                    ]
+                }
+            ],
+            "relationships": [
+                {
+                    "type": "Is a",
+                    "target": "Disease"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Cerebrovascular system structure"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Brain structure"
+                },
+                {
+                    "type": "Associated morphology",
+                    "target": "Damage"
+                }
+            ]
+        },
+        {
+            "content": "Right sided cerebral hemisphere cerebrovascular accident",
+            "children": [],
+            "relationships": [
+                {
+                    "type": "Is a",
+                    "target": "Disease"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Cerebrovascular system structure"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Brain structure"
+                },
+                {
+                    "type": "Associated morphology",
+                    "target": "Damage"
+                }
+            ]
+        },
+        {
+            "content": "Left sided cerebral hemisphere cerebrovascular accident",
+            "children": [],
+            "relationships": [
+                {
+                    "type": "Is a",
+                    "target": "Disease"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Cerebrovascular system structure"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Brain structure"
+                },
+                {
+                    "type": "Associated morphology",
+                    "target": "Damage"
+                }
+            ]
+        },
+        {
+            "content": "Brainstem stroke syndrome",
+            "children": [
+                {
+                    "content": "Millard-Gubler syndrome",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Cerebrovascular accident"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brainstem structure"
+                        }
+                    ]
+                },
+                {
+                    "content": "Foville syndrome",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Cerebrovascular accident"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brainstem structure"
+                        }
+                    ]
+                },
+                {
+                    "content": "Claude's syndrome",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Cerebrovascular accident"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brainstem structure"
+                        }
+                    ]
+                },
+                {
+                    "content": "Posterior inferior cerebellar artery syndrome",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Cerebrovascular accident"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brainstem structure"
+                        }
+                    ]
+                },
+                {
+                    "content": "Weber-Gubler syndrome",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Cerebrovascular accident"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Brainstem structure"
+                        }
+                    ]
+                }
+            ],
+            "relationships": [
+                {
+                    "type": "Is a",
+                    "target": "Disease"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Cerebrovascular system structure"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Brain structure"
+                },
+                {
+                    "type": "Associated morphology",
+                    "target": "Damage"
+                }
+            ]
+        },
+        {
+            "content": "Posterior cerebral artery syndrome",
+            "children": [],
+            "relationships": [
+                {
+                    "type": "Is a",
+                    "target": "Disease"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Cerebrovascular system structure"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Brain structure"
+                },
+                {
+                    "type": "Associated morphology",
+                    "target": "Damage"
+                }
+            ]
+        },
+        {
+            "content": "Anterior cerebral artery syndrome",
+            "children": [],
+            "relationships": [
+                {
+                    "type": "Is a",
+                    "target": "Disease"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Cerebrovascular system structure"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Brain structure"
+                },
+                {
+                    "type": "Associated morphology",
+                    "target": "Damage"
+                }
+            ]
+        },
+        {
+            "content": "Middle cerebral artery syndrome",
+            "children": [
+                {
+                    "content": "Malignant middle cerebral artery syndrome",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Disease"
+                        },
+                        {
+                            "type": "Is a",
+                            "target": "Neurological deficit"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Cerebrovascular disease"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebral hemisphere structure"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Structural change due to ischemia"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Structure of middle cerebral artery"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Obstruction"
+                        }
+                    ]
+                }
+            ],
+            "relationships": [
+                {
+                    "type": "Is a",
+                    "target": "Disease"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Cerebrovascular system structure"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Brain structure"
+                },
+                {
+                    "type": "Associated morphology",
+                    "target": "Damage"
+                }
+            ]
+        },
+        {
+            "content": "Paralytic stroke",
+            "children": [],
+            "relationships": [
+                {
+                    "type": "Is a",
+                    "target": "Disease"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Cerebrovascular system structure"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Brain structure"
+                },
+                {
+                    "type": "Associated morphology",
+                    "target": "Damage"
+                }
+            ]
+        },
+        {
+            "content": "Nonparalytic stroke",
+            "children": [],
+            "relationships": [
+                {
+                    "type": "Is a",
+                    "target": "Disease"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Cerebrovascular system structure"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Brain structure"
+                },
+                {
+                    "type": "Associated morphology",
+                    "target": "Damage"
+                }
+            ]
+        },
+        {
+            "content": "Progressing stroke",
+            "children": [],
+            "relationships": [
+                {
+                    "type": "Is a",
+                    "target": "Disease"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Cerebrovascular system structure"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Brain structure"
+                },
+                {
+                    "type": "Associated morphology",
+                    "target": "Damage"
+                }
+            ]
+        },
+        {
+            "content": "Multi-infarct dementia",
+            "children": [
+                {
+                    "content": "Behavioral disturbance due to multi-infarct dementia",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Dementia"
+                        },
+                        {
+                            "type": "Is a",
+                            "target": "Diffuse cerebrovascular disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Cerebrovascular disease"
+                        },
+                        {
+                            "type": "Interprets",
+                            "target": "Cognitive functions"
+                        },
+                        {
+                            "type": "Has interpretation",
+                            "target": "Impaired"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Structure of cerebral artery"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Obstruction"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrum"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Multiple infarcts"
+                        }
+                    ]
+                },
+                {
+                    "content": "Multi-infarct dementia due to atherosclerosis",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Dementia"
+                        },
+                        {
+                            "type": "Is a",
+                            "target": "Diffuse cerebrovascular disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Cerebrovascular disease"
+                        },
+                        {
+                            "type": "Interprets",
+                            "target": "Cognitive functions"
+                        },
+                        {
+                            "type": "Has interpretation",
+                            "target": "Impaired"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Structure of cerebral artery"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Obstruction"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrum"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Multiple infarcts"
+                        }
+                    ]
+                },
+                {
+                    "content": "Multi-infarct dementia, uncomplicated",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Dementia"
+                        },
+                        {
+                            "type": "Is a",
+                            "target": "Diffuse cerebrovascular disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Cerebrovascular disease"
+                        },
+                        {
+                            "type": "Interprets",
+                            "target": "Cognitive functions"
+                        },
+                        {
+                            "type": "Has interpretation",
+                            "target": "Impaired"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Structure of cerebral artery"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Obstruction"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrum"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Multiple infarcts"
+                        }
+                    ]
+                },
+                {
+                    "content": "Multi-infarct dementia with delusions",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Dementia"
+                        },
+                        {
+                            "type": "Is a",
+                            "target": "Diffuse cerebrovascular disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Cerebrovascular disease"
+                        },
+                        {
+                            "type": "Interprets",
+                            "target": "Cognitive functions"
+                        },
+                        {
+                            "type": "Has interpretation",
+                            "target": "Impaired"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Structure of cerebral artery"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Obstruction"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrum"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Multiple infarcts"
+                        }
+                    ]
+                },
+                {
+                    "content": "Multi-infarct dementia with depression",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Dementia"
+                        },
+                        {
+                            "type": "Is a",
+                            "target": "Diffuse cerebrovascular disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Cerebrovascular disease"
+                        },
+                        {
+                            "type": "Interprets",
+                            "target": "Cognitive functions"
+                        },
+                        {
+                            "type": "Has interpretation",
+                            "target": "Impaired"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Structure of cerebral artery"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Obstruction"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrum"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Multiple infarcts"
+                        }
+                    ]
+                },
+                {
+                    "content": "Multi-infarct dementia with delirium",
+                    "children": [],
+                    "relationships": [
+                        {
+                            "type": "Is a",
+                            "target": "Dementia"
+                        },
+                        {
+                            "type": "Is a",
+                            "target": "Diffuse cerebrovascular disease"
+                        },
+                        {
+                            "type": "Due to",
+                            "target": "Cerebrovascular disease"
+                        },
+                        {
+                            "type": "Interprets",
+                            "target": "Cognitive functions"
+                        },
+                        {
+                            "type": "Has interpretation",
+                            "target": "Impaired"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Structure of cerebral artery"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Obstruction"
+                        },
+                        {
+                            "type": "Finding site",
+                            "target": "Cerebrum"
+                        },
+                        {
+                            "type": "Associated morphology",
+                            "target": "Multiple infarcts"
+                        }
+                    ]
+                }
+            ],
+            "relationships": [
+                {
+                    "type": "Is a",
+                    "target": "Disease"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Cerebrovascular system structure"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Brain structure"
+                },
+                {
+                    "type": "Associated morphology",
+                    "target": "Damage"
+                }
+            ]
+        },
+        {
+            "content": "Juvenile myopathy, encephalopathy, lactic acidosis, stroke",
+            "children": [],
+            "relationships": [
+                {
+                    "type": "Is a",
+                    "target": "Disease"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Cerebrovascular system structure"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Brain structure"
+                },
+                {
+                    "type": "Associated morphology",
+                    "target": "Damage"
+                }
+            ]
+        },
+        {
+            "content": "Completed stroke",
+            "children": [],
+            "relationships": [
+                {
+                    "type": "Is a",
+                    "target": "Disease"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Cerebrovascular system structure"
+                },
+                {
+                    "type": "Finding site",
+                    "target": "Brain structure"
+                },
+                {
+                    "type": "Associated morphology",
+                    "target": "Damage"
+                }
+            ]
+        }
+    ],
+    "relationships": [
+        {
+            "type": "Is a",
+            "target": "Disease"
+        },
+        {
+            "type": "Finding site",
+            "target": "Cerebrovascular system structure"
+        },
+        {
+            "type": "Finding site",
+            "target": "Brain structure"
+        },
+        {
+            "type": "Associated morphology",
+            "target": "Damage"
+        }
+    ]
+}
