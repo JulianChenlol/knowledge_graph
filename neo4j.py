@@ -1,9 +1,9 @@
 import json
 from py2neo import Graph, Node, Relationship
 
-head = []
-relation = []
-tail = []
+
+nodes = {}
+relationships = []
 
 
 # Define the heads, relations, and tails
@@ -22,13 +22,12 @@ def create_node(json_list):
 
 
 def parse_children(parent_node, parent, children):
-    for child in children:
-        parse_rel(child)
-        head.append(parent)
-        relation.append("contains")
-        tail.append(child.get("content"))
-        # print(head[-1], relation[-1], tail[-1])
-        parse_children(child.get("content"), child.get("children"))
+    for term in children:
+        child = term.get("content")
+        child_node = parse_rel(term)
+        a = Relationship(parent_node, "contains", child_node)
+        relationships.append(a)
+        parse_children(child_node, child, term.get("children"))
 
 
 def parse_rel(term):
@@ -36,9 +35,17 @@ def parse_rel(term):
     rels = term.get("relationships")
     for rel in rels:
         if rel.get("type") == "Is a":
-            node = Node(rel.get("type"), name=term)
+            node = Node(rel.get("target"), name=term.get("content"))
+            nodes.setdefault(term.get("content"), node)
         else:
-            node[rel.get("type")] = rel.get("target")
+            # node[rel.get("type")] = rel.get("target")
+            node1 = nodes.get(term.get("content"))
+            relation = rel.get("type")
+            node2 = nodes.setdefault(
+                rel.get("target"), Node(rel.get("target"), name=rel.get("target"))
+            )
+            a = Relationship(node1, relation, node2)
+            relationships.append(a)
     return node
 
 
@@ -74,3 +81,16 @@ def create_graph():
     graph.create(maojor)
     graph.create(maojor1)
     graph.create(friends)
+
+
+if __name__ == "__main__":
+    json_list = read_file()
+    create_node(json_list)
+    # 连接neo4j数据库，输入地址、用户名、密码
+    graph = Graph("http://localhost:7474", password="Welcome123")
+
+    graph.delete_all()
+    for node in nodes.values():
+        graph.create(node)
+    for relationship in relationships:
+        graph.create(relationship)
