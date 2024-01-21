@@ -11,7 +11,7 @@ tail = []
 # Define the heads, relations, and tails
 def read_file():
     json_list = []
-    with open("stroke.json", "r") as file:
+    with open("stroke_data.json", "r") as file:
         json_list = json.load(file)
         for term in json_list:
             parent = term.get("content")
