@@ -1,0 +1,4786 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="neo4j://graph.schema#Hemidystonia">
+	<rdfs:label>Hemidystonia</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Neurological deficit">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Bilateral embolism of middle cerebral arteries">
+	<rdfs:label>Bilateral embolism of middle cerebral arteries</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Has interpretation">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Altered"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Structure of palpebral conjunctiva">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Procedure">
+	<rdfs:label>Procedure</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Occlusion of right cerebellar artery">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Bone structure"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Associated morphology">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Lacunar infarct"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Occlusion of bilateral cerebellar arteries"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Subject relationship context">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Person in the family"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Skin scraping for examination">
+	<rdfs:label>Skin scraping for examination</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Bilateral occlusion of middle cerebral arteries"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Thrombosis of left middle cerebral artery">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Embolism of right carotid artery">
+	<rdfs:label>Embolism of right carotid artery</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Autoimmune process">
+	<rdfs:label>Autoimmune process</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Lower limb structure"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Left posterior cerebral artery thrombosis">
+	<rdfs:label>Left posterior cerebral artery thrombosis</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Function"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Structure of precerebral and/or intracranial artery">
+	<rdfs:label>Structure of precerebral and/or intracranial artery</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Progressive">
+	<rdfs:label>Progressive</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Thrombosis of right anterior cerebral artery"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Basal ganglion structure"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Associated morphology">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Dystrophy"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Person in the family">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Surgical extraction - action">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Cerebral hemisphere structure">
+	<rdfs:label>Cerebral hemisphere structure</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Dysplasia">
+	<rdfs:label>Dysplasia</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Follow-up status">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Basilar artery embolism"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Pathological developmental process">
+	<rdfs:label>Pathological developmental process</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Thrombosis of right carotid artery"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Occlusion of left anterior cerebral artery">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Stenosis of left vertebral artery">
+	<rdfs:label>Stenosis of left vertebral artery</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Maternal postpartum">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Thrombosis of left carotid artery">
+	<rdfs:label>Thrombosis of left carotid artery</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Risk factor">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Skeletal muscle structure of limb">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Structure of nervous system">
+	<rdfs:label>Structure of nervous system</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Associated morphology">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Autosomal recessive hereditary disorder"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Surgical removal"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Decreased cardiac function">
+	<rdfs:label>Decreased cardiac function</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Paralytic syndrome as late effect of stroke">
+	<rdfs:label>Paralytic syndrome as late effect of stroke</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Embolism of left anterior cerebral artery">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Occlusion of anterior choroidal artery"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Bone graft material">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Structural change due to ischemia">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Thrombosis of anterior cerebral artery">
+	<rdfs:label>Thrombosis of anterior cerebral artery</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Past - specified">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Incision - action">
+	<rdfs:label>Incision - action</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Has interpretation">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Decreased"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Temporal context">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Current or past"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Occurrence">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Maternal pregnancy period"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Thrombosis of right middle cerebral artery">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Structure of right facial muscle"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Lacunar infarction">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Evaluation - action">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Interprets">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Dementia"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Hypercoagulability state">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Known absent">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Basal ganglion structure">
+	<rdfs:label>Basal ganglion structure</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Ataxia">
+	<rdfs:label>Ataxia</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Sensory disorder">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Has interpretation">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Below reference range"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Hemiplegia of dominant side">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Person in the family">
+	<rdfs:label>Person in the family</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Temporal context">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Situation with explicit context"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Period of life between birth and death">
+	<rdfs:label>Period of life between birth and death</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Increased">
+	<rdfs:label>Increased</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Brain stem infarction">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Has interpretation">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Abnormal body temperature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Occlusion of right anterior cerebral artery">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Bilateral embolism of carotid arteries"/>
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Hemiplegia of dominant side"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Confusional state"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Assessment score">
+	<rdfs:label>Assessment score</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Blood viscosity measurement">
+	<rdfs:label>Blood viscosity measurement</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Right cerebellar artery thrombosis"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Autosomal recessive hereditary disorder"/>
+	<rdfs:range rdf:resource="neo4j://graph.schema#Brain structure"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Cardiovascular function finding">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Erythrocyte"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Stenosis of precerebral artery">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Dysarthria"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Subject relationship context">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#History of cerebrovascular accident with residual deficit"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Autosomal recessive hereditary disorder">
+	<rdfs:label>Autosomal recessive hereditary disorder</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Neurological observable">
+	<rdfs:label>Neurological observable</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Occlusion of bilateral cerebellar arteries">
+	<rdfs:label>Occlusion of bilateral cerebellar arteries</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#After">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Disease"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Ineffective thermoregulation"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Structure of nervous system">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Posterior cerebral circulation infarction"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Aphasia">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Scraping">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Interprets">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Memory performance"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Temporal context">
+	<rdfs:range rdf:resource="neo4j://graph.schema#All times past"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Memory impairment"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Associated morphology">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Right posterior cerebral artery thrombosis">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Occlusion of left cerebellar artery by embolus">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Hemiplegia"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Bilateral embolism of carotid arteries">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Referral to service">
+	<rdfs:label>Referral to service</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Occlusion of left cerebellar artery by embolus"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Body temperature">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Impaired mineralization">
+	<rdfs:label>Impaired mineralization</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#After">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Cerebrovascular accident"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Normal">
+	<rdfs:label>Normal</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Structure of cerebellar artery"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Structure of canthus">
+	<rdfs:label>Structure of canthus</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Bilateral embolism of vertebral arteries"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Structure of blood vessel of retina">
+	<rdfs:label>Structure of blood vessel of retina</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Above reference range">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Procedure site - Direct">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Bone structure"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Left cerebellar artery thrombosis"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Vascular structure of head">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Right carotid artery stenosis">
+	<rdfs:label>Right carotid artery stenosis</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Ability to speak fluently">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Bilateral occlusion of anterior cerebral arteries">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Bilateral thrombosis of vertebral arteries"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Speech and language observable">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Occlusion of left posterior communicating artery">
+	<rdfs:label>Occlusion of left posterior communicating artery</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Procedure site - Direct">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Structure of gum and supporting structure of tooth"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Procedure site - Indirect">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Reconstruction - action">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Clinical course">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Autosomal dominant hereditary disorder"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Basilar artery embolism">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Occlusion of right anterior choroidal artery"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Hemiplegia of nondominant side"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Pathological process">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Abnormal immune process"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Paraganglioma">
+	<rdfs:label>Paraganglioma</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Reason for change in radiotherapy course">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Cerebral white matter structure">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Interprets">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Abnormal body temperature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Procedure site - Direct">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Scraping"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Discharge from service">
+	<rdfs:label>Discharge from service</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Interprets">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Left ventricular function"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Has interpretation">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Sensory disorder"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Structure of canthus">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Interprets">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Cardiac function"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Grafting - action">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Temporal context">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#No family history of"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Thrombosis of left anterior cerebral artery"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Associated morphology">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Morphologically abnormal structure"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Structure of capillary blood vessel">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Cerebrum"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Surgical removal">
+	<rdfs:label>Surgical removal</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Lens clear">
+	<rdfs:label>Lens clear</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Method">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Curettage of skin lesion"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Dementia">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Occlusion of left cerebellar artery">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Procedure site - Direct">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Curettage of skin lesion"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Sequela of cerebrovascular accident">
+	<rdfs:label>Sequela of cerebrovascular accident</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Occlusion of left cerebellar artery by embolus">
+	<rdfs:label>Occlusion of left cerebellar artery by embolus</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Occlusion of left posterior cerebral artery">
+	<rdfs:label>Occlusion of left posterior cerebral artery</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Monoplegia of upper limb affecting non-dominant side"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Has interpretation">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Dementia"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Removal of lesion of eyelid"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Dilation - action">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Function">
+	<rdfs:label>Function</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding context">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#No family history of"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Method">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Scraping"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Operation on canthus"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Occlusion of anterior choroidal artery">
+	<rdfs:label>Occlusion of anterior choroidal artery</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Occurrence">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Fetal antenatal period"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Cerebellar artery thrombosis">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Cervix uteri structure">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Thalamic structure">
+	<rdfs:label>Thalamic structure</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Has focus">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Cerebrovascular accident"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Dissection of cervicocerebral artery">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Paralytic syndrome"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Atherosclerosis of artery"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Left carotid artery occlusion">
+	<rdfs:label>Left carotid artery occlusion</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Apraxia">
+	<rdfs:label>Apraxia</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Skin structure">
+	<rdfs:label>Skin structure</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Apraxia"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Chronic disease monitoring status">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Congenital">
+	<rdfs:label>Congenital</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Occlusion of left cerebellar artery">
+	<rdfs:label>Occlusion of left cerebellar artery</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Chronic central neuropathic pain">
+	<rdfs:label>Chronic central neuropathic pain</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Anterior cerebral circulation infarction"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Entire digit">
+	<rdfs:label>Entire digit</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Impaired">
+	<rdfs:label>Impaired</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Referral to service">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Above reference range">
+	<rdfs:label>Above reference range</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:range rdf:resource="neo4j://graph.schema#History of clinical finding in subject"/>
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Curettage"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Occlusion of left posterior communicating artery">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Clinic">
+	<rdfs:label>Clinic</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Monoplegia of upper limb affecting non-dominant side"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Procedure site - Indirect">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Procedure"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Cerebrovascular disease">
+	<rdfs:label>Cerebrovascular disease</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Associated finding">
+	<rdfs:label>Associated finding</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Subject of record">
+	<rdfs:label>Subject of record</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Basilar artery thrombosis"/>
+	<rdfs:range rdf:resource="neo4j://graph.schema#Arterial thrombosis"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Regional blood vessel structure">
+	<rdfs:label>Regional blood vessel structure</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Brainstem structure">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Aspiration - action">
+	<rdfs:label>Aspiration - action</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:label>Due to</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Structure of middle cerebral artery"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Abnormal immune process">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Procedure site - Direct">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Curettage of eyelid"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Monoplegia"/>
+	<rdfs:range rdf:resource="neo4j://graph.schema#Ischemia"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Subject relationship context">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Posterior cerebral circulation infarction">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Bilateral embolism of cerebellar arteries">
+	<rdfs:label>Bilateral embolism of cerebellar arteries</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Lower limb structure">
+	<rdfs:label>Lower limb structure</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Method">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Curettage of eyelid"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Precerebral arterial occlusion">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding context">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Situation with explicit context"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Thrombosis of left vertebral artery">
+	<rdfs:label>Thrombosis of left vertebral artery</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Subarachnoid hemorrhage">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Inflammatory morphology">
+	<rdfs:label>Inflammatory morphology</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Thrombosis of anterior cerebral artery"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Cerebrovascular accident"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Extrapyramidal system structure">
+	<rdfs:label>Extrapyramidal system structure</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Retinal structure"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Impaired">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Structure of cerebral artery"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Occlusion of right cerebellar artery">
+	<rdfs:label>Occlusion of right cerebellar artery</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Bilateral embolism of carotid arteries">
+	<rdfs:label>Bilateral embolism of carotid arteries</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Chronic central neuropathic pain"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Associated morphology">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Impaired mineralization"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Cerebellar artery thrombosis"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Hemiplegia of dominant side"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Bilateral thrombosis of carotid arteries">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Bilateral occlusion of anterior cerebral arteries">
+	<rdfs:label>Bilateral occlusion of anterior cerebral arteries</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Lesion">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#After">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Epilepsy"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Basal ganglion structure">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Known present">
+	<rdfs:label>Known present</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Body height measure">
+	<rdfs:label>Body height measure</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Method">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Surgical extraction - action"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Hemorrhage">
+	<rdfs:label>Hemorrhage</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Seen by service">
+	<rdfs:label>Seen by service</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Embolism of right carotid artery"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding context">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Family history with explicit context"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Associated morphology">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Anterior cerebral circulation infarction"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Thrombosis of right vertebral artery">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Removal of lesion of eyelid">
+	<rdfs:label>Removal of lesion of eyelid</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Lens clear"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Cognitive disorder">
+	<rdfs:label>Cognitive disorder</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Cerebral atherosclerosis">
+	<rdfs:label>Cerebral atherosclerosis</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Structure of left facial muscle">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Associated finding">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Disease"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Endometrial cavity structure">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Family history with explicit context">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Bilateral occlusion of anterior cerebral arteries"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Direct morphology">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Neoplasm"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Arterial thrombosis">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Care plan">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Occlusion of right middle cerebral artery">
+	<rdfs:label>Occlusion of right middle cerebral artery</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Tendon structure">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Abnormal immune process">
+	<rdfs:label>Abnormal immune process</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Neurological observable">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Associated morphology">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Posterior cerebral circulation infarction"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Skin examination procedure AND/OR treatment"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Assessment using assessment scale">
+	<rdfs:label>Assessment using assessment scale</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Procedure site - Indirect">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Endometrial structure"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Tendon structure">
+	<rdfs:label>Tendon structure</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Interprets">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Sensation observable"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Reconstruction - action">
+	<rdfs:label>Reconstruction - action</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Vertiginous syndrome">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Paralytic syndrome on one side of the body"/>
+	<rdfs:range rdf:resource="neo4j://graph.schema#Thrombosis of left vertebral artery"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:label>contains</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Chronic disease monitoring">
+	<rdfs:label>Chronic disease monitoring</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Left carotid artery stenosis"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Fetal period">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#After">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Paralytic syndrome"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Decreased cardiac function">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#After">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Vertiginous syndrome"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Fatigue">
+	<rdfs:label>Fatigue</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Procedure site - Indirect">
+	<rdfs:label>Procedure site - Indirect</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Adaptation behavior">
+	<rdfs:label>Adaptation behavior</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Spinal cord structure">
+	<rdfs:label>Spinal cord structure</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Left posterior cerebral artery thrombosis">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Aphasia">
+	<rdfs:label>Aphasia</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Associated morphology">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Disorder of cellular component of blood"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Bilateral embolism of anterior cerebral arteries"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Confusional state">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Cardiovascular function finding">
+	<rdfs:label>Cardiovascular function finding</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Stroke risk">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Energy / stamina">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Lacunar infarction">
+	<rdfs:label>Lacunar infarction</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#History of cerebrovascular accident with residual deficit">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Retinal structure">
+	<rdfs:label>Retinal structure</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Function">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Diffuse cerebrovascular disease">
+	<rdfs:label>Diffuse cerebrovascular disease</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Cognitive functions">
+	<rdfs:label>Cognitive functions</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Maternal pregnancy period">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Endometrial cavity structure">
+	<rdfs:label>Endometrial cavity structure</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Regional blood vessel structure">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Bilateral thrombosis of vertebral arteries">
+	<rdfs:label>Bilateral thrombosis of vertebral arteries</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Pathological process">
+	<rdfs:label>Pathological process</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Heat">
+	<rdfs:label>Heat</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#History of clinical finding in subject">
+	<rdfs:label>History of clinical finding in subject</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Situation with explicit context">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Pain"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Procedure on heart">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Right cerebellar artery thrombosis">
+	<rdfs:label>Right cerebellar artery thrombosis</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Direct morphology">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Curettage of eyelid"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Blood vessel structure"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Face structure">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Clinic">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Dementia"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Red blood cell count">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Cerebrovascular system structure"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Cerebellar artery thrombosis">
+	<rdfs:label>Cerebellar artery thrombosis</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Shaving - action">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Associated finding">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Family history with explicit context"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Skeletal muscle structure of limb"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Altered">
+	<rdfs:label>Altered</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Bilateral embolism of anterior cerebral arteries">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#After">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Paraplegia"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Infarct">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Epilepsy">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Embolism from thoracic aorta"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Dysarthria">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Occlusion of right posterior cerebral artery">
+	<rdfs:label>Occlusion of right posterior cerebral artery</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Fetal antenatal period">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Cerebral white matter structure">
+	<rdfs:label>Cerebral white matter structure</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Cerebellar structure">
+	<rdfs:label>Cerebellar structure</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Fatigue"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding context">
+	<rdfs:label>Finding context</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Temporal context">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Past - specified"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Known present">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Abnormal body temperature">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Interprets">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Risk level"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Disorder of cellular component of blood">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Tooth structure">
+	<rdfs:label>Tooth structure</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Dysphagia">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Method">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Curettage - action"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Risk level">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Has interpretation">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Left carotid artery occlusion"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Clinical course">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Chronic central neuropathic pain"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Procedure site - Direct">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Structure of tooth socket"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Neurological rehabilitation">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Occlusion of right pontine artery">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Discharge from service">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Associated morphology">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Infarct"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#After">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Hemiplegia of dominant side"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Occurrence">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Epilepsy"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Skin structure of face">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Procedure site - Direct">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Tendon structure"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Disorder of cardiovascular system">
+	<rdfs:label>Disorder of cardiovascular system</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Monoplegia"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Atherosclerosis">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Inflammatory morphology">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Stenosis of precerebral artery"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Regional blood vessel structure"/>
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Brain stem infarction"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Chronic disease monitoring"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Direct morphology">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Curettage of skin lesion"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Embolism of left vertebral artery">
+	<rdfs:label>Embolism of left vertebral artery</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Has interpretation">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Normal"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Pathological process">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Autosomal dominant hereditary disorder"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Hemorrhagic cerebral infarction"/>
+	<rdfs:range rdf:resource="neo4j://graph.schema#Bilateral carotid artery occlusion"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Right carotid artery occlusion">
+	<rdfs:label>Right carotid artery occlusion</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Occlusion of right vertebral artery">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Bilateral lower limb paralytic syndrome"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Childhood">
+	<rdfs:label>Childhood</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Structure of glomerular capillary basement membrane">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Systemic circulatory system structure">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Medulla oblongata structure">
+	<rdfs:label>Medulla oblongata structure</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Below reference range">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Structure of bursa">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Neonatal">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Cerebral atherosclerosis">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Has realization">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Clinical finding"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Embolism from thoracic aorta">
+	<rdfs:label>Embolism from thoracic aorta</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Neurological deficit"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Abnormal body temperature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Knee maneuver">
+	<rdfs:label>Knee maneuver</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Temporal context">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Family history with explicit context"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Vascular structure of head">
+	<rdfs:label>Vascular structure of head</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Bilateral embolism of cerebellar arteries">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Structure of intracranial artery"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Curettage of skin lesion"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Disorder of cardiovascular system">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Conjunctival structure">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Arterial thrombosis">
+	<rdfs:label>Arterial thrombosis</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Occlusion of right middle cerebral artery">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Vertiginous syndrome"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Hospital unit">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Cerebrovascular accident">
+	<rdfs:label>Cerebrovascular accident</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Named sign of knee"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Tendon sheath structure">
+	<rdfs:label>Tendon sheath structure</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#After">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Lacunar infarction"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Occlusion of left pontine artery">
+	<rdfs:label>Occlusion of left pontine artery</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Muscle weakness"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Structure of gum and supporting structure of tooth">
+	<rdfs:label>Structure of gum and supporting structure of tooth</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Posterior cerebral circulation infarction">
+	<rdfs:label>Posterior cerebral circulation infarction</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Referral to clinic">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Fetal antenatal period">
+	<rdfs:label>Fetal antenatal period</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Occlusion of right middle cerebral artery"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Associated morphology">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Brain stem infarction"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Cerebrum">
+	<rdfs:label>Cerebrum</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Direct morphology">
+	<rdfs:label>Direct morphology</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Associated morphology">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Opacity"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Ineffective thermoregulation">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Thrombosis of right carotid artery">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Seen by service">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Clinical course">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Sudden onset AND/OR short duration"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Has interpretation">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Normal cardiovascular function"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Heat">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding context">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#History of cerebrovascular accident with residual deficit"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Systemic circulatory system structure"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Eyelid structure">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Cerebrovascular system structure">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Body temperature">
+	<rdfs:label>Body temperature</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Care plan">
+	<rdfs:label>Care plan</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Spinal cord structure"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Cauterization - action">
+	<rdfs:label>Cauterization - action</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Brain structure">
+	<rdfs:label>Brain structure</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Associated morphology">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Abnormally short growth"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Bilateral thrombosis of posterior cerebral arteries">
+	<rdfs:label>Bilateral thrombosis of posterior cerebral arteries</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Interprets">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Body temperature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Atherosclerosis of artery">
+	<rdfs:label>Atherosclerosis of artery</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Embolism of left carotid artery">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Stenosis of right vertebral artery">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Associated morphology">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Paraganglioma"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Ischemia">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#After">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Monoplegia of upper limb affecting non-dominant side"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Intracranial vascular structure">
+	<rdfs:label>Intracranial vascular structure</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Cerebrovascular accident"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Abrasion - action">
+	<rdfs:label>Abrasion - action</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Cardiovascular observable">
+	<rdfs:label>Cardiovascular observable</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Surgical removal">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Paralytic syndrome as late effect of stroke">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Subject relationship context">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Situation with explicit context"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Memory impairment">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Disease"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Perinatal period of fetus and/or neonate">
+	<rdfs:label>Perinatal period of fetus and/or neonate</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Direct morphology">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Lymphoid follicular inflammation"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Curettage - action">
+	<rdfs:label>Curettage - action</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Past">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Procedure site - Direct">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Entire fetus"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Thrombosis of right middle cerebral artery">
+	<rdfs:label>Thrombosis of right middle cerebral artery</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Right carotid artery stenosis">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Upper limb structure"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Occurrence">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Maternal antenatal period"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Operation on bone"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Paraganglioma">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Asymptomatic"/>
+	<rdfs:range rdf:resource="neo4j://graph.schema#Intracranial structure"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Normal cardiovascular function">
+	<rdfs:label>Normal cardiovascular function</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Stenosis of precerebral artery">
+	<rdfs:label>Stenosis of precerebral artery</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Hospital unit">
+	<rdfs:label>Hospital unit</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Posterior cerebral circulation infarction"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Bilateral thrombosis of posterior cerebral arteries">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Cognitive disorder"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Medulla oblongata structure"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Associated morphology">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Autosomal dominant hereditary disorder"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Thrombotic stroke">
+	<rdfs:label>Thrombotic stroke</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#After">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Hemiplegia of nondominant side"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Thrombosis of left vertebral artery">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Left ventricular function">
+	<rdfs:label>Left ventricular function</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Has interpretation">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Increased"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Medulla oblongata structure">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Thrombosis of right middle cerebral artery"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Damage">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Childhood">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Chronic central neuropathic pain">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Memory performance">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Atherosclerosis of artery">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Direct substance">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Fetal and embryonic material"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Chronic disease monitoring status"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Procedure site - Direct">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Structure of product of conception"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Assessment score">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Assessment scales">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Follow-up status">
+	<rdfs:label>Follow-up status</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Confusional state">
+	<rdfs:label>Confusional state</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Structure of half of body lateral to midsagittal plane">
+	<rdfs:label>Structure of half of body lateral to midsagittal plane</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Blood vessel structure">
+	<rdfs:label>Blood vessel structure</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Stenosis of left vertebral artery"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Structure of left upper limb"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Interprets">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Urinary tract function"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Brain structure">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Subject relationship context">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#History of clinical finding in subject"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Structure of tooth socket">
+	<rdfs:label>Structure of tooth socket</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Stenosis of right vertebral artery"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Conjunctival structure">
+	<rdfs:label>Conjunctival structure</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Operation on eyelid">
+	<rdfs:label>Operation on eyelid</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Entire digit"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Direct morphology">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Procedure"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#After">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Sensory disorder"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Hemiatrophy">
+	<rdfs:label>Hemiatrophy</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Tooth structure"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Lens clear">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Intracranial vascular structure">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Education - action">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Fatigue">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Operation on bone">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Thrombosis of left middle cerebral artery"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Associated finding">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Cerebrovascular disease"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Embolism">
+	<rdfs:label>Embolism</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Has interpretation">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Abnormal"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Curettage of lesion of bone">
+	<rdfs:label>Curettage of lesion of bone</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Dysphasia"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Epilepsy"/>
+	<rdfs:range rdf:resource="neo4j://graph.schema#Structure of right upper limb"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Lower limb structure">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Neurological rehabilitation"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#After">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Apraxia"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Bilateral carotid artery occlusion">
+	<rdfs:label>Bilateral carotid artery occlusion</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Energy / stamina">
+	<rdfs:label>Energy / stamina</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Scraping - action">
+	<rdfs:label>Scraping - action</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Method">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Aspiration - action"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#After">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Paralytic syndrome on one side of the body"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Embolism of left vertebral artery">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Bilateral vertebral artery occlusion">
+	<rdfs:label>Bilateral vertebral artery occlusion</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Bilateral thrombosis of cerebellar arteries">
+	<rdfs:label>Bilateral thrombosis of cerebellar arteries</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Occlusion of anterior choroidal artery">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Bilateral embolism of cerebellar arteries"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Interprets">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Cardiovascular function finding"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Occlusion of right posterior communicating artery">
+	<rdfs:label>Occlusion of right posterior communicating artery</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Chronic disease monitoring">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Has interpretation">
+	<rdfs:label>Has interpretation</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Curettage of eyelid">
+	<rdfs:label>Curettage of eyelid</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Neurological rehabilitation">
+	<rdfs:label>Neurological rehabilitation</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Skin examination procedure AND/OR treatment">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Occlusion of right pontine artery">
+	<rdfs:label>Occlusion of right pontine artery</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Clinical course">
+	<rdfs:label>Clinical course</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Has interpretation">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Decreased cardiac function"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Monoplegia">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Deficient">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#External ear structure">
+	<rdfs:label>External ear structure</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#After">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Dysphagia"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Procedure site - Direct">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Brain structure"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Operation on tendon"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Embolism of left anterior cerebral artery"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Operation on bone">
+	<rdfs:label>Operation on bone</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Brainstem structure">
+	<rdfs:label>Brainstem structure</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Pain">
+	<rdfs:label>Pain</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Shaving - action">
+	<rdfs:label>Shaving - action</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Cardiac function">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Occlusion of right anterior cerebral artery">
+	<rdfs:label>Occlusion of right anterior cerebral artery</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Occlusion of right posterior communicating artery"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Abnormal">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Procedure"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Direct morphology">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Lesion"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#No family history of">
+	<rdfs:label>No family history of</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Paralytic syndrome">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Dysphagia">
+	<rdfs:label>Dysphagia</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Procedure site - Direct">
+	<rdfs:range rdf:resource="neo4j://graph.schema#External ear structure"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Intracranial structure">
+	<rdfs:label>Intracranial structure</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Removal of tattoo of skin">
+	<rdfs:label>Removal of tattoo of skin</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Dysphasia">
+	<rdfs:label>Dysphasia</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Bilateral vertebral artery occlusion">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Thrombotic stroke"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Interprets">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Adaptation behavior"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Lymphoid follicular inflammation">
+	<rdfs:label>Lymphoid follicular inflammation</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Structure of product of conception">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Opacity">
+	<rdfs:label>Opacity</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Obstruction">
+	<rdfs:label>Obstruction</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Procedure site - Direct">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Eyelid structure"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Pathological process">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Pathological developmental process"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Abnormal body temperature">
+	<rdfs:label>Abnormal body temperature</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Structure of arteriole">
+	<rdfs:label>Structure of arteriole</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Care regimes management">
+	<rdfs:label>Care regimes management</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Bilateral lower limb paralytic syndrome">
+	<rdfs:label>Bilateral lower limb paralytic syndrome</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Paralytic syndrome on one side of the body">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Bilateral lower limb paralytic syndrome"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Intracranial structure">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Clinical course">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Progressive"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Cerebral hemisphere structure"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Adaptation behavior">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Has realization">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Left carotid artery stenosis">
+	<rdfs:label>Left carotid artery stenosis</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Blood viscosity measurement">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Vertiginous syndrome"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Asymptomatic">
+	<rdfs:label>Asymptomatic</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Memory impairment">
+	<rdfs:label>Memory impairment</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Occurrence">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Maternal perinatal period"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Neurological rehabilitation"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Right ventricular function">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Structure of right facial muscle">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Abrasion - action">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Method">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Causative agent">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Abnormal body temperature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Precerebral arterial occlusion">
+	<rdfs:label>Precerebral arterial occlusion</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#After">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Disease"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Surgical removal"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Subject relationship context">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Subject of record"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Structure of endocrine system">
+	<rdfs:label>Structure of endocrine system</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Procedure site - Direct">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Structure of left facial muscle">
+	<rdfs:label>Structure of left facial muscle</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Autosomal dominant hereditary disorder"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Dysphasia"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Named sign of knee"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Has interpretation">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Autosomal recessive hereditary disorder"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Red blood cell count">
+	<rdfs:label>Red blood cell count</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Epilepsy">
+	<rdfs:label>Epilepsy</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Skin structure of face">
+	<rdfs:label>Skin structure of face</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Bone structure">
+	<rdfs:label>Bone structure</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Ischemia">
+	<rdfs:label>Ischemia</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Cerebellar disorder">
+	<rdfs:label>Cerebellar disorder</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Autoimmune process">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Structure of tooth socket">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Structure of blood vessel of retina"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Cognitive disorder"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Has interpretation">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Clinical finding"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Occlusion of left pontine artery"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Method">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Cauterization - action"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Interprets">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Intellectual ability"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Thrombosis of anterior cerebral artery">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Thrombosis of left middle cerebral artery">
+	<rdfs:label>Thrombosis of left middle cerebral artery</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Procedure site - Direct">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Structure of canthus"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Method">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Education - action"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Operation on bone"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Bilateral thrombosis of cerebellar arteries">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Monoplegia"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Associated morphology">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Arteriovenous fistula"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Preventive procedure">
+	<rdfs:label>Preventive procedure</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Structure of right facial muscle">
+	<rdfs:label>Structure of right facial muscle</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Associated morphology">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Atherosclerosis"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Structure of nervous system"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#After">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Hemiplegia"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Hemorrhagic cerebral infarction">
+	<rdfs:label>Hemorrhagic cerebral infarction</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Procedure site - Direct">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Tendon sheath structure"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Occlusion of left middle cerebral artery">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Thrombosis of right vertebral artery">
+	<rdfs:label>Thrombosis of right vertebral artery</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Below reference range">
+	<rdfs:label>Below reference range</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Bilateral thrombosis of carotid arteries">
+	<rdfs:label>Bilateral thrombosis of carotid arteries</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Procedure site - Direct">
+	<rdfs:label>Procedure site - Direct</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Healthcare services">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Associated morphology">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Damage"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Arteriovenous fistula">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Sensation observable">
+	<rdfs:label>Sensation observable</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Procedure site - Direct">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Curettage of lesion of bone"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Method">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Curettage of lesion of bone"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Procedure site - Direct">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Cervix uteri structure"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Cerebral atherosclerosis"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#After">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Ataxia"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding context">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#History of clinical finding in subject"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Has interpretation">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Increased cardiac function"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Occlusion of right pontine artery"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Basilar artery occlusion">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Interprets">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Increased cardiac function"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#After">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Procedure on heart"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Complete obstruction">
+	<rdfs:label>Complete obstruction</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Thrombosis of left anterior cerebral artery">
+	<rdfs:label>Thrombosis of left anterior cerebral artery</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Maternal perinatal period">
+	<rdfs:label>Maternal perinatal period</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdfs:label>Finding site</rdfs:label>
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Hemidystonia"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Thrombotic stroke"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Self-help group membership - finding">
+	<rdfs:label>Self-help group membership - finding</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Perinatal period of fetus and/or neonate">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Dermabrasion">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Basilar artery occlusion"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Bone structure">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Upper limb structure">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Has focus">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Procedure"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Monoplegia of upper limb affecting non-dominant side">
+	<rdfs:label>Monoplegia of upper limb affecting non-dominant side</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Stenosis of right vertebral artery">
+	<rdfs:label>Stenosis of right vertebral artery</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Subarachnoid hemorrhage"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Hemiplegia of nondominant side"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Dystrophy">
+	<rdfs:label>Dystrophy</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Method">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Evaluation - action"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Entire fetus">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Lacunar infarction"/>
+	<rdfs:range rdf:resource="neo4j://graph.schema#Embolism"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Dysarthria"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Current or past">
+	<rdfs:label>Current or past</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Paraplegia">
+	<rdfs:label>Paraplegia</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Thrombotic stroke">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Complete obstruction">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Entire fetus">
+	<rdfs:label>Entire fetus</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Assessment scales">
+	<rdfs:label>Assessment scales</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Bilateral occlusion of middle cerebral arteries">
+	<rdfs:label>Bilateral occlusion of middle cerebral arteries</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Occlusion of left vertebral artery"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Paralytic syndrome on one side of the body"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Sequela of cerebrovascular accident">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Past - specified">
+	<rdfs:label>Past - specified</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Chronic">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Occurrence">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Procedure"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Admission to department">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Cognitive disorder">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Embolism of left carotid artery"/>
+	<rdfs:range rdf:resource="neo4j://graph.schema#Occlusion of right posterior cerebral artery"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Associated finding">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Cerebrovascular accident"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Embolism of right carotid artery">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Cerebellar disorder">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Procedure site - Direct">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Structure of bursa"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Urinary tract function">
+	<rdfs:label>Urinary tract function</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#After">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Aphasia"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Curettage of skin lesion">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Cardiovascular observable">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Direct substance">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Procedure"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Ataxia">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Eyelid structure">
+	<rdfs:label>Eyelid structure</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Cerebral white matter structure"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Past">
+	<rdfs:label>Past</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Has realization">
+	<rdfs:label>Has realization</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Thalamic structure"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Personal health management behavior">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Bone structure of hand">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Muscle weakness">
+	<rdfs:label>Muscle weakness</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#History of cerebrovascular accident with residual deficit">
+	<rdfs:label>History of cerebrovascular accident with residual deficit</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Embolism of right anterior cerebral artery">
+	<rdfs:label>Embolism of right anterior cerebral artery</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Vascular structure of head"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Interprets">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Cognitive functions"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Memory impairment"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Dissection of cervicocerebral artery"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Apraxia">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Associated finding">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Hemorrhagic cerebral infarction"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Erythrocyte">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Decreased">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Obstruction">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Subarachnoid hemorrhage">
+	<rdfs:label>Subarachnoid hemorrhage</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Procedure"/>
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Confusional state"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Skin scraping for examination">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Structure of palpebral conjunctiva">
+	<rdfs:label>Structure of palpebral conjunctiva</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Right ventricular function">
+	<rdfs:label>Right ventricular function</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Structure of left upper limb">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Cauterization - action">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Increased cardiac function">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Associated finding">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Situation with explicit context"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Occurrence">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Autosomal dominant hereditary disorder"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Removal of tattoo of skin">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Interprets">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Ability to speak fluently"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Abnormally short growth">
+	<rdfs:label>Abnormally short growth</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Occlusion of left vertebral artery">
+	<rdfs:label>Occlusion of left vertebral artery</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Procedure site - Direct">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Skin structure of face"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#After">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Bilateral lower limb paralytic syndrome"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Hemiplegia of dominant side">
+	<rdfs:label>Hemiplegia of dominant side</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Increased cardiac function">
+	<rdfs:label>Increased cardiac function</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Occurrence">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Maternal postpartum"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Reason for change in radiotherapy course">
+	<rdfs:label>Reason for change in radiotherapy course</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Extrapyramidal system structure">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#History of cerebrovascular accident">
+	<rdfs:label>History of cerebrovascular accident</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Operation on tendon">
+	<rdfs:label>Operation on tendon</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Function"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#All times past">
+	<rdfs:label>All times past</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Morphologically abnormal structure">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Procedure">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Curettage">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Entire digit">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Atherosclerosis">
+	<rdfs:label>Atherosclerosis</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Structure of intracranial artery">
+	<rdfs:label>Structure of intracranial artery</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Neoplasm">
+	<rdfs:label>Neoplasm</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Lacunar infarct">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Interprets">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Disease"/>
+	<rdfs:range rdf:resource="neo4j://graph.schema#Muscle tone"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Direct morphology">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Operation on canthus"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Interprets">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Disorder of cellular component of blood"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Occlusion of left posterior cerebral artery"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding context">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Neonatal">
+	<rdfs:label>Neonatal</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Muscle weakness">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Monoplegia">
+	<rdfs:label>Monoplegia</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Muscle tone">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Occlusion of left posterior cerebral artery">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Intracranial vascular structure"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Associated finding">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Disorder of cardiovascular system"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#History of clinical finding in subject">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Procedure site - Direct">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Conjunctival structure"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Occlusion of left vertebral artery">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Method">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Assessment using assessment scale"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Procedure site - Direct">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Skin structure"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Structure of bursa">
+	<rdfs:label>Structure of bursa</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Procedure site - Direct">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Curettage"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Bilateral lower limb paralytic syndrome">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Method">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Curettage"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Embolism of right anterior cerebral artery">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Pain"/>
+	<rdfs:range rdf:resource="neo4j://graph.schema#Situation with explicit context"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Personal health management behavior">
+	<rdfs:label>Personal health management behavior</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Occlusion of left anterior choroidal artery">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Thrombosis of left carotid artery">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Cerebrovascular disease"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Operation on eyelid"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Cerebrovascular disease">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Dystrophy">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Occlusion of right posterior cerebral artery">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Occlusion of left anterior cerebral artery">
+	<rdfs:label>Occlusion of left anterior cerebral artery</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Method">
+	<rdfs:label>Method</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Incision - action">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Associated morphology">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Asymptomatic"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Risk factor">
+	<rdfs:label>Risk factor</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Chronic disease monitoring status">
+	<rdfs:label>Chronic disease monitoring status</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Neurological deficit">
+	<rdfs:label>Neurological deficit</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Scraping"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Occurrence">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Skeletal muscle structure">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Maternal pregnancy period">
+	<rdfs:label>Maternal pregnancy period</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#After">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Chronic central neuropathic pain"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Left cerebellar artery thrombosis">
+	<rdfs:label>Left cerebellar artery thrombosis</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Dysplasia">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Temporal context">
+	<rdfs:label>Temporal context</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Bilateral lower limb paralytic syndrome"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Maternal perinatal period">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Stroke risk">
+	<rdfs:label>Stroke risk</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Hemidystonia">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Infarct">
+	<rdfs:label>Infarct</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Interprets">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Speech and language observable"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#After">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Disease"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Method">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Incision - action"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Skeletal muscle structure of face">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Lower urinary tract structure"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Structure of blood vessel of retina">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Direct substance">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Bone graft material"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Named sign of knee">
+	<rdfs:label>Named sign of knee</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Monoplegia of upper limb affecting non-dominant side"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Skeletal muscle structure of limb">
+	<rdfs:label>Skeletal muscle structure of limb</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Stroke monitoring">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Occurrence">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Fetal period"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Cerebrum">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Pathological process">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Autoimmune process"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Structure of left facial muscle"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Posterior cerebral circulation infarction"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Clinical finding">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Aspiration - action">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Sensory disorder"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Structure of precerebral and/or intracranial artery">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Embolism of left carotid artery">
+	<rdfs:label>Embolism of left carotid artery</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Monoplegia"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Intellectual ability">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Occlusion of right vertebral artery"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Autosomal dominant hereditary disorder">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Extrapyramidal system structure"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Structure of middle cerebral artery">
+	<rdfs:label>Structure of middle cerebral artery</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#After">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Pain"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Associated morphology">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Dysplasia"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Hypercoagulability state">
+	<rdfs:label>Hypercoagulability state</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Bilateral thrombosis of cerebellar arteries"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Erythrocyte">
+	<rdfs:label>Erythrocyte</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Causative agent">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Vertiginous syndrome"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Cervix uteri structure">
+	<rdfs:label>Cervix uteri structure</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Bilateral occlusion of posterior cerebral arteries">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Progressive">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Structure of endocrine system"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Referral to clinic">
+	<rdfs:label>Referral to clinic</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Knee joint structure">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Thrombosis of right anterior cerebral artery">
+	<rdfs:label>Thrombosis of right anterior cerebral artery</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Family history with explicit context">
+	<rdfs:label>Family history with explicit context</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Cerebral artery occlusion">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Pathological process">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Autosomal recessive hereditary disorder"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Associated finding">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#No family history of"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Bone structure of hand"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Paralytic syndrome on one side of the body">
+	<rdfs:label>Paralytic syndrome on one side of the body</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Paraplegia">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Maternal antenatal period">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Occlusion of right posterior communicating artery">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Chronic">
+	<rdfs:label>Chronic</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Hemostatic function">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Method">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Reconstruction - action"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Associated morphology">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Multiple infarcts"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Thrombosis of right anterior cerebral artery">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Paralytic syndrome"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Structure of right upper limb">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Basilar artery thrombosis">
+	<rdfs:label>Basilar artery thrombosis</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Ineffective thermoregulation">
+	<rdfs:label>Ineffective thermoregulation</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Named sign of knee">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Cerebrovascular accident"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Subject of record">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#No family history of">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Autosomal recessive hereditary disorder">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Removal of lesion of eyelid"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Blood vessel structure">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Cerebellar structure">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Removal of tattoo of skin"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Increased physical activity">
+	<rdfs:label>Increased physical activity</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Memory performance">
+	<rdfs:label>Memory performance</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Hemiplegia of nondominant side">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Chronic disease monitoring"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Structure of product of conception">
+	<rdfs:label>Structure of product of conception</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Chronic disease monitoring status"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Abnormal">
+	<rdfs:label>Abnormal</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Lymphoid follicular inflammation">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Paralytic syndrome on one side of the body"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#External ear structure">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Disease"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Maternal antenatal period">
+	<rdfs:label>Maternal antenatal period</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Has interpretation">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Impaired"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Pathological process">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Dysphagia"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Operation on canthus">
+	<rdfs:label>Operation on canthus</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Clinical course">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Chronic"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Cardiac function">
+	<rdfs:label>Cardiac function</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Left carotid artery stenosis">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Increased">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Face structure">
+	<rdfs:label>Face structure</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Endometrial structure">
+	<rdfs:label>Endometrial structure</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Morphologically abnormal structure">
+	<rdfs:label>Morphologically abnormal structure</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Current or past">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Associated morphology">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Inflammatory morphology"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Left carotid artery occlusion">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Care regimes management">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Curettage of lesion of bone">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Scraping - action">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Bone graft material">
+	<rdfs:label>Bone graft material</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Bilateral thrombosis of carotid arteries"/>
+	<rdfs:range rdf:resource="neo4j://graph.schema#Bilateral thrombosis of posterior cerebral arteries"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Scraping">
+	<rdfs:label>Scraping</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Dissection of cervicocerebral artery">
+	<rdfs:label>Dissection of cervicocerebral artery</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#After">
+	<rdfs:label>After</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Structure of capillary blood vessel">
+	<rdfs:label>Structure of capillary blood vessel</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Occurrence">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Autosomal recessive hereditary disorder"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Self-help group membership - finding">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Has interpretation">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Disease"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Stroke monitoring">
+	<rdfs:label>Stroke monitoring</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Abnormally short growth">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Assessment scales"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Risk level">
+	<rdfs:label>Risk level</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Normal">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Cognitive disorder"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Sensory disorder">
+	<rdfs:label>Sensory disorder</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Normal cardiovascular function">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Associated morphology">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Hemidystonia"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Diffuse cerebrovascular disease"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Pathological developmental process">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Bilateral thrombosis of vertebral arteries">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Congenital">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Operation on tendon">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Cerebrovascular accident">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Aphasia"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Method">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Abrasion - action"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Associated morphology">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Dementia"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Bilateral embolism of posterior cerebral arteries"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Cerebral artery occlusion">
+	<rdfs:label>Cerebral artery occlusion</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Structure of middle cerebral artery">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Brainstem structure"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Structure of left upper limb">
+	<rdfs:label>Structure of left upper limb</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#History of cerebrovascular accident">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Causative agent">
+	<rdfs:label>Causative agent</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Procedure site - Direct">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Skeletal muscle structure"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Vertiginous syndrome">
+	<rdfs:label>Vertiginous syndrome</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Cerebrovascular accident"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Associated finding">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Thrombosis of right carotid artery">
+	<rdfs:label>Thrombosis of right carotid artery</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Cerebellar disorder"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Skin examination procedure AND/OR treatment"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Grafting - action">
+	<rdfs:label>Grafting - action</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Method">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Dilation - action"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Bilateral embolism of vertebral arteries">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Associated morphology">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Structural change due to ischemia"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Bilateral lower limb paralytic syndrome"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Curettage of lesion of bone"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Left cerebellar artery thrombosis">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Bilateral embolism of anterior cerebral arteries">
+	<rdfs:label>Bilateral embolism of anterior cerebral arteries</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Removal of lesion of eyelid">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Urinary tract function">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Embolism from thoracic aorta">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Bilateral embolism of posterior cerebral arteries">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Structure of glomerular capillary basement membrane"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Interprets">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Surgical extraction - action">
+	<rdfs:label>Surgical extraction - action</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Pain">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Procedure site - Indirect">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Endometrial cavity structure"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Knee joint structure">
+	<rdfs:label>Knee joint structure</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Hemorrhagic cerebral infarction">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Occurrence">
+	<rdfs:label>Occurrence</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#All times past">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Disease"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Healthcare services">
+	<rdfs:label>Healthcare services</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Lacunar infarct">
+	<rdfs:label>Lacunar infarct</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Method">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Shaving - action"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Precerebral arterial occlusion"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Altered">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Skeletal muscle structure">
+	<rdfs:label>Skeletal muscle structure</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Has interpretation">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Above reference range"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Muscle tone">
+	<rdfs:label>Muscle tone</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Fetal period">
+	<rdfs:label>Fetal period</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Has realization">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Cerebrovascular accident"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Skeletal muscle structure of face"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Direct morphology">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Paralytic syndrome"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Anterior cerebral circulation infarction">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Dementia"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Thrombosis of left carotid artery"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Endometrial structure">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Paraplegia"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Occurrence">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Childhood"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Structure of glomerular capillary basement membrane">
+	<rdfs:label>Structure of glomerular capillary basement membrane</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Associated morphology">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Hemiatrophy"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Bilateral occlusion of posterior cerebral arteries"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Muscle weakness"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Retinal structure">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Embolism of left vertebral artery"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Occurrence">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Period of life between birth and death"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Associated morphology">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Obstruction"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Interprets">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Autosomal recessive hereditary disorder"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Lesion">
+	<rdfs:label>Lesion</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Dilation - action">
+	<rdfs:label>Dilation - action</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Operation on canthus">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Occlusion of left anterior choroidal artery">
+	<rdfs:label>Occlusion of left anterior choroidal artery</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Cerebrovascular system structure">
+	<rdfs:label>Cerebrovascular system structure</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Intellectual ability">
+	<rdfs:label>Intellectual ability</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Embolism">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Structure of half of body lateral to midsagittal plane"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Occlusion of left pontine artery">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Impaired mineralization">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Temporal context">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Past"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Embolism of right vertebral artery">
+	<rdfs:label>Embolism of right vertebral artery</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Decreased">
+	<rdfs:label>Decreased</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Skeletal muscle structure of face">
+	<rdfs:label>Skeletal muscle structure of face</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:range rdf:resource="neo4j://graph.schema#History of cerebrovascular accident"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Right carotid artery occlusion">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Named sign of knee"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Opacity">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Termination - action">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Curettage of eyelid">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Systemic circulatory system structure">
+	<rdfs:label>Systemic circulatory system structure</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Procedure site - Direct">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Structure of palpebral conjunctiva"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Knee joint structure"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Assessment scales"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Sudden onset AND/OR short duration">
+	<rdfs:label>Sudden onset AND/OR short duration</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Disease">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Occurrence">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Perinatal period of fetus and/or neonate"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Occlusion of left middle cerebral artery">
+	<rdfs:label>Occlusion of left middle cerebral artery</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Stenosis of left vertebral artery">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Structure of gum and supporting structure of tooth">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Direct morphology">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Curettage"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Right posterior cerebral artery thrombosis">
+	<rdfs:label>Right posterior cerebral artery thrombosis</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Occlusion of left posterior communicating artery"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#After">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Cognitive disorder"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Tendon sheath structure">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Hemiplegia of nondominant side">
+	<rdfs:label>Hemiplegia of nondominant side</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Method">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Operation on canthus"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Known absent">
+	<rdfs:label>Known absent</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Scraping"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Bilateral embolism of posterior cerebral arteries">
+	<rdfs:label>Bilateral embolism of posterior cerebral arteries</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Occurrence">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Neonatal"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Disorder of cellular component of blood">
+	<rdfs:label>Disorder of cellular component of blood</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Occlusion of bilateral cerebellar arteries">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Temporal context">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#History of cerebrovascular accident with residual deficit"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Pathological process">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Disease"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Skeletal muscle structure"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Ataxia"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Fetal and embryonic material">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Embolism of left anterior cerebral artery">
+	<rdfs:label>Embolism of left anterior cerebral artery</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Skin structure">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Hemiplegia">
+	<rdfs:label>Hemiplegia</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Basilar artery occlusion">
+	<rdfs:label>Basilar artery occlusion</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Clinical course">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Has interpretation">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Deficient"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Disorder of cellular component of blood"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Structure of cerebellar artery">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Associated morphology">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Cerebrovascular accident"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Right posterior cerebral artery thrombosis"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Increased physical activity">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Temporal context">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Occlusion of right anterior choroidal artery">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Interprets">
+	<rdfs:label>Interprets</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Damage">
+	<rdfs:label>Damage</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Subject relationship context">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#No family history of"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Multiple infarcts">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Right carotid artery stenosis"/>
+	<rdfs:range rdf:resource="neo4j://graph.schema#Bilateral vertebral artery occlusion"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Education - action">
+	<rdfs:label>Education - action</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Diffuse cerebrovascular disease">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Thalamic structure">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Interprets">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Hemostatic function"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Associated finding">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#History of clinical finding in subject"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Has focus">
+	<rdfs:label>Has focus</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Fatigue"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Curettage - action">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Period of life between birth and death">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Evaluation - action">
+	<rdfs:label>Evaluation - action</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Occlusion of left middle cerebral artery"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Dysphasia">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Direct substance">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Curettage of lesion of bone"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Structural change due to ischemia">
+	<rdfs:label>Structural change due to ischemia</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Tooth structure">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Hemiplegia of dominant side"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Cerebral artery occlusion"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Asymptomatic">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Bilateral embolism of vertebral arteries">
+	<rdfs:label>Bilateral embolism of vertebral arteries</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Basilar artery embolism">
+	<rdfs:label>Basilar artery embolism</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Hemiplegia of nondominant side"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Admission to department">
+	<rdfs:label>Admission to department</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Cardiac ratio">
+	<rdfs:label>Cardiac ratio</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Face structure"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Thrombosis of left anterior cerebral artery">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Occlusion of left cerebellar artery"/>
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Epilepsy"/>
+	<rdfs:range rdf:resource="neo4j://graph.schema#Bilateral embolism of middle cerebral arteries"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Interprets">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Sensory disorder"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Cerebral hemisphere structure">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Occurrence">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Congenital"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Skin scraping for examination"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Upper limb structure">
+	<rdfs:label>Upper limb structure</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Body height measure">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Associated morphology">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Complete obstruction"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Neoplasm">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Has interpretation">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Disorder of cellular component of blood"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Procedure site - Direct">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Procedure"/>
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Operation on canthus"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Occurrence">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Disease"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Anterior cerebral circulation infarction">
+	<rdfs:label>Anterior cerebral circulation infarction</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Occlusion of right cerebellar artery"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Method">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Scraping - action"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Situation with explicit context">
+	<rdfs:label>Situation with explicit context</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Preventive procedure">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Sequela of cerebrovascular accident"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Hemiatrophy">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Sequela of cerebrovascular accident"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Interprets">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Blood viscosity measurement"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Curettage"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Embolism of right anterior cerebral artery"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Has focus">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Method">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Termination - action"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Occlusion of right vertebral artery">
+	<rdfs:label>Occlusion of right vertebral artery</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Occlusion of left anterior choroidal artery"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Left ventricular function">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Monoplegia of upper limb affecting non-dominant side">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Cardiac ratio">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Occlusion of right anterior choroidal artery">
+	<rdfs:label>Occlusion of right anterior choroidal artery</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Knee maneuver">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Associated morphology">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Hemorrhage"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Interprets">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Clinical finding"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Maternal postpartum">
+	<rdfs:label>Maternal postpartum</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Temporal context">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#History of clinical finding in subject"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Disease"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Sudden onset AND/OR short duration">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Dementia">
+	<rdfs:label>Dementia</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Fetal and embryonic material">
+	<rdfs:label>Fetal and embryonic material</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Embolism of right vertebral artery">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Structure of capillary blood vessel"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Structure of endocrine system">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Multiple infarcts">
+	<rdfs:label>Multiple infarcts</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Method">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Surgical removal"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Assessment using assessment scale">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Hemiplegia">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Operation on eyelid"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Brain stem infarction">
+	<rdfs:label>Brain stem infarction</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Clinical finding">
+	<rdfs:label>Clinical finding</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Direct substance">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#After">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Hemorrhagic cerebral infarction"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Subject relationship context">
+	<rdfs:label>Subject relationship context</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Dysarthria">
+	<rdfs:label>Dysarthria</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Interprets">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Body height measure"/>
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Normal cardiovascular function"/>
+	<rdfs:range rdf:resource="neo4j://graph.schema#Red blood cell count"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Sensation observable">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Causative agent">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Heat"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Structure of arteriole"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Subject relationship context">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Family history with explicit context"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Operation on eyelid">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Procedure site - Direct">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Endometrial structure"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Structure of cerebral artery">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Occlusion of left anterior cerebral artery"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Basilar artery thrombosis">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Hypercoagulability state"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Paralytic syndrome on one side of the body"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Structure of cerebellar artery">
+	<rdfs:label>Structure of cerebellar artery</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding context">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Known absent"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Method">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Grafting - action"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Ability to speak fluently">
+	<rdfs:label>Ability to speak fluently</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Termination - action">
+	<rdfs:label>Termination - action</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Spinal cord structure">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Associated morphology">
+	<rdfs:label>Associated morphology</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Procedure on heart">
+	<rdfs:label>Procedure on heart</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Method">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Procedure"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Skin examination procedure AND/OR treatment">
+	<rdfs:label>Skin examination procedure AND/OR treatment</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Paralytic syndrome">
+	<rdfs:label>Paralytic syndrome</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Autosomal dominant hereditary disorder">
+	<rdfs:label>Autosomal dominant hereditary disorder</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Structure of cerebral artery">
+	<rdfs:label>Structure of cerebral artery</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Clinical course">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Disease"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Bilateral carotid artery occlusion">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Interprets">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Energy / stamina"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Arteriovenous fistula">
+	<rdfs:label>Arteriovenous fistula</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Structure of intracranial artery">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Direct morphology">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Curettage of lesion of bone"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Lower urinary tract structure">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Structure of half of body lateral to midsagittal plane">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Left posterior cerebral artery thrombosis"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Associated finding">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#History of cerebrovascular accident with residual deficit"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Hemostatic function">
+	<rdfs:label>Hemostatic function</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#History of clinical finding in subject"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Direct substance">
+	<rdfs:label>Direct substance</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Interprets">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Decreased cardiac function"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Structure of arteriole">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Structure of right upper limb">
+	<rdfs:label>Structure of right upper limb</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Thrombosis of right vertebral artery"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding context">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Known present"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Curettage">
+	<rdfs:label>Curettage</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Embolism of right vertebral artery"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#After">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Monoplegia"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Increased physical activity"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Curettage of skin lesion">
+	<rdfs:label>Curettage of skin lesion</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Cognitive functions">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Associated morphology">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Disease"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Cerebellar structure"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Occlusion of right anterior cerebral artery"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Bone structure of hand">
+	<rdfs:label>Bone structure of hand</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Finding site">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Structure of precerebral and/or intracranial artery"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Bilateral occlusion of middle cerebral arteries">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Bilateral embolism of middle cerebral arteries">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#contains">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Situation with explicit context"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Right cerebellar artery thrombosis">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Deficient">
+	<rdfs:label>Deficient</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Hemorrhage">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Bilateral occlusion of posterior cerebral arteries">
+	<rdfs:label>Bilateral occlusion of posterior cerebral arteries</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Speech and language observable">
+	<rdfs:label>Speech and language observable</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Lower urinary tract structure">
+	<rdfs:label>Lower urinary tract structure</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Has interpretation">
+	<rdfs:domain rdf:resource="neo4j://graph.schema#Cardiovascular function finding"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Dermabrasion">
+	<rdfs:label>Dermabrasion</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Disease">
+	<rdfs:label>Disease</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="neo4j://graph.schema#Due to">
+	<rdfs:range rdf:resource="neo4j://graph.schema#Right carotid artery occlusion"/>
+</rdf:Description>
+
+</rdf:RDF>
