@@ -1,0 +1,233 @@
+[
+    {
+        "content": "Cough reflex",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Respiratory center function AND/OR reflex"
+            }
+        ]
+    },
+    {
+        "content": "Cough reflex absent",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Cough"
+            },
+            {
+                "type": "Is a",
+                "target": "Nervous system respiratory control finding"
+            },
+            {
+                "type": "Is a",
+                "target": "Reflex finding"
+            },
+            {
+                "type": "Finding site",
+                "target": "Respiratory tract structure"
+            },
+            {
+                "type": "Interprets",
+                "target": "Cough reflex"
+            },
+            {
+                "type": "Has interpretation",
+                "target": "Absent"
+            }
+        ]
+    },
+    {
+        "content": "Cough reflex present",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Cough reflex finding"
+            },
+            {
+                "type": "Interprets",
+                "target": "Cough reflex"
+            },
+            {
+                "type": "Has interpretation",
+                "target": "Present"
+            }
+        ]
+    },
+    {
+        "content": "Cough reflex finding",
+        "children": [
+            {
+                "content": "Cough reflex present",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Nervous system respiratory control finding"
+                    },
+                    {
+                        "type": "Is a",
+                        "target": "Reflex finding"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Cough reflex"
+                    }
+                ]
+            },
+            {
+                "content": "Cough reflex absent",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Nervous system respiratory control finding"
+                    },
+                    {
+                        "type": "Is a",
+                        "target": "Reflex finding"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Cough reflex"
+                    }
+                ]
+            },
+            {
+                "content": "Cough impulse impaired",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Nervous system respiratory control finding"
+                    },
+                    {
+                        "type": "Is a",
+                        "target": "Reflex finding"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Cough reflex"
+                    }
+                ]
+            }
+        ],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Nervous system respiratory control finding"
+            },
+            {
+                "type": "Is a",
+                "target": "Reflex finding"
+            },
+            {
+                "type": "Interprets",
+                "target": "Cough reflex"
+            }
+        ]
+    },
+    {
+        "content": "Cough reflex impaired",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Cough reflex finding"
+            },
+            {
+                "type": "Interprets",
+                "target": "Cough reflex"
+            },
+            {
+                "type": "Has interpretation",
+                "target": "Impaired"
+            }
+        ]
+    },
+    {
+        "content": "Arnold nerve reflex cough syndrome",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Disease"
+            },
+            {
+                "type": "Finding site",
+                "target": "Vagus nerve structure"
+            }
+        ]
+    },
+    {
+        "content": "A rare slowly progressive autosomal recessive syndromic cerebellar ataxia with characteristics of late-onset cerebellar dysfunction (including gait and limb ataxia, nystagmus and dysarthria), bilateral vestibulopathy (abnormal vestibulo-ocular reflex) and axonal sensory neuropathy. Variable features may include chronic cough and autonomic dysfunction. Brain imaging usually shows cerebellar atrophy.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Ataxia"
+            },
+            {
+                "type": "Is a",
+                "target": "Autosomal recessive hereditary disorder"
+            },
+            {
+                "type": "Is a",
+                "target": "Chronic bilateral vestibulopathy"
+            },
+            {
+                "type": "Is a",
+                "target": "Neurological finding"
+            },
+            {
+                "type": "Clinical course",
+                "target": "Progressive"
+            },
+            {
+                "type": "Finding site",
+                "target": "Cerebellar structure"
+            },
+            {
+                "type": "Finding site",
+                "target": "Left labyrinth structure"
+            },
+            {
+                "type": "Finding site",
+                "target": "Peripheral nerve structure"
+            },
+            {
+                "type": "Finding site",
+                "target": "Right labyrinth structure"
+            },
+            {
+                "type": "Interprets",
+                "target": "Vestibulo-ocular reflex"
+            },
+            {
+                "type": "Has interpretation",
+                "target": "Absent"
+            }
+        ]
+    },
+    {
+        "content": "A first aid technique to unblock the airway in cases of choking. when abdominal thrusts would be dangerous (such as in infants) or impossible (such as in pregnant women). In a chest thrust, the first-aider places a fist in the other hand, and, pressing against the lower breastbone, thrusts the chest wall inwards up to five times. The pressure simulates the coughing reflex and may expel the obstruction.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Airway procedure"
+            },
+            {
+                "type": "Is a",
+                "target": "First aid"
+            },
+            {
+                "type": "Procedure site - Direct",
+                "target": "Thoracic structure"
+            }
+        ]
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "content": "Standing unsupported",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Physiological process"
+            }
+        ]
+    },
+    {
+        "content": "Unsupported standing position",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Orthostatic body position"
+            }
+        ]
+    }
+]

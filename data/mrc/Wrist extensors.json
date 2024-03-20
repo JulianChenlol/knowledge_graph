@@ -1,0 +1,132 @@
+[
+    {
+        "content": "Rupture wrist extensors",
+        "children": [
+            {
+                "content": "Hand and wrist extensor tendon rupture",
+                "children": [
+                    {
+                        "content": "Nontraumatic rupture of extensor tendon of hand and wrist",
+                        "children": [],
+                        "relationships": [
+                            {
+                                "type": "Is a",
+                                "target": "Disease"
+                            },
+                            {
+                                "type": "Finding site",
+                                "target": "Structure of extensor tendon within hand"
+                            },
+                            {
+                                "type": "Associated morphology",
+                                "target": "Rupture"
+                            },
+                            {
+                                "type": "Finding site",
+                                "target": "Structure of extensor tendon within wrist region"
+                            },
+                            {
+                                "type": "Associated morphology",
+                                "target": "Rupture"
+                            }
+                        ]
+                    }
+                ],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Disease"
+                    },
+                    {
+                        "type": "Finding site",
+                        "target": "Structure of extensor tendon within wrist region"
+                    },
+                    {
+                        "type": "Associated morphology",
+                        "target": "Rupture"
+                    }
+                ]
+            }
+        ],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Disease"
+            },
+            {
+                "type": "Finding site",
+                "target": "Structure of extensor tendon within wrist region"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Rupture"
+            }
+        ]
+    },
+    {
+        "content": "Radical excision of bursa of synovia of extensors of wrist",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Bursectomy"
+            },
+            {
+                "type": "Method",
+                "target": "Excision - action"
+            },
+            {
+                "type": "Procedure site - Direct",
+                "target": "Entire bursa of wrist region"
+            }
+        ]
+    },
+    {
+        "content": "A distal myopathy with characteristics of weakness in the distal upper extremities usually finger and wrist extensors which later progresses to all hand muscles and distal lower extremities primarily in toe and ankle extensors. This disease is mainly restricted to a geographical area around the Baltic Sea and is a late adult-onset disorder. Caused by a missense change (c.1362G>A; p.E384K) in TIA1 gene (2p13) which encodes nucleolysin TIA-1 isoform p40, a key component of stress granules. Inherited as an autosomal dominant trait.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Autosomal dominant hereditary disorder"
+            },
+            {
+                "type": "Is a",
+                "target": "Distal muscular dystrophy"
+            },
+            {
+                "type": "Occurrence",
+                "target": "Adulthood"
+            },
+            {
+                "type": "Finding site",
+                "target": "Skeletal muscle structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Dystrophy"
+            }
+        ]
+    },
+    {
+        "content": "A rare genetic non-dystrophic myofibrillar myopathy disorder with characteristics of late-adult onset of distal and/or proximal limb muscle weakness with initial involvement of posterior lower leg muscles, medial gastrocnemius and soleus. Patients present with ankle weakness followed by weakness of finger and wrist extensors and later of the proximal muscles. Ambulation is usually preserved. Late-onset associated cardiomyopathy and/or neuropathy has been reported in a minority of cases. Caused by heterozygous mutation in the ZASP gene on chromosome 10.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Autosomal dominant hereditary disorder"
+            },
+            {
+                "type": "Is a",
+                "target": "Myofibrillar myopathy"
+            },
+            {
+                "type": "Occurrence",
+                "target": "Adulthood"
+            },
+            {
+                "type": "Finding site",
+                "target": "Skeletal muscle structure"
+            }
+        ]
+    }
+]

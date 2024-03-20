@@ -1,0 +1,28 @@
+[
+    {
+        "content": "A form of limb-girdle muscular dystrophy with onset in childhood or adolescence of rapidly progressive proximal limb muscle weakness (particularly affecting the neck, hip girdle, and shoulder abductors), hypertrophy in the calves and quadriceps, ankle contractures and myopia. Caused by homozygous mutation in the gene encoding protein O-mannose beta-1,2-N-acetylglucosaminyltransferase (POMGNT1) on chromosome 1p34.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Autosomal recessive muscular dystrophy with limb girdle distribution"
+            },
+            {
+                "type": "Clinical course",
+                "target": "Progressive"
+            },
+            {
+                "type": "Finding site",
+                "target": "Skeletal muscle structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Dystrophy"
+            },
+            {
+                "type": "Pathological process",
+                "target": "Pathological developmental process"
+            }
+        ]
+    }
+]

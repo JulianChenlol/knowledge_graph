@@ -1,0 +1,20 @@
+[
+    {
+        "content": "Able to turn body 360 degrees",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Finding of functional performance and activity"
+            },
+            {
+                "type": "Interprets",
+                "target": "Ability to turn body"
+            },
+            {
+                "type": "Has interpretation",
+                "target": "Able"
+            }
+        ]
+    }
+]

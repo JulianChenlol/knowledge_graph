@@ -1,0 +1,318 @@
+[
+    {
+        "content": "Pulls to standing from sitting",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Finding related to ability to pull to standing from sitting"
+            },
+            {
+                "type": "Interprets",
+                "target": "Ability to pull to standing from sitting"
+            },
+            {
+                "type": "Has interpretation",
+                "target": "Does"
+            }
+        ]
+    },
+    {
+        "content": "Able to pull to standing from sitting",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Finding related to ability to pull to standing from sitting"
+            },
+            {
+                "type": "Interprets",
+                "target": "Ability to pull to standing from sitting"
+            },
+            {
+                "type": "Has interpretation",
+                "target": "Able"
+            }
+        ]
+    },
+    {
+        "content": "Does not pull to standing from sitting",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Finding related to ability to pull to standing from sitting"
+            },
+            {
+                "type": "Interprets",
+                "target": "Ability to pull to standing from sitting"
+            },
+            {
+                "type": "Has interpretation",
+                "target": "Does not"
+            }
+        ]
+    },
+    {
+        "content": "Unable to pull to standing from sitting",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Finding related to ability to pull to standing from sitting"
+            },
+            {
+                "type": "Interprets",
+                "target": "Ability to pull to standing from sitting"
+            },
+            {
+                "type": "Has interpretation",
+                "target": "Unable"
+            }
+        ]
+    },
+    {
+        "content": "Ability to pull to standing from sitting",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Ability to stand up"
+            }
+        ]
+    },
+    {
+        "content": "Difficulty pulling to standing from sitting",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Finding related to ability to pull to standing from sitting"
+            },
+            {
+                "type": "Interprets",
+                "target": "Ability to pull to standing from sitting"
+            },
+            {
+                "type": "Has interpretation",
+                "target": "Difficulty"
+            }
+        ]
+    },
+    {
+        "content": "Able to alternate between sitting and standing",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Finding related to ability to alternate between sitting and standing"
+            },
+            {
+                "type": "Interprets",
+                "target": "Ability to alternate between sitting and standing"
+            },
+            {
+                "type": "Has interpretation",
+                "target": "Able"
+            }
+        ]
+    },
+    {
+        "content": "Unable to alternate between sitting and standing",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Finding related to ability to alternate between sitting and standing"
+            },
+            {
+                "type": "Interprets",
+                "target": "Ability to alternate between sitting and standing"
+            },
+            {
+                "type": "Has interpretation",
+                "target": "Unable"
+            }
+        ]
+    },
+    {
+        "content": "Ability to alternate between sitting and standing",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Ability to change position"
+            }
+        ]
+    },
+    {
+        "content": "Finding related to ability to pull to standing from sitting",
+        "children": [
+            {
+                "content": "Difficulty pulling to standing from sitting",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding related to ability to stand up"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to pull to standing from sitting"
+                    }
+                ]
+            },
+            {
+                "content": "Does not pull to standing from sitting",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding related to ability to stand up"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to pull to standing from sitting"
+                    }
+                ]
+            },
+            {
+                "content": "Does pull to standing from sitting",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding related to ability to stand up"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to pull to standing from sitting"
+                    }
+                ]
+            },
+            {
+                "content": "Unable to pull to standing from sitting",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding related to ability to stand up"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to pull to standing from sitting"
+                    }
+                ]
+            },
+            {
+                "content": "Able to pull to standing from sitting",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding related to ability to stand up"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to pull to standing from sitting"
+                    }
+                ]
+            }
+        ],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Finding related to ability to stand up"
+            },
+            {
+                "type": "Interprets",
+                "target": "Ability to pull to standing from sitting"
+            }
+        ]
+    },
+    {
+        "content": "Finding related to ability to alternate between sitting and standing",
+        "children": [
+            {
+                "content": "Difficulty alternating between sitting and standing",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding related to ability to change position"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to alternate between sitting and standing"
+                    }
+                ]
+            },
+            {
+                "content": "Does not alternate between sitting and standing",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding related to ability to change position"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to alternate between sitting and standing"
+                    }
+                ]
+            },
+            {
+                "content": "Does alternate between sitting and standing",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding related to ability to change position"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to alternate between sitting and standing"
+                    }
+                ]
+            },
+            {
+                "content": "Unable to alternate between sitting and standing",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding related to ability to change position"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to alternate between sitting and standing"
+                    }
+                ]
+            },
+            {
+                "content": "Able to alternate between sitting and standing",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding related to ability to change position"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to alternate between sitting and standing"
+                    }
+                ]
+            }
+        ],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Finding related to ability to change position"
+            },
+            {
+                "type": "Interprets",
+                "target": "Ability to alternate between sitting and standing"
+            }
+        ]
+    }
+]

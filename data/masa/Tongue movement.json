@@ -1,0 +1,353 @@
+[
+    {
+        "content": "Movement of tongue",
+        "children": [
+            {
+                "content": "Protrusion of tongue",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Feature of local motor movement"
+                    }
+                ]
+            },
+            {
+                "content": "Tongue thrust",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Feature of local motor movement"
+                    }
+                ]
+            }
+        ],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Feature of local motor movement"
+            }
+        ]
+    },
+    {
+        "content": "Imitates tongue movements",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Finding related to ability to imitate tongue movements"
+            },
+            {
+                "type": "Interprets",
+                "target": "Ability to imitate tongue movements"
+            },
+            {
+                "type": "Has interpretation",
+                "target": "Does"
+            }
+        ]
+    },
+    {
+        "content": "Constant movement of tongue",
+        "children": [
+            {
+                "content": "Ruminating movements of tongue",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Motor function of tongue - finding"
+                    },
+                    {
+                        "type": "Is a",
+                        "target": "Muscle finding"
+                    },
+                    {
+                        "type": "Finding site",
+                        "target": "Tongue structure"
+                    }
+                ]
+            }
+        ],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Motor function of tongue - finding"
+            },
+            {
+                "type": "Is a",
+                "target": "Muscle finding"
+            },
+            {
+                "type": "Finding site",
+                "target": "Tongue structure"
+            }
+        ]
+    },
+    {
+        "content": "Ruminating movements of tongue",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Constant movement of tongue"
+            },
+            {
+                "type": "Finding site",
+                "target": "Tongue structure"
+            }
+        ]
+    },
+    {
+        "content": "Tongue lateral movement exercise",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Tongue exercises"
+            }
+        ]
+    },
+    {
+        "content": "Able to imitate tongue movements",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Finding related to ability to imitate tongue movements"
+            },
+            {
+                "type": "Interprets",
+                "target": "Ability to imitate tongue movements"
+            },
+            {
+                "type": "Has interpretation",
+                "target": "Able"
+            }
+        ]
+    },
+    {
+        "content": "Does not imitate tongue movements",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Finding related to ability to imitate tongue movements"
+            },
+            {
+                "type": "Interprets",
+                "target": "Ability to imitate tongue movements"
+            },
+            {
+                "type": "Has interpretation",
+                "target": "Does not"
+            }
+        ]
+    },
+    {
+        "content": "Unable to imitate tongue movements",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Finding related to ability to imitate tongue movements"
+            },
+            {
+                "type": "Interprets",
+                "target": "Ability to imitate tongue movements"
+            },
+            {
+                "type": "Has interpretation",
+                "target": "Unable"
+            }
+        ]
+    },
+    {
+        "content": "Ability to imitate tongue movements",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Ability to move tongue"
+            }
+        ]
+    },
+    {
+        "content": "Tongue alternative movement exercise",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Tongue exercises"
+            }
+        ]
+    },
+    {
+        "content": "Difficulty imitating tongue movements",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Finding related to ability to imitate tongue movements"
+            },
+            {
+                "type": "Interprets",
+                "target": "Ability to imitate tongue movements"
+            },
+            {
+                "type": "Has interpretation",
+                "target": "Difficulty"
+            }
+        ]
+    },
+    {
+        "content": "Inability to imitate tongue movements",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Finding related to ability to imitate tongue movements"
+            }
+        ]
+    },
+    {
+        "content": "Finding related to ability to imitate tongue movements",
+        "children": [
+            {
+                "content": "Difficulty imitating tongue movements",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding related to ability to move tongue"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to imitate tongue movements"
+                    }
+                ]
+            },
+            {
+                "content": "Does not imitate tongue movements",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding related to ability to move tongue"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to imitate tongue movements"
+                    }
+                ]
+            },
+            {
+                "content": "Does imitate tongue movements",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding related to ability to move tongue"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to imitate tongue movements"
+                    }
+                ]
+            },
+            {
+                "content": "Unable to imitate tongue movements",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding related to ability to move tongue"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to imitate tongue movements"
+                    }
+                ]
+            },
+            {
+                "content": "Able to imitate tongue movements",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding related to ability to move tongue"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to imitate tongue movements"
+                    }
+                ]
+            },
+            {
+                "content": "Inability to imitate tongue movements",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding related to ability to move tongue"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to imitate tongue movements"
+                    }
+                ]
+            }
+        ],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Finding related to ability to move tongue"
+            },
+            {
+                "type": "Interprets",
+                "target": "Ability to imitate tongue movements"
+            }
+        ]
+    },
+    {
+        "content": "An epileptic seizure originating within unilateral networks limited to the mesial area of the temporal lobe. These seizures may include an aura: autonomic (rising epigastric sensation, abdominal discomfort), cognitive (d\u00e9j\u00e0 vu/jamais vu), emotional (fear), or sensory (unpleasant olfactory and gustatory). The aura may occur in isolation or may be followed by behavioral arrest with slowly progressive impairment of awareness and oral (chewing, lip-smacking, swallowing, tongue movements) and manual automatisms. Autonomic phenomena (pallor, flushing, tachycardia) are common.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Temporal lobe epileptic seizure"
+            },
+            {
+                "type": "Finding site",
+                "target": "Temporal lobe structure"
+            }
+        ]
+    },
+    {
+        "content": "A form of cerebral palsy with characteristics of congenital pseudobulbar (suprabulbar) paresis manifesting as selective weakness of the lips, tongue and soft palate, dysphagia, dysphonia, drooling and jaw jerking. Mean age at diagnosis is 6 years. The main clinical features are spasticity and limited movements around the mouth and throat from an early age, and brisk jaw jerks. Most cases are sporadic but several families with more than one affected member have been reported. Inheritance in these families appeared to follow an autosomal dominant pattern with variable expression and penetrance.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Cerebral palsy"
+            },
+            {
+                "type": "Occurrence",
+                "target": "Congenital"
+            },
+            {
+                "type": "Finding site",
+                "target": "Cerebrum"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Morphologically abnormal structure"
+            },
+            {
+                "type": "Pathological process",
+                "target": "Pathological developmental process"
+            }
+        ]
+    }
+]

@@ -1,0 +1,3433 @@
+[
+    {
+        "content": "Dysarthria",
+        "children": [
+            {
+                "content": "Dysarthria due to and following hemorrhagic cerebrovascular accident",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Disturbance in speech"
+                    },
+                    {
+                        "type": "Is a",
+                        "target": "Neurological finding"
+                    }
+                ]
+            },
+            {
+                "content": "Dysarthria as late effects of cerebrovascular disease",
+                "children": [
+                    {
+                        "content": "Dysarthria due to and following cerebrovascular accident",
+                        "children": [
+                            {
+                                "content": "Dysarthria due to and following embolic cerebrovascular accident",
+                                "children": [],
+                                "relationships": [
+                                    {
+                                        "type": "Is a",
+                                        "target": "Disease"
+                                    },
+                                    {
+                                        "type": "Is a",
+                                        "target": "Dysarthria"
+                                    },
+                                    {
+                                        "type": "Due to",
+                                        "target": "Cerebrovascular accident"
+                                    },
+                                    {
+                                        "type": "After",
+                                        "target": "Cerebrovascular accident"
+                                    }
+                                ]
+                            },
+                            {
+                                "content": "Dysarthria due to and following ischemic cerebrovascular accident",
+                                "children": [],
+                                "relationships": [
+                                    {
+                                        "type": "Is a",
+                                        "target": "Disease"
+                                    },
+                                    {
+                                        "type": "Is a",
+                                        "target": "Dysarthria"
+                                    },
+                                    {
+                                        "type": "Due to",
+                                        "target": "Cerebrovascular accident"
+                                    },
+                                    {
+                                        "type": "After",
+                                        "target": "Cerebrovascular accident"
+                                    }
+                                ]
+                            }
+                        ],
+                        "relationships": [
+                            {
+                                "type": "Is a",
+                                "target": "Disease"
+                            },
+                            {
+                                "type": "Is a",
+                                "target": "Dysarthria"
+                            },
+                            {
+                                "type": "Due to",
+                                "target": "Cerebrovascular disease"
+                            },
+                            {
+                                "type": "After",
+                                "target": "Cerebrovascular disease"
+                            }
+                        ]
+                    }
+                ],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Disturbance in speech"
+                    },
+                    {
+                        "type": "Is a",
+                        "target": "Neurological finding"
+                    }
+                ]
+            },
+            {
+                "content": "Hyperkinetic dysarthria",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Disturbance in speech"
+                    },
+                    {
+                        "type": "Is a",
+                        "target": "Neurological finding"
+                    }
+                ]
+            },
+            {
+                "content": "Autosomal recessive spastic ataxia, optic atrophy, dysarthria syndrome",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Disturbance in speech"
+                    },
+                    {
+                        "type": "Is a",
+                        "target": "Neurological finding"
+                    }
+                ]
+            },
+            {
+                "content": "Acquired dysarthria",
+                "children": [
+                    {
+                        "content": "Sensory ataxic neuropathy with dysarthria and ophthalmoparesis syndrome",
+                        "children": [],
+                        "relationships": [
+                            {
+                                "type": "Is a",
+                                "target": "Dysarthria"
+                            },
+                            {
+                                "type": "Occurrence",
+                                "target": "Period of life between birth and death"
+                            }
+                        ]
+                    }
+                ],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Disturbance in speech"
+                    },
+                    {
+                        "type": "Is a",
+                        "target": "Neurological finding"
+                    }
+                ]
+            },
+            {
+                "content": "Lingual dysarthria",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Disturbance in speech"
+                    },
+                    {
+                        "type": "Is a",
+                        "target": "Neurological finding"
+                    }
+                ]
+            },
+            {
+                "content": "Congenital dysarthria",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Disturbance in speech"
+                    },
+                    {
+                        "type": "Is a",
+                        "target": "Neurological finding"
+                    }
+                ]
+            },
+            {
+                "content": "Dysarthria of velopharynx",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Disturbance in speech"
+                    },
+                    {
+                        "type": "Is a",
+                        "target": "Neurological finding"
+                    }
+                ]
+            },
+            {
+                "content": "Dysarthriapneumophonia",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Disturbance in speech"
+                    },
+                    {
+                        "type": "Is a",
+                        "target": "Neurological finding"
+                    }
+                ]
+            },
+            {
+                "content": "Extrapyramidal dysarthria",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Disturbance in speech"
+                    },
+                    {
+                        "type": "Is a",
+                        "target": "Neurological finding"
+                    }
+                ]
+            },
+            {
+                "content": "Cerebellar dysarthria",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Disturbance in speech"
+                    },
+                    {
+                        "type": "Is a",
+                        "target": "Neurological finding"
+                    }
+                ]
+            },
+            {
+                "content": "Mixed dysarthria",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Disturbance in speech"
+                    },
+                    {
+                        "type": "Is a",
+                        "target": "Neurological finding"
+                    }
+                ]
+            },
+            {
+                "content": "Flaccid dysarthria",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Disturbance in speech"
+                    },
+                    {
+                        "type": "Is a",
+                        "target": "Neurological finding"
+                    }
+                ]
+            },
+            {
+                "content": "Spastic dysarthria",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Disturbance in speech"
+                    },
+                    {
+                        "type": "Is a",
+                        "target": "Neurological finding"
+                    }
+                ]
+            },
+            {
+                "content": "Bradylalia",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Disturbance in speech"
+                    },
+                    {
+                        "type": "Is a",
+                        "target": "Neurological finding"
+                    }
+                ]
+            }
+        ],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Disturbance in speech"
+            },
+            {
+                "type": "Is a",
+                "target": "Neurological finding"
+            }
+        ]
+    },
+    {
+        "content": "Mixed dysarthria",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Dysarthria"
+            }
+        ]
+    },
+    {
+        "content": "Ataxic dysarthria",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Dysarthria"
+            }
+        ]
+    },
+    {
+        "content": "Dysarthria program",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Oral motor regime"
+            }
+        ]
+    },
+    {
+        "content": "Spastic dysarthria",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Dysarthria"
+            }
+        ]
+    },
+    {
+        "content": "Flaccid dysarthria",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Dysarthria"
+            }
+        ]
+    },
+    {
+        "content": "Lingual dysarthria",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Dysarthria"
+            }
+        ]
+    },
+    {
+        "content": "Acquired dysarthria",
+        "children": [
+            {
+                "content": "Sensory ataxic neuropathy with dysarthria and ophthalmoparesis syndrome",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Dysarthria"
+                    },
+                    {
+                        "type": "Occurrence",
+                        "target": "Period of life between birth and death"
+                    }
+                ]
+            }
+        ],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Dysarthria"
+            },
+            {
+                "type": "Occurrence",
+                "target": "Period of life between birth and death"
+            }
+        ]
+    },
+    {
+        "content": "Congenital dysarthria",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Disease"
+            },
+            {
+                "type": "Is a",
+                "target": "Dysarthria"
+            },
+            {
+                "type": "Occurrence",
+                "target": "Congenital"
+            }
+        ]
+    },
+    {
+        "content": "Hypokinetic dysarthria",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Dysarthria"
+            }
+        ]
+    },
+    {
+        "content": "Dysarthriapneumophonia",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Dysarthria"
+            }
+        ]
+    },
+    {
+        "content": "Hyperkinetic dysarthria",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Dysarthria"
+            }
+        ]
+    },
+    {
+        "content": "Dysarthria of velopharynx",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Dysarthria"
+            }
+        ]
+    },
+    {
+        "content": "Robertson dysarthria profile",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Assessment scales"
+            }
+        ]
+    },
+    {
+        "content": "Frenchay dysarthria assessment",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Assessment scales"
+            }
+        ]
+    },
+    {
+        "content": "Robertson dysarthria assessment",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Assessment scales"
+            }
+        ]
+    },
+    {
+        "content": "Dysarthria-clumsy hand syndrome",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Disease"
+            },
+            {
+                "type": "Finding site",
+                "target": "Cerebrum"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Lacunar infarct"
+            }
+        ]
+    },
+    {
+        "content": "Dysarthria as late effect of stroke",
+        "children": [
+            {
+                "content": "Dysarthria due to and following embolic cerebrovascular accident",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Disease"
+                    },
+                    {
+                        "type": "Is a",
+                        "target": "Dysarthria"
+                    },
+                    {
+                        "type": "Due to",
+                        "target": "Cerebrovascular accident"
+                    },
+                    {
+                        "type": "After",
+                        "target": "Cerebrovascular accident"
+                    }
+                ]
+            },
+            {
+                "content": "Dysarthria due to and following ischemic cerebrovascular accident",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Disease"
+                    },
+                    {
+                        "type": "Is a",
+                        "target": "Dysarthria"
+                    },
+                    {
+                        "type": "Due to",
+                        "target": "Cerebrovascular accident"
+                    },
+                    {
+                        "type": "After",
+                        "target": "Cerebrovascular accident"
+                    }
+                ]
+            }
+        ],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Disease"
+            },
+            {
+                "type": "Is a",
+                "target": "Dysarthria"
+            },
+            {
+                "type": "Due to",
+                "target": "Cerebrovascular accident"
+            },
+            {
+                "type": "After",
+                "target": "Cerebrovascular accident"
+            }
+        ]
+    },
+    {
+        "content": "Frenchay Dysarthria Assessment score",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Assessment score"
+            },
+            {
+                "type": "Is a",
+                "target": "Speech and language observable"
+            }
+        ]
+    },
+    {
+        "content": "Dysarthria due to and following embolic stroke",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Disease"
+            },
+            {
+                "type": "Is a",
+                "target": "Dysarthria"
+            },
+            {
+                "type": "Due to",
+                "target": "Embolic stroke"
+            },
+            {
+                "type": "After",
+                "target": "Embolic stroke"
+            }
+        ]
+    },
+    {
+        "content": "Dysarthria as late effect of hemorrhagic stroke",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Disease"
+            },
+            {
+                "type": "Is a",
+                "target": "Dysarthria"
+            },
+            {
+                "type": "Due to",
+                "target": "Hemorrhagic cerebral infarction"
+            },
+            {
+                "type": "After",
+                "target": "Hemorrhagic cerebral infarction"
+            }
+        ]
+    },
+    {
+        "content": "Assessment using Frenchay Dysarthria Assessment",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Assessment using assessment scale"
+            }
+        ]
+    },
+    {
+        "content": "Dysarthria due to and following ischemic stroke",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Disease"
+            },
+            {
+                "type": "Is a",
+                "target": "Dysarthria"
+            },
+            {
+                "type": "Due to",
+                "target": "Ischemic stroke"
+            },
+            {
+                "type": "After",
+                "target": "Ischemic stroke"
+            }
+        ]
+    },
+    {
+        "content": "Dysarthria as late effects of cerebrovascular disease",
+        "children": [
+            {
+                "content": "Dysarthria due to and following cerebrovascular accident",
+                "children": [
+                    {
+                        "content": "Dysarthria due to and following embolic cerebrovascular accident",
+                        "children": [],
+                        "relationships": [
+                            {
+                                "type": "Is a",
+                                "target": "Disease"
+                            },
+                            {
+                                "type": "Is a",
+                                "target": "Dysarthria"
+                            },
+                            {
+                                "type": "Due to",
+                                "target": "Cerebrovascular accident"
+                            },
+                            {
+                                "type": "After",
+                                "target": "Cerebrovascular accident"
+                            }
+                        ]
+                    },
+                    {
+                        "content": "Dysarthria due to and following ischemic cerebrovascular accident",
+                        "children": [],
+                        "relationships": [
+                            {
+                                "type": "Is a",
+                                "target": "Disease"
+                            },
+                            {
+                                "type": "Is a",
+                                "target": "Dysarthria"
+                            },
+                            {
+                                "type": "Due to",
+                                "target": "Cerebrovascular accident"
+                            },
+                            {
+                                "type": "After",
+                                "target": "Cerebrovascular accident"
+                            }
+                        ]
+                    }
+                ],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Disease"
+                    },
+                    {
+                        "type": "Is a",
+                        "target": "Dysarthria"
+                    },
+                    {
+                        "type": "Due to",
+                        "target": "Cerebrovascular disease"
+                    },
+                    {
+                        "type": "After",
+                        "target": "Cerebrovascular disease"
+                    }
+                ]
+            }
+        ],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Disease"
+            },
+            {
+                "type": "Is a",
+                "target": "Dysarthria"
+            },
+            {
+                "type": "Due to",
+                "target": "Cerebrovascular disease"
+            },
+            {
+                "type": "After",
+                "target": "Cerebrovascular disease"
+            }
+        ]
+    },
+    {
+        "content": "Late onset proximal muscular dystrophy with dysarthria",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Autosomal dominant muscular dystrophy with gene located at 5q31"
+            },
+            {
+                "type": "Clinical course",
+                "target": "Progressive"
+            },
+            {
+                "type": "Finding site",
+                "target": "Skeletal muscle structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Dystrophy"
+            },
+            {
+                "type": "Pathological process",
+                "target": "Pathological developmental process"
+            }
+        ]
+    },
+    {
+        "content": "Spastic ataxia, dysarthria due to glutaminase deficiency",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Ataxia"
+            },
+            {
+                "type": "Is a",
+                "target": "Disorder of glutamine metabolism"
+            },
+            {
+                "type": "Is a",
+                "target": "Global developmental delay"
+            },
+            {
+                "type": "Is a",
+                "target": "Inborn error of metabolism"
+            },
+            {
+                "type": "Clinical course",
+                "target": "Progressive"
+            },
+            {
+                "type": "Due to",
+                "target": "Deficiency of glutaminase"
+            },
+            {
+                "type": "Occurrence",
+                "target": "Congenital"
+            },
+            {
+                "type": "Finding site",
+                "target": "Structure of nervous system"
+            },
+            {
+                "type": "Pathological process",
+                "target": "Pathological developmental process"
+            }
+        ]
+    },
+    {
+        "content": "X-linked intellectual deficit-dystonia-dysarthria syndrome",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Intelligence finding"
+            },
+            {
+                "type": "Is a",
+                "target": "Neurodevelopmental disorder"
+            },
+            {
+                "type": "Is a",
+                "target": "X-linked recessive hereditary disease"
+            },
+            {
+                "type": "Pathological process",
+                "target": "Pathological developmental process"
+            },
+            {
+                "type": "Interprets",
+                "target": "Adaptation behavior"
+            },
+            {
+                "type": "Has interpretation",
+                "target": "Impaired"
+            },
+            {
+                "type": "Interprets",
+                "target": "Intellectual ability"
+            },
+            {
+                "type": "Has interpretation",
+                "target": "Impaired"
+            }
+        ]
+    },
+    {
+        "content": "Focal epilepsy, intellectual disability, dysarthria, ataxia syndrome",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Autosomal recessive hereditary disorder"
+            },
+            {
+                "type": "Is a",
+                "target": "Focal epilepsy"
+            },
+            {
+                "type": "Is a",
+                "target": "Intelligence finding"
+            },
+            {
+                "type": "Is a",
+                "target": "Multiple system malformation syndrome"
+            },
+            {
+                "type": "Is a",
+                "target": "Neurodevelopmental disorder"
+            },
+            {
+                "type": "Interprets",
+                "target": "Adaptation behavior"
+            },
+            {
+                "type": "Has interpretation",
+                "target": "Impaired"
+            },
+            {
+                "type": "Interprets",
+                "target": "Intellectual ability"
+            },
+            {
+                "type": "Has interpretation",
+                "target": "Impaired"
+            },
+            {
+                "type": "Occurrence",
+                "target": "Congenital"
+            },
+            {
+                "type": "Finding site",
+                "target": "Cerebellar structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Morphologically abnormal structure"
+            },
+            {
+                "type": "Pathological process",
+                "target": "Pathological developmental process"
+            }
+        ]
+    },
+    {
+        "content": "Autosomal recessive spastic ataxia, optic atrophy, dysarthria syndrome",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Ataxia"
+            },
+            {
+                "type": "Is a",
+                "target": "Autosomal recessive hereditary disorder"
+            },
+            {
+                "type": "Is a",
+                "target": "Dysarthria"
+            },
+            {
+                "type": "Is a",
+                "target": "Mitochondrial cytopathy"
+            },
+            {
+                "type": "Finding site",
+                "target": "Cerebellar structure"
+            },
+            {
+                "type": "Finding site",
+                "target": "Optic nerve structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Atrophy"
+            }
+        ]
+    },
+    {
+        "content": "SANDO (sensory ataxic neuropathy dysarthria ophthalmoparesis) syndrome",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Autosomal recessive hereditary disorder"
+            },
+            {
+                "type": "Is a",
+                "target": "Dysarthria"
+            },
+            {
+                "type": "Is a",
+                "target": "Progressive external ophthalmoplegia"
+            },
+            {
+                "type": "Is a",
+                "target": "Sensory ataxia"
+            },
+            {
+                "type": "Due to",
+                "target": "Mitochondrial cytopathy"
+            },
+            {
+                "type": "Occurrence",
+                "target": "Adulthood"
+            },
+            {
+                "type": "Finding site",
+                "target": "Peripheral nerve structure"
+            }
+        ]
+    },
+    {
+        "content": "Postnatal microcephaly, infantile hypotonia, spastic diplegia, dysarthria, intellectual disability syndrome",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Autosomal recessive hereditary disorder"
+            },
+            {
+                "type": "Is a",
+                "target": "Complicated hereditary spastic paraplegia"
+            },
+            {
+                "type": "Is a",
+                "target": "Intelligence finding"
+            },
+            {
+                "type": "Is a",
+                "target": "Neurodevelopmental disorder"
+            },
+            {
+                "type": "Clinical course",
+                "target": "Progressive"
+            },
+            {
+                "type": "Finding site",
+                "target": "Lower limb structure"
+            },
+            {
+                "type": "Interprets",
+                "target": "Adaptation behavior"
+            },
+            {
+                "type": "Has interpretation",
+                "target": "Impaired"
+            },
+            {
+                "type": "Interprets",
+                "target": "Head circumference"
+            },
+            {
+                "type": "Has interpretation",
+                "target": "Below reference range"
+            },
+            {
+                "type": "Interprets",
+                "target": "Intellectual ability"
+            },
+            {
+                "type": "Has interpretation",
+                "target": "Impaired"
+            },
+            {
+                "type": "Finding site",
+                "target": "Head structure"
+            },
+            {
+                "type": "Pathological process",
+                "target": "Pathological developmental process"
+            },
+            {
+                "type": "Finding site",
+                "target": "Spinal cord structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Degenerative abnormality"
+            }
+        ]
+    },
+    {
+        "content": "A limb girdle muscular dystrophy caused by myotilin deficiency with characteristics of limb-girdle weakness in combination with dysarthria.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Autosomal dominant muscular dystrophy with limb girdle distribution"
+            },
+            {
+                "type": "Clinical course",
+                "target": "Progressive"
+            },
+            {
+                "type": "Finding site",
+                "target": "Skeletal muscle structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Dystrophy"
+            },
+            {
+                "type": "Pathological process",
+                "target": "Pathological developmental process"
+            }
+        ]
+    },
+    {
+        "content": "An exceedingly rare form of hereditary episodic ataxia with characteristics of ataxia with weakness, vertigo, and dysarthria without interictal findings.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Episodic ataxia"
+            },
+            {
+                "type": "Finding site",
+                "target": "Cerebellar structure"
+            }
+        ]
+    },
+    {
+        "content": "A limb girdle muscular dystrophy with characteristics of muscular weakness, primarily affecting the pelvic and shoulder girdles with no bulbar weakness or dysarthria.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Autosomal dominant muscular dystrophy with limb girdle distribution"
+            },
+            {
+                "type": "Clinical course",
+                "target": "Progressive"
+            },
+            {
+                "type": "Finding site",
+                "target": "Skeletal muscle structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Dystrophy"
+            },
+            {
+                "type": "Pathological process",
+                "target": "Pathological developmental process"
+            }
+        ]
+    },
+    {
+        "content": "A rare genetic isolated dystonia initially presenting as torticollis and later progressing to segmental or generalized dystonia. Dysphonia and dysarthria also occur later in the disease course.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Autosomal recessive hereditary disorder"
+            },
+            {
+                "type": "Is a",
+                "target": "Idiopathic familial dystonia"
+            },
+            {
+                "type": "Finding site",
+                "target": "Extrapyramidal system structure"
+            }
+        ]
+    },
+    {
+        "content": "A rare autosomal dominant cerebellar ataxia with characteristics of slowly progressive late-onset gait and limb ataxia, dysarthria and variable nystagmus. Brain imaging reveals cerebellar atrophy.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Autosomal dominant hereditary disorder"
+            },
+            {
+                "type": "Is a",
+                "target": "Spinocerebellar ataxia"
+            },
+            {
+                "type": "Clinical course",
+                "target": "Progressive"
+            },
+            {
+                "type": "Finding site",
+                "target": "Cerebellar structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Atrophy"
+            },
+            {
+                "type": "Finding site",
+                "target": "Spinal cord structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Degenerative abnormality"
+            }
+        ]
+    },
+    {
+        "content": "A very rare disease with characteristics of adult-onset unsteady gait and dysarthria, followed by wide-based gait, gait ataxia, ocular dysmetria, intention tremor, scanning speech, hyperreflexia and dysdiadochokinesis.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Autosomal dominant hereditary disorder"
+            },
+            {
+                "type": "Is a",
+                "target": "Spinocerebellar ataxia"
+            },
+            {
+                "type": "Finding site",
+                "target": "Cerebellar structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Degenerative abnormality"
+            },
+            {
+                "type": "Finding site",
+                "target": "Spinal cord structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Degenerative abnormality"
+            }
+        ]
+    },
+    {
+        "content": "Syndrome that is marked by characteristic facies associated with dysarthria, delayed psychomotor development, ataxia, scoliosis and foot deformities. Three cases have been described and transmission appears to be autosomal recessive.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Autosomal recessive hereditary disorder"
+            },
+            {
+                "type": "Is a",
+                "target": "Multiple malformation syndrome with facial-limb defects as major feature"
+            },
+            {
+                "type": "Is a",
+                "target": "Spinocerebellar ataxia"
+            },
+            {
+                "type": "Occurrence",
+                "target": "Congenital"
+            },
+            {
+                "type": "Finding site",
+                "target": "Cerebellar structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Degenerative abnormality"
+            },
+            {
+                "type": "Pathological process",
+                "target": "Pathological developmental process"
+            },
+            {
+                "type": "Occurrence",
+                "target": "Congenital"
+            },
+            {
+                "type": "Finding site",
+                "target": "Spinal cord structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Degenerative abnormality"
+            },
+            {
+                "type": "Pathological process",
+                "target": "Pathological developmental process"
+            },
+            {
+                "type": "Occurrence",
+                "target": "Congenital"
+            },
+            {
+                "type": "Finding site",
+                "target": "Foot structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Morphologically abnormal structure"
+            },
+            {
+                "type": "Pathological process",
+                "target": "Pathological developmental process"
+            },
+            {
+                "type": "Occurrence",
+                "target": "Congenital"
+            },
+            {
+                "type": "Finding site",
+                "target": "Face structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Morphologically abnormal structure"
+            },
+            {
+                "type": "Pathological process",
+                "target": "Pathological developmental process"
+            }
+        ]
+    },
+    {
+        "content": "A rare genetic infantile epilepsy syndrome disease with characteristics of neonatal to infancy onset myoclonic focal seizures occurring in various members of a family, associated in some with mild dysarthria, ataxia and borderline-to-moderate intellectual disability.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Autosomal recessive hereditary disorder"
+            },
+            {
+                "type": "Is a",
+                "target": "Epilepsy"
+            },
+            {
+                "type": "Is a",
+                "target": "Familial disease"
+            },
+            {
+                "type": "Occurrence",
+                "target": "Infancy"
+            },
+            {
+                "type": "Finding site",
+                "target": "Cerebrum"
+            }
+        ]
+    },
+    {
+        "content": "A rare mitochondrial DNA maintenance syndrome with characteristics of early-onset cerebellar ataxia and a variable combination of epilepsy, headache, dysarthria, ophthalmoplegia, peripheral neuropathy, intellectual disability, psychiatric symptoms and movement disorders.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Autosomal recessive hereditary disorder"
+            },
+            {
+                "type": "Is a",
+                "target": "Depletion of mitochondrial DNA"
+            },
+            {
+                "type": "Is a",
+                "target": "Early onset cerebellar ataxia"
+            },
+            {
+                "type": "Occurrence",
+                "target": "Congenital"
+            },
+            {
+                "type": "Finding site",
+                "target": "Cerebellar structure"
+            }
+        ]
+    },
+    {
+        "content": "Disease with characteristics of the adult-onset (average age 40 years) of truncal ataxia, gait disturbance and gaze-evoked nystagmus. The disease is slowly progressive with dysarthria and limb ataxia following. Additional manifestations include diplopia and axonal neuropathy.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Autosomal dominant hereditary disorder"
+            },
+            {
+                "type": "Is a",
+                "target": "Spinocerebellar ataxia"
+            },
+            {
+                "type": "Finding site",
+                "target": "Cerebellar structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Degenerative abnormality"
+            },
+            {
+                "type": "Finding site",
+                "target": "Spinal cord structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Degenerative abnormality"
+            }
+        ]
+    },
+    {
+        "content": "A rare genetic leucodystrophy characterised by developmental delay, increased muscle tone leading later to spasticity, mild ataxia, nystagmus, dysarthria, intentional tremor, and mild intellectual disability. Brain imaging reveals supratentorial and infratentorial hypomyelination.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Autosomal recessive hereditary disorder"
+            },
+            {
+                "type": "Is a",
+                "target": "Intelligence finding"
+            },
+            {
+                "type": "Is a",
+                "target": "Leukodystrophy"
+            },
+            {
+                "type": "Is a",
+                "target": "Neurodevelopmental disorder"
+            },
+            {
+                "type": "Pathological process",
+                "target": "Pathological developmental process"
+            },
+            {
+                "type": "Interprets",
+                "target": "Adaptation behavior"
+            },
+            {
+                "type": "Has interpretation",
+                "target": "Impaired"
+            },
+            {
+                "type": "Interprets",
+                "target": "Intellectual ability"
+            },
+            {
+                "type": "Has interpretation",
+                "target": "Impaired"
+            },
+            {
+                "type": "Finding site",
+                "target": "Myelinated nerve fiber structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Myelin sheath alteration"
+            },
+            {
+                "type": "Finding site",
+                "target": "White matter structure of brain and spinal cord"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Dystrophy"
+            }
+        ]
+    },
+    {
+        "content": "A very rare severe motor neuron disease with manifestation of progressive upper and lower motor neuron degeneration causing facial spasticity, dysarthria, and gait disorders with onset before 25 years of age. Caused by homozygous mutation in the gene encoding alsin ALS2 (2q33-q35).",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Juvenile amyotrophic lateral sclerosis"
+            },
+            {
+                "type": "Clinical course",
+                "target": "Progressive"
+            },
+            {
+                "type": "Finding site",
+                "target": "Structure of nervous system"
+            }
+        ]
+    },
+    {
+        "content": "A rare genetic autosomal dominant spastic ataxia disorder with characteristics of lower-limb spasticity and ataxia in the form of head jerks, ocular movement abnormalities, dysarthria, dysphagia and gait disturbances. Caused by heterozygous mutation in the VAMP1 gene on chromosome 12p13.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Ataxia"
+            },
+            {
+                "type": "Is a",
+                "target": "Autosomal dominant hereditary disorder"
+            },
+            {
+                "type": "Finding site",
+                "target": "Structure of nervous system"
+            }
+        ]
+    },
+    {
+        "content": "Disease with characteristics of slowly progressive pure cerebellar ataxia associated with dysarthria. It has been described in 53 individuals from 26 families of Canadian origin. The mode of transmission is autosomal recessive. Positional cloning has led to the identification of several gene mutations.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Autosomal recessive hereditary disorder"
+            },
+            {
+                "type": "Is a",
+                "target": "Late onset cerebellar ataxia"
+            },
+            {
+                "type": "Finding site",
+                "target": "Cerebellar structure"
+            }
+        ]
+    },
+    {
+        "content": "A rare autosomal recessive cerebellar ataxia with characteristics of early onset of slowly progressive cerebellar atrophy, clinically manifesting with extremity and truncal ataxia, global developmental delay, intellectual impairment, nystagmus, dysarthria, intention tremor and pyramidal signs among others.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Autosomal recessive hereditary disorder"
+            },
+            {
+                "type": "Is a",
+                "target": "Global developmental delay"
+            },
+            {
+                "type": "Is a",
+                "target": "Intelligence finding"
+            },
+            {
+                "type": "Is a",
+                "target": "Neurodevelopmental disorder"
+            },
+            {
+                "type": "Is a",
+                "target": "Truncal ataxia"
+            },
+            {
+                "type": "Clinical course",
+                "target": "Progressive"
+            },
+            {
+                "type": "Pathological process",
+                "target": "Pathological developmental process"
+            },
+            {
+                "type": "Interprets",
+                "target": "Adaptation behavior"
+            },
+            {
+                "type": "Has interpretation",
+                "target": "Impaired"
+            },
+            {
+                "type": "Interprets",
+                "target": "Intellectual ability"
+            },
+            {
+                "type": "Has interpretation",
+                "target": "Impaired"
+            },
+            {
+                "type": "Finding site",
+                "target": "Cerebellar structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Atrophy"
+            }
+        ]
+    },
+    {
+        "content": "A rare mitochondrial disease with characteristics of adult onset of progressive external ophthalmoplegia, exercise intolerance, muscle weakness, manifestations of spinocerebellar ataxia (e.g. impaired gait, dysarthria) and mild motor peripheral neuropathy. Respiratory insufficiency has been reported in some cases.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Hereditary disease"
+            },
+            {
+                "type": "Is a",
+                "target": "Mitochondrial myopathy"
+            },
+            {
+                "type": "Is a",
+                "target": "Myopathy of extraocular muscles"
+            },
+            {
+                "type": "Is a",
+                "target": "Progressive external ophthalmoplegia"
+            },
+            {
+                "type": "Occurrence",
+                "target": "Adulthood"
+            },
+            {
+                "type": "Finding site",
+                "target": "Skeletal muscle structure"
+            },
+            {
+                "type": "Occurrence",
+                "target": "Adulthood"
+            },
+            {
+                "type": "Finding site",
+                "target": "Structure of nervous system"
+            },
+            {
+                "type": "Occurrence",
+                "target": "Adulthood"
+            },
+            {
+                "type": "Finding site",
+                "target": "Eye region structure"
+            }
+        ]
+    },
+    {
+        "content": "Disease with characteristics of papulosquamous, ichthyosiform plaques on the limbs appearing shortly after birth and later manifestations including progressive ataxia, dysarthria, nystagmus and decreased reflexes. Reported in 25 members of one French-Canadian family to date. Due to a mutation in the ELOVL4 gene (6q14).",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Autosomal dominant hereditary disorder"
+            },
+            {
+                "type": "Is a",
+                "target": "Erythrokeratoderma"
+            },
+            {
+                "type": "Is a",
+                "target": "Spinocerebellar ataxia"
+            },
+            {
+                "type": "Occurrence",
+                "target": "Congenital"
+            },
+            {
+                "type": "Finding site",
+                "target": "Skin structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Morphologically abnormal structure"
+            },
+            {
+                "type": "Pathological process",
+                "target": "Pathological developmental process"
+            }
+        ]
+    },
+    {
+        "content": "Syndrome with characteristics of precocious puberty (due to Leydig cell hyperplasia), progressive spastic paraplegia and intellectual deficit. It has been described in two brothers. The fact that other family members displayed brisk reflexes and dysarthria suggested autosomal dominant inheritance with variable expression.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Autosomal dominant hereditary disorder"
+            },
+            {
+                "type": "Is a",
+                "target": "Complicated hereditary spastic paraplegia"
+            },
+            {
+                "type": "Is a",
+                "target": "Disorder of puberty"
+            },
+            {
+                "type": "Is a",
+                "target": "Intelligence finding"
+            },
+            {
+                "type": "Is a",
+                "target": "Neurodevelopmental disorder"
+            },
+            {
+                "type": "Clinical course",
+                "target": "Progressive"
+            },
+            {
+                "type": "Finding site",
+                "target": "Lower limb structure"
+            },
+            {
+                "type": "Interprets",
+                "target": "Adaptation behavior"
+            },
+            {
+                "type": "Has interpretation",
+                "target": "Impaired"
+            },
+            {
+                "type": "Interprets",
+                "target": "Intellectual ability"
+            },
+            {
+                "type": "Has interpretation",
+                "target": "Impaired"
+            },
+            {
+                "type": "Finding site",
+                "target": "Gonadal endocrine structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Maturation acceleration"
+            },
+            {
+                "type": "Pathological process",
+                "target": "Pathological developmental process"
+            },
+            {
+                "type": "Finding site",
+                "target": "Spinal cord structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Degenerative abnormality"
+            }
+        ]
+    },
+    {
+        "content": "A rare predominantly pure hereditary spastic paraplegia with characteristics of juvenile or adult onset of slowly progressive spastic paraparesis, gait disturbances and increased tendon reflexes. Additional variable manifestations include pes cavus, dysarthria, sensory impairment and urinary symptoms. Cognition is normal.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Autosomal dominant hereditary disorder"
+            },
+            {
+                "type": "Is a",
+                "target": "Spastic paraplegia"
+            },
+            {
+                "type": "Clinical course",
+                "target": "Progressive"
+            },
+            {
+                "type": "Finding site",
+                "target": "Lower limb structure"
+            },
+            {
+                "type": "Finding site",
+                "target": "Spinal cord structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Degenerative abnormality"
+            }
+        ]
+    },
+    {
+        "content": "A rare hereditary ataxia characterised by recurrent episodes of ataxia with variable frequency and duration, associated with slurred speech, generalised muscle weakness and balance disturbance. Other symptoms may occur between episodes, including intention tremor, gait ataxia, mild dysarthria, myokymia, migraine and nystagmus.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Episodic ataxia"
+            },
+            {
+                "type": "Is a",
+                "target": "Slurred speech"
+            }
+        ]
+    },
+    {
+        "content": "A rare autosomal dominant cerebellar ataxia with characteristics of slowly progressive late-onset cerebellar ataxia variably combined with sensory axonal neuropathy. Patients may present gait and limb ataxia, dysarthria, abnormal oculomotor function and distal sensory impairment. Cerebellar atrophy is typically mild or absent.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Autosomal dominant hereditary disorder"
+            },
+            {
+                "type": "Is a",
+                "target": "Spinocerebellar ataxia"
+            },
+            {
+                "type": "Clinical course",
+                "target": "Progressive"
+            },
+            {
+                "type": "Finding site",
+                "target": "Cerebellar structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Degenerative abnormality"
+            },
+            {
+                "type": "Finding site",
+                "target": "Spinal cord structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Degenerative abnormality"
+            }
+        ]
+    },
+    {
+        "content": "A rare hereditary ataxia with characteristics of an apparently non-progressive or slowly progressive symmetrical ataxia of gait, pyramidal signs in the limbs, spasticity and hyperreflexia (especially in the lower limbs) together with dysarthria and impaired pupillary reaction to light, presenting as a fixed miosis. Nystagmus may also be present.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Ataxia"
+            },
+            {
+                "type": "Is a",
+                "target": "Autosomal dominant hereditary disorder"
+            },
+            {
+                "type": "Is a",
+                "target": "Constricted pupil"
+            },
+            {
+                "type": "Interprets",
+                "target": "Pupil constriction"
+            },
+            {
+                "type": "Occurrence",
+                "target": "Congenital"
+            },
+            {
+                "type": "Finding site",
+                "target": "Pupil structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Congenital smallness"
+            },
+            {
+                "type": "Pathological process",
+                "target": "Pathological developmental process"
+            },
+            {
+                "type": "Occurrence",
+                "target": "Congenital"
+            },
+            {
+                "type": "Finding site",
+                "target": "Structure of central nervous system"
+            },
+            {
+                "type": "Pathological process",
+                "target": "Pathological developmental process"
+            }
+        ]
+    },
+    {
+        "content": "A very rare severe motor neuron disease with manifestation of progressive upper and lower motor neuron degeneration causing facial spasticity, dysarthria, and gait disorders with onset before 25 years of age. There is evidence this disease is caused by homozygous or compound heterozygous mutation in the spatacsin gene (SPG11) on chromosome 15q21.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Juvenile amyotrophic lateral sclerosis"
+            },
+            {
+                "type": "Clinical course",
+                "target": "Progressive"
+            },
+            {
+                "type": "Finding site",
+                "target": "Structure of nervous system"
+            }
+        ]
+    },
+    {
+        "content": "A rare genetic multiple congenital anomalies/dysmorphic syndrome with characteristics of delayed motor development, intellectual disability, dysarthria, pseudobulbar signs, cryptorchidism, and syndactyly associated with a FLBN1 gene point mutation. Macular degeneration and signs of brain atrophy and spinal cord compression have also been reported.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Autosomal recessive hereditary disorder"
+            },
+            {
+                "type": "Is a",
+                "target": "Intelligence finding"
+            },
+            {
+                "type": "Is a",
+                "target": "Multiple malformation syndrome with limb defect as major feature"
+            },
+            {
+                "type": "Is a",
+                "target": "Neurodevelopmental disorder"
+            },
+            {
+                "type": "Interprets",
+                "target": "Adaptation behavior"
+            },
+            {
+                "type": "Has interpretation",
+                "target": "Impaired"
+            },
+            {
+                "type": "Interprets",
+                "target": "Intellectual ability"
+            },
+            {
+                "type": "Has interpretation",
+                "target": "Impaired"
+            },
+            {
+                "type": "Occurrence",
+                "target": "Congenital"
+            },
+            {
+                "type": "Finding site",
+                "target": "Digit structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Congenital abnormal fusion"
+            },
+            {
+                "type": "Pathological process",
+                "target": "Pathological developmental process"
+            },
+            {
+                "type": "Occurrence",
+                "target": "Congenital"
+            },
+            {
+                "type": "Finding site",
+                "target": "Structure of central nervous system"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Morphologically abnormal structure"
+            },
+            {
+                "type": "Pathological process",
+                "target": "Pathological developmental process"
+            }
+        ]
+    },
+    {
+        "content": "A rare genetic neurological disorder characterised by early-onset progressive ataxia associated with myoclonic seizures, generalised tonic-clonic seizures (which are often sleep-related) and normal to mild intellectual disability. Dysarthria, upward gaze palsy, sensory neuropathy, developmental delay and autistic disorder have also been associated.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Autosomal dominant hereditary disorder"
+            },
+            {
+                "type": "Is a",
+                "target": "Progressive myoclonic epilepsy"
+            },
+            {
+                "type": "Clinical course",
+                "target": "Progressive"
+            },
+            {
+                "type": "Finding site",
+                "target": "Cerebrum"
+            }
+        ]
+    },
+    {
+        "content": "Autosomal recessive spastic paraplegia type 69 is a rare, complex hereditary spastic paraplegia disorder with characteristics of infantile onset of progressive lower limb spasticity, global developmental delay, hyperreflexia, clonus and extensor plantar reflexes, associated with dysarthria, intellectual disability, cataracts and hearing impairment.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Autosomal recessive hereditary disorder"
+            },
+            {
+                "type": "Is a",
+                "target": "Complicated hereditary spastic paraplegia"
+            },
+            {
+                "type": "Clinical course",
+                "target": "Progressive"
+            },
+            {
+                "type": "Finding site",
+                "target": "Lower limb structure"
+            },
+            {
+                "type": "Finding site",
+                "target": "Spinal cord structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Degenerative abnormality"
+            }
+        ]
+    },
+    {
+        "content": "A rare pure or complex hereditary spastic paraplegia with characteristics of variable onset of slowly progressive lower limb spasticity, hyperreflexia and extensor plantar responses, that may be associated with sensorimotor polyneuropathy, decreased vibration sense, lower limb distal muscle wasting, dysarthria and mild to moderate intellectual disability.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Autosomal recessive hereditary disorder"
+            },
+            {
+                "type": "Is a",
+                "target": "Spastic paraplegia"
+            },
+            {
+                "type": "Clinical course",
+                "target": "Progressive"
+            },
+            {
+                "type": "Finding site",
+                "target": "Lower limb structure"
+            },
+            {
+                "type": "Finding site",
+                "target": "Spinal cord structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Degenerative abnormality"
+            }
+        ]
+    },
+    {
+        "content": "A very rare subtype of type I autosomal dominant cerebellar ataxia with cerebellar dysarthria as the initial typical manifestation. Prevalence is unknown. Fewer than 20 cases in a 4-generation Australian family of Anglo-Celtic descent have been reported to date. Age of symptomatic disease onset ranges from 19 to 64 years. Linked to chromosome 11q12.2-11q12.3.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Autosomal dominant hereditary disorder"
+            },
+            {
+                "type": "Is a",
+                "target": "Spinocerebellar ataxia"
+            }
+        ]
+    },
+    {
+        "content": "A rare autosomal dominant cerebellar ataxia with characteristics of pure and slowly progressive cerebellar signs combining gait instability, dysarthria, nystagmus, saccadic eye movements and diplopia. Less frequent clinical signs and symptoms include spasticity, hyperreflexia, decreased distal vibration sense, urinary urgency or incontinence and postural tremor.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Autosomal dominant hereditary disorder"
+            },
+            {
+                "type": "Is a",
+                "target": "Spinocerebellar ataxia"
+            },
+            {
+                "type": "Clinical course",
+                "target": "Progressive"
+            },
+            {
+                "type": "Finding site",
+                "target": "Cerebellar structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Degenerative abnormality"
+            },
+            {
+                "type": "Finding site",
+                "target": "Spinal cord structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Degenerative abnormality"
+            }
+        ]
+    },
+    {
+        "content": "A rare genetic syndromic intellectual disability with characteristics of global developmental delay, early-onset seizures, cerebellar atrophy, osteopenia, nystagmus and dysmorphic facial features, including bitemporal narrowing, prominent forehead, anteverted nares. Dysarthria, dysmetria, ataxic gait, spasticity and dysmorphic features have also been associated.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Autosomal recessive hereditary disorder"
+            },
+            {
+                "type": "Is a",
+                "target": "Global developmental delay"
+            },
+            {
+                "type": "Is a",
+                "target": "Intelligence finding"
+            },
+            {
+                "type": "Is a",
+                "target": "Multiple malformation syndrome with facial defects as major feature"
+            },
+            {
+                "type": "Is a",
+                "target": "Neurodevelopmental disorder"
+            },
+            {
+                "type": "Is a",
+                "target": "Nystagmus"
+            },
+            {
+                "type": "Is a",
+                "target": "Osteopenia"
+            },
+            {
+                "type": "Is a",
+                "target": "Seizure"
+            },
+            {
+                "type": "Interprets",
+                "target": "Ocular motility observable"
+            },
+            {
+                "type": "Finding site",
+                "target": "Structure of visual system"
+            },
+            {
+                "type": "Interprets",
+                "target": "Adaptation behavior"
+            },
+            {
+                "type": "Has interpretation",
+                "target": "Impaired"
+            },
+            {
+                "type": "Interprets",
+                "target": "Intellectual ability"
+            },
+            {
+                "type": "Has interpretation",
+                "target": "Impaired"
+            },
+            {
+                "type": "Occurrence",
+                "target": "Congenital"
+            },
+            {
+                "type": "Finding site",
+                "target": "Face structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Morphologically abnormal structure"
+            },
+            {
+                "type": "Pathological process",
+                "target": "Pathological developmental process"
+            },
+            {
+                "type": "Finding site",
+                "target": "Bone structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Demineralized structure"
+            },
+            {
+                "type": "Finding site",
+                "target": "Cerebellar structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Atrophy"
+            }
+        ]
+    },
+    {
+        "content": "A rare chromosomal anomaly with characteristics of speech and language disorder, predominantly presenting as an apraxia of speech, sometimes associated with oral motor dyspraxia, dysarthria, receptive and expressive language disorder, and hearing loss. Individuals with larger deletions in this region have also been reported to display intellectual disability and autism.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Monosomy and deletion from autosome"
+            },
+            {
+                "type": "Occurrence",
+                "target": "Congenital"
+            },
+            {
+                "type": "Finding site",
+                "target": "Long arm of chromosome"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Partial monosomy"
+            },
+            {
+                "type": "Pathological process",
+                "target": "Pathological developmental process"
+            },
+            {
+                "type": "Occurrence",
+                "target": "Congenital"
+            },
+            {
+                "type": "Finding site",
+                "target": "Chromosome pair 7"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Partial monosomy"
+            },
+            {
+                "type": "Pathological process",
+                "target": "Pathological developmental process"
+            }
+        ]
+    },
+    {
+        "content": "A rare acquired peripheral neuropathy disease with characteristics of progressive oropharyngeal (facial palsy, dysarthria) and cervicobrachial weakness, associated with upper limb weakness and hypo/areflexia in the absence of ophthalmoplegia, ataxia, altered consciousness, and prominent lower limb weakness. The presence of monospecific IgG anti-GT1a antibodies is associated.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Guillain-Barr\u00e9 syndrome"
+            },
+            {
+                "type": "Clinical course",
+                "target": "Sudden onset AND/OR short duration"
+            },
+            {
+                "type": "Finding site",
+                "target": "Nerve structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Inflammatory morphology"
+            },
+            {
+                "type": "Finding site",
+                "target": "Peripheral nerve structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Demyelination"
+            }
+        ]
+    },
+    {
+        "content": "Main features described as truncal ataxia, dysarthria, slowed saccades and less commonly ophthalmoparesis and chorea. Presents in the third or fourth decade, Parkinsonism is also a less common but well-documented manifestation. There is no distinct clinical feature that reliably distinguishes type 1 from type 2 although tremor and autonomic dysfunction are more common in type 2.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Autosomal dominant hereditary disorder"
+            },
+            {
+                "type": "Is a",
+                "target": "Spinocerebellar ataxia"
+            }
+        ]
+    },
+    {
+        "content": "A rare hereditary ataxia with characteristics of progressive truncal and limb ataxia resulting in gait instability. Dysarthria, dysphagia, nystagmus, and spasticity of the lower limbs, mild peripheral sensory neuropathy, cognitive impairment and accelerated ageing have also been associated. Caused by homozygous or compound heterozygous mutation in the STUB1 gene on chromosome 16p13.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Autosomal recessive hereditary disorder"
+            },
+            {
+                "type": "Is a",
+                "target": "Spinocerebellar ataxia"
+            },
+            {
+                "type": "Finding site",
+                "target": "Cerebellar structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Degenerative abnormality"
+            },
+            {
+                "type": "Finding site",
+                "target": "Spinal cord structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Degenerative abnormality"
+            }
+        ]
+    },
+    {
+        "content": "A complex form of hereditary spastic paraplegia with characteristics of delay in motor development followed by a slowly progressive spastic paraplegia (affecting mainly lower extremities) associated with a desquamating facial rash with butterfly distribution (presenting at around two months of age) and dysarthria. There have been no further descriptions in the literature since 1982.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Complicated hereditary spastic paraplegia"
+            },
+            {
+                "type": "Clinical course",
+                "target": "Progressive"
+            },
+            {
+                "type": "Finding site",
+                "target": "Lower limb structure"
+            },
+            {
+                "type": "Finding site",
+                "target": "Spinal cord structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Degenerative abnormality"
+            }
+        ]
+    },
+    {
+        "content": "A rare genetic neurodegenerative disease with characteristics of sudden onset of progressive motor deterioration and regression of developmental milestones. Manifestations include dystonia and muscle spasms, dysphagia, dysarthria, and eventually loss of speech and ambulation. Brain MRI shows predominantly striatal abnormalities. The disease is potentially associated with a fatal outcome.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Autosomal recessive hereditary disorder"
+            },
+            {
+                "type": "Is a",
+                "target": "Dystonia"
+            },
+            {
+                "type": "Clinical course",
+                "target": "Progressive"
+            },
+            {
+                "type": "Interprets",
+                "target": "Movement"
+            },
+            {
+                "type": "Occurrence",
+                "target": "Childhood"
+            },
+            {
+                "type": "Finding site",
+                "target": "Basal ganglion structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Degenerative abnormality"
+            }
+        ]
+    },
+    {
+        "content": "A rare genetic disease with characteristics of severe progressive sensorineural hearing loss and progressive cerebellar signs including gait ataxia, action tremor, dysmetria, dysdiadochokinesis, dysarthria and nystagmus. Absence of deep tendon reflexes has also been reported. Age of onset is between infancy and adolescence. Brain imaging may show variable cerebellar atrophy in some patients.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Ataxia"
+            },
+            {
+                "type": "Is a",
+                "target": "Autosomal recessive hereditary disorder"
+            },
+            {
+                "type": "Is a",
+                "target": "Sensorineural hearing loss"
+            },
+            {
+                "type": "Clinical course",
+                "target": "Progressive"
+            },
+            {
+                "type": "Finding site",
+                "target": "Cerebellar structure"
+            },
+            {
+                "type": "Finding site",
+                "target": "Structure of auditory system"
+            },
+            {
+                "type": "Interprets",
+                "target": "Hearing"
+            },
+            {
+                "type": "Has interpretation",
+                "target": "Decreased"
+            }
+        ]
+    },
+    {
+        "content": "A very rare subtype of type I autosomal dominant cerebellar ataxia with characteristics of gait ataxia, dysarthria, slowed saccades, ocular dysmetria, Babinski sign and hyperreflexia. This subtype has only been described in 4 Dutch families. Age of onset is from 43 to 56 years. Maps to chromosome region 20p12.3-p13 and missense mutations in the prodynorphin PDYN gene appear to cause the disease.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Autosomal dominant hereditary disorder"
+            },
+            {
+                "type": "Is a",
+                "target": "Spinocerebellar ataxia"
+            }
+        ]
+    },
+    {
+        "content": "A rare complex form of hereditary spastic paraplegia with the onset in early childhood of progressive spastic paraplegia associated with cerebellar signs, short stature, delayed psychomotor development, intellectual disability and less commonly, foot contractures, dysarthria, dysphagia, strabismus and optic hypoplasia. Caused by mutations in the DDHD2 gene (8p11.23) encoding phospholipase DDHD2.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Autosomal recessive hereditary disorder"
+            },
+            {
+                "type": "Is a",
+                "target": "Complicated hereditary spastic paraplegia"
+            },
+            {
+                "type": "Clinical course",
+                "target": "Progressive"
+            },
+            {
+                "type": "Finding site",
+                "target": "Lower limb structure"
+            },
+            {
+                "type": "Finding site",
+                "target": "Spinal cord structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Degenerative abnormality"
+            }
+        ]
+    },
+    {
+        "content": "A rare complex hereditary spastic paraplegia characterized by juvenile to adult onset of slowly progressive spasticity mainly affecting the lower limbs, associated with spastic dysarthria and motor neuropathy. Additional manifestations include congenital bilateral cataract, gastroesophageal reflux, persistent vomiting, mild cerebellar signs, pes cavus and occasionally short stature among others.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Autosomal dominant hereditary disorder"
+            },
+            {
+                "type": "Is a",
+                "target": "Complicated hereditary spastic paraplegia"
+            },
+            {
+                "type": "Clinical course",
+                "target": "Progressive"
+            },
+            {
+                "type": "Finding site",
+                "target": "Lower limb structure"
+            },
+            {
+                "type": "Finding site",
+                "target": "Spinal cord structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Degenerative abnormality"
+            }
+        ]
+    },
+    {
+        "content": "A rare slowly progressive autosomal recessive syndromic cerebellar ataxia with characteristics of late-onset cerebellar dysfunction (including gait and limb ataxia, nystagmus and dysarthria), bilateral vestibulopathy (abnormal vestibulo-ocular reflex) and axonal sensory neuropathy. Variable features may include chronic cough and autonomic dysfunction. Brain imaging usually shows cerebellar atrophy.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Ataxia"
+            },
+            {
+                "type": "Is a",
+                "target": "Autosomal recessive hereditary disorder"
+            },
+            {
+                "type": "Is a",
+                "target": "Chronic bilateral vestibulopathy"
+            },
+            {
+                "type": "Is a",
+                "target": "Neurological finding"
+            },
+            {
+                "type": "Clinical course",
+                "target": "Progressive"
+            },
+            {
+                "type": "Finding site",
+                "target": "Cerebellar structure"
+            },
+            {
+                "type": "Finding site",
+                "target": "Left labyrinth structure"
+            },
+            {
+                "type": "Finding site",
+                "target": "Peripheral nerve structure"
+            },
+            {
+                "type": "Finding site",
+                "target": "Right labyrinth structure"
+            },
+            {
+                "type": "Interprets",
+                "target": "Vestibulo-ocular reflex"
+            },
+            {
+                "type": "Has interpretation",
+                "target": "Absent"
+            }
+        ]
+    },
+    {
+        "content": "Rare genetic epilepsy characterised by speech disorder (including a range of symptoms from dysarthria, speech dyspraxia, receptive and expressive language delay/regression and acquired aphasia to subtle impairments of conversational speech) and epilepsy (mostly focal and secondary generalised childhood-onset seizures, sometimes with aura). Mild to severe intellectual disability may also be observed.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Benign Rolandic epilepsy"
+            },
+            {
+                "type": "Is a",
+                "target": "Hereditary disease"
+            },
+            {
+                "type": "Is a",
+                "target": "Speech and language dyspraxias"
+            },
+            {
+                "type": "Occurrence",
+                "target": "Congenital"
+            },
+            {
+                "type": "Finding site",
+                "target": "Cerebrum"
+            }
+        ]
+    },
+    {
+        "content": "Disease with characteristics of the onset in infancy of cerebellar ataxia, neonatal hypotonia (in some), mild developmental delay and in later life intellectual disability. Less common features include dysarthria, dysmetria and dysmorphic facial features (long face, bulbous nose long philtrum, thick lower lip and pointed chin). Caused by heterozygous disruption of the CAMTA1 gene on chromosome 1p36.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Ataxia"
+            },
+            {
+                "type": "Is a",
+                "target": "Autosomal dominant hereditary disorder"
+            },
+            {
+                "type": "Is a",
+                "target": "Intelligence finding"
+            },
+            {
+                "type": "Is a",
+                "target": "Neurodevelopmental disorder"
+            },
+            {
+                "type": "Finding site",
+                "target": "Cerebellar structure"
+            },
+            {
+                "type": "Pathological process",
+                "target": "Pathological developmental process"
+            },
+            {
+                "type": "Interprets",
+                "target": "Adaptation behavior"
+            },
+            {
+                "type": "Has interpretation",
+                "target": "Impaired"
+            },
+            {
+                "type": "Interprets",
+                "target": "Intellectual ability"
+            },
+            {
+                "type": "Has interpretation",
+                "target": "Impaired"
+            }
+        ]
+    },
+    {
+        "content": "Syndrome with characteristics of congenital cerebellar hypoplasia, endosteal sclerosis, hypotonia, ataxia, mild to moderate developmental delay, short stature, hip dislocation, and tooth eruption disturbances. It has been described in four patients. Less common manifestations are microcephaly, strabismus, nystagmus, optic atrophy and dysarthria. It is appears to be transmitted as an autosomal recessive trait.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Autosomal recessive hereditary disorder"
+            },
+            {
+                "type": "Is a",
+                "target": "Endosteal hyperostoses"
+            },
+            {
+                "type": "Clinical course",
+                "target": "Progressive"
+            },
+            {
+                "type": "Interprets",
+                "target": "Bone density scan"
+            },
+            {
+                "type": "Has interpretation",
+                "target": "Above reference range"
+            },
+            {
+                "type": "Interprets",
+                "target": "Osteoclast turnover rate"
+            },
+            {
+                "type": "Has interpretation",
+                "target": "Below reference range"
+            },
+            {
+                "type": "Occurrence",
+                "target": "Congenital"
+            },
+            {
+                "type": "Finding site",
+                "target": "Bone structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Dysplasia"
+            },
+            {
+                "type": "Pathological process",
+                "target": "Pathological developmental process"
+            },
+            {
+                "type": "Occurrence",
+                "target": "Congenital"
+            },
+            {
+                "type": "Finding site",
+                "target": "Cerebellar structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Hypoplasia"
+            },
+            {
+                "type": "Pathological process",
+                "target": "Pathological developmental process"
+            }
+        ]
+    },
+    {
+        "content": "A rare axonal hereditary motor and sensory neuropathy characterized by progressive distal muscle weakness and atrophy of variable onset and severity. Patients present with postural instability, gait and running difficulties, decreased deep tendon reflexes, foot deformities, fine motor impairment and distal sensory impairment. Dysarthria, dysphagia and mild cognitive and behavioral abnormalities have also been reported.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Autosomal dominant hereditary disorder"
+            },
+            {
+                "type": "Is a",
+                "target": "Charcot-Marie-Tooth disease, type II"
+            },
+            {
+                "type": "Finding site",
+                "target": "Peripheral nervous system structure"
+            },
+            {
+                "type": "Finding site",
+                "target": "Nerve structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Atrophy"
+            }
+        ]
+    },
+    {
+        "content": "A rare genetic neurological disorder with characteristics of childhood-onset dystonia with distinctive MRI changes in the basal ganglia and optic atrophy developing either immediately or within a few years after the appearance of dystonia. Additional symptoms include chorea and other movement disorders, dysarthria or nystagmus among others. Motor disability progresses gradually, while cognitive function is relatively spared.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Autosomal recessive hereditary disorder"
+            },
+            {
+                "type": "Is a",
+                "target": "Generalized dystonia"
+            },
+            {
+                "type": "Is a",
+                "target": "Inborn error of metabolism"
+            },
+            {
+                "type": "Is a",
+                "target": "Mitochondrial cytopathy"
+            },
+            {
+                "type": "Clinical course",
+                "target": "Chronic persistent"
+            },
+            {
+                "type": "Interprets",
+                "target": "Movement"
+            },
+            {
+                "type": "Occurrence",
+                "target": "Congenital"
+            },
+            {
+                "type": "Finding site",
+                "target": "Basal ganglion structure"
+            },
+            {
+                "type": "Finding site",
+                "target": "Optic nerve structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Primary atrophy"
+            }
+        ]
+    },
+    {
+        "content": "Syndrome with characteristics of slowly progressive spasticity, extrapyramidal movement disorders (dystonia, choreoathetosis and rigidity), cerebellar ataxia, moderate to severe cognitive deficit, and anarthria/dysarthria. So far, around 20 cases have been reported in the literature. The syndrome affects both males and females and onset occurs in infancy or early childhood. Caused by mutation in the TUBB4A gene on chromosome 19p13.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Ataxia"
+            },
+            {
+                "type": "Is a",
+                "target": "Autosomal dominant hereditary disorder"
+            },
+            {
+                "type": "Is a",
+                "target": "TUBB4A-related leukodystrophy"
+            },
+            {
+                "type": "Finding site",
+                "target": "Basal ganglion structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Atrophy"
+            },
+            {
+                "type": "Finding site",
+                "target": "Cerebellar structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Atrophy"
+            },
+            {
+                "type": "Finding site",
+                "target": "Myelinated nerve fiber structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Myelin sheath alteration"
+            },
+            {
+                "type": "Finding site",
+                "target": "White matter structure of brain and spinal cord"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Dystrophy"
+            }
+        ]
+    },
+    {
+        "content": "An extremely rare autosomal recessive hereditary cerebellar ataxia disorder with characteristics of early onset of progressive, mild to moderate gait and limb ataxia, moderate to severe dysarthria and nystagmus or saccadic pursuit, frequently associated with epilepsy, moderate intellectual disability, delayed speech acquisition and hyporeflexia in the upper extremities. Hyperreflexia in the lower extremities may also be associated.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Autosomal recessive hereditary disorder"
+            },
+            {
+                "type": "Is a",
+                "target": "Spinocerebellar ataxia"
+            },
+            {
+                "type": "Finding site",
+                "target": "Cerebellar structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Degenerative abnormality"
+            },
+            {
+                "type": "Finding site",
+                "target": "Spinal cord structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Degenerative abnormality"
+            }
+        ]
+    },
+    {
+        "content": "Progressive cavitating leukoencephalopathy has characteristics of acute episodes of neurological deficit (ataxia, dysarthria, seizures) with irritability and opisthotonus followed by either steady deterioration or alternating periods of rapid progression and prolonged periods of stability. So far around 20 patients have been reported in the literature. Onset occurs in infancy or early childhood. The mode of transmission is autosomal recessive.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Autosomal recessive hereditary disorder"
+            },
+            {
+                "type": "Is a",
+                "target": "Leukoencephalopathy"
+            },
+            {
+                "type": "Finding site",
+                "target": "Cerebral white matter structure"
+            }
+        ]
+    },
+    {
+        "content": "A rare hereditary ataxia with characteristics of delayed early motor development, severe neonatal hypotonia, non-progressive ataxia and slow eye movements, presenting normal cognitive abilities and absence of pyramidal signs. Frequently patients also manifest intention tremor, mild dysphagia, and dysarthria. Brain MRI reveals global cerebellar atrophy with absence of other malformations or degenerations of the central and peripheral nervous systems.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Ataxia"
+            },
+            {
+                "type": "Is a",
+                "target": "X-linked recessive hereditary disease"
+            },
+            {
+                "type": "Clinical course",
+                "target": "Non-progressive"
+            },
+            {
+                "type": "Occurrence",
+                "target": "Congenital"
+            },
+            {
+                "type": "Finding site",
+                "target": "Cerebellar structure"
+            }
+        ]
+    },
+    {
+        "content": "A rare congenital disorder of glycosylation caused by mutations in the PGM3 gene with characteristics of neonatal to childhood onset of recurrent bacterial and viral infections, inflammatory skin diseases, atopic dermatitis and atopic diatheses and marked serum immunoglobulin E elevation. Early neurologic impairment is evident including developmental delay, intellectual disability, ataxia, dysarthria, sensorineural hearing loss, myoclonus and seizures.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Autosomal recessive hereditary disorder"
+            },
+            {
+                "type": "Is a",
+                "target": "Carbohydrate-deficient glycoprotein syndrome"
+            },
+            {
+                "type": "Is a",
+                "target": "Combined immunodeficiency disease"
+            },
+            {
+                "type": "Occurrence",
+                "target": "Congenital"
+            },
+            {
+                "type": "Pathological process",
+                "target": "Abnormal immune process"
+            }
+        ]
+    },
+    {
+        "content": "A rare genetic neuromuscular disease with characteristics of progressive external ocular, facial and pharyngeal muscle weakness, leading to variable degrees of ptosis, ophthalmoparesis, facial muscle atrophy, dysarthria and dysphagia, as well as distal muscle weakness and atrophy of lower and upper extremities. Respiratory muscle involvement is common, but sensorineural hearing loss, asymmetrical extremity weakness and severe proximal weakness are rare.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Distal muscular dystrophy"
+            },
+            {
+                "type": "Is a",
+                "target": "Pharyngeal paresis"
+            },
+            {
+                "type": "Clinical course",
+                "target": "Progressive"
+            },
+            {
+                "type": "Finding site",
+                "target": "Muscle structure of pharynx"
+            },
+            {
+                "type": "Finding site",
+                "target": "Skeletal muscle structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Dystrophy"
+            },
+            {
+                "type": "Finding site",
+                "target": "Upper eyelid structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Prolapse"
+            }
+        ]
+    },
+    {
+        "content": "A rare paroxysmal movement disorder with onset in childhood or adolescence. The disease has characteristics of paroxysmal choreiform, dystonic, and myoclonic movements involving the limbs (mostly distal upper limbs), neck and/or face, which can progressively increase in both frequency and severity until they become nearly constant. Patients may also present with delayed motor milestones, perioral and periorbital dyskinesias, dysarthria, hypotonia, and weakness.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Autosomal dominant hereditary disorder"
+            },
+            {
+                "type": "Is a",
+                "target": "Dyskinesia"
+            },
+            {
+                "type": "Is a",
+                "target": "Facial myokymia"
+            },
+            {
+                "type": "Is a",
+                "target": "Movement disorder"
+            },
+            {
+                "type": "Finding site",
+                "target": "Facial nerve structure"
+            },
+            {
+                "type": "Finding site",
+                "target": "Skeletal muscle structure"
+            }
+        ]
+    },
+    {
+        "content": "Facial onset sensory and motor neuronopathy is characterized initially by paresthesia and numbness in the region of the trigeminal nerve distribution, which later progresses to involve the scalp, neck, upper trunk and upper limbs. Onset of motor manifestations occurs later with cramps, fasciculations, dysphagia, dysarthria, muscle weakness and atrophy. This syndrome has been described in four males and appears to be a slowly progressive neurodegenerative disease.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Hereditary disease"
+            },
+            {
+                "type": "Finding site",
+                "target": "Structure of central nervous system"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Degenerative abnormality"
+            }
+        ]
+    },
+    {
+        "content": "A rare autosomal dominant cerebellar ataxia type I disorder with characteristics of late adult-onset of slowly progressive cerebellar ataxia, typically presenting with balance and gait disturbances, in association with axonal peripheral neuropathy resulting in reduced/absent deep tendon reflexes and sensory impairment. Lower limb pain and amyotrophy may be present, as well as various cerebellar signs, including dysarthria, nystagmus, hypometric saccades and tremor.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Autosomal dominant hereditary disorder"
+            },
+            {
+                "type": "Is a",
+                "target": "Spinocerebellar ataxia"
+            },
+            {
+                "type": "Clinical course",
+                "target": "Progressive"
+            },
+            {
+                "type": "Finding site",
+                "target": "Cerebellar structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Degenerative abnormality"
+            },
+            {
+                "type": "Finding site",
+                "target": "Spinal cord structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Degenerative abnormality"
+            }
+        ]
+    },
+    {
+        "content": "A rare neuroinflammatory disease characterized by the onset of ataxia, dysarthria and cerebral white matter changes that are triggered by viral infection. Episodic progressive neurodegeneration (manifesting with loss of motor and verbal skills, muscle weakness, further cerebral white matter degeneration and eventually, death) is observed in the absence of hematopathology, cytokine overproduction, fever, hypertriglyceridemia, hypofibrinogenemia and hyperferritinemia.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Autosomal recessive hereditary disorder"
+            },
+            {
+                "type": "Clinical course",
+                "target": "Progressive"
+            },
+            {
+                "type": "After",
+                "target": "Viral disease"
+            },
+            {
+                "type": "Finding site",
+                "target": "Brain structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Degenerative abnormality"
+            },
+            {
+                "type": "Finding site",
+                "target": "Brain structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Inflammatory morphology"
+            }
+        ]
+    },
+    {
+        "content": "A rare genetic autosomal recessive cerebellar ataxia disease with characteristics of nonprogressive cerebellar ataxia, with onset in infancy, manifesting with delayed motor and speech development, gait ataxia, dysmetria, hypotonia, increased deep tendon reflexes and dysarthria. Additional variable manifestations include moderate nystagmus on lateral gaze, mild spasticity, intention tremor, short stature and pes planus. Brain imaging reveals cerebellar vermis atrophy.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Ataxia"
+            },
+            {
+                "type": "Is a",
+                "target": "Autosomal recessive hereditary disorder"
+            },
+            {
+                "type": "Clinical course",
+                "target": "Non-progressive"
+            },
+            {
+                "type": "Occurrence",
+                "target": "Infancy"
+            },
+            {
+                "type": "Finding site",
+                "target": "Cerebellar structure"
+            }
+        ]
+    },
+    {
+        "content": "A rare genetic neurological disorder with characteristics of progressive spastic paraparesis and delayed gross motor development with an onset in infancy or early childhood. Patients also show variable degrees of intellectual disability, speech delay and dysarthria. Other reported features include microcephaly, seizures, bifid uvula with or without cleft palate and ocular anomalies. Brain imaging shows white matter abnormalities in the periventricular and other regions.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Autosomal recessive hereditary disorder"
+            },
+            {
+                "type": "Is a",
+                "target": "Complicated hereditary spastic paraplegia"
+            },
+            {
+                "type": "Is a",
+                "target": "Disorder of lipid metabolism"
+            },
+            {
+                "type": "Is a",
+                "target": "Intelligence finding"
+            },
+            {
+                "type": "Is a",
+                "target": "Neurodevelopmental disorder"
+            },
+            {
+                "type": "Clinical course",
+                "target": "Progressive"
+            },
+            {
+                "type": "Finding site",
+                "target": "Lower limb structure"
+            },
+            {
+                "type": "Pathological process",
+                "target": "Pathological developmental process"
+            },
+            {
+                "type": "Interprets",
+                "target": "Adaptation behavior"
+            },
+            {
+                "type": "Has interpretation",
+                "target": "Impaired"
+            },
+            {
+                "type": "Interprets",
+                "target": "Intellectual ability"
+            },
+            {
+                "type": "Has interpretation",
+                "target": "Impaired"
+            },
+            {
+                "type": "Finding site",
+                "target": "Spinal cord structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Degenerative abnormality"
+            }
+        ]
+    },
+    {
+        "content": "A rare pure or complex hereditary spastic paraplegia with characteristics of infancy to childhood onset of slowly progressive lower limb spasticity, delayed motor milestones, gait disturbances, hyperreflexia and various muscle abnormalities, including weakness, hypotonia, intention tremor and amyotrophy. Ocular abnormalities (e.g. strabismus, ptosis) and other neurological abnormalities, such as dysarthria, seizures and extensor plantar responses may also be associated.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Autosomal recessive hereditary disorder"
+            },
+            {
+                "type": "Is a",
+                "target": "Spastic paraplegia"
+            },
+            {
+                "type": "Clinical course",
+                "target": "Progressive"
+            },
+            {
+                "type": "Finding site",
+                "target": "Lower limb structure"
+            },
+            {
+                "type": "Finding site",
+                "target": "Spinal cord structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Degenerative abnormality"
+            }
+        ]
+    },
+    {
+        "content": "A very rare severe motor neuron disease with manifestation of progressive upper and lower motor neuron degeneration causing facial spasticity, dysarthria, and gait disorders with onset before 25 years of age. The disease is usually slowly progressive and some patients have been reported to become bedridden by 12 to 50 years of age. Mutations in the following genes have been found in patients ALS2 (2q33-q35), and rarely SIGMAR1 (9p13.3), SPG11 (15q13-q15) and FUS (16p11.2).",
+        "children": [
+            {
+                "content": "Juvenile amyotrophic lateral sclerosis type 5",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Amyotrophic lateral sclerosis"
+                    },
+                    {
+                        "type": "Is a",
+                        "target": "Autosomal recessive hereditary disorder"
+                    },
+                    {
+                        "type": "Clinical course",
+                        "target": "Progressive"
+                    },
+                    {
+                        "type": "Finding site",
+                        "target": "Structure of nervous system"
+                    }
+                ]
+            },
+            {
+                "content": "Juvenile amyotrophic lateral sclerosis type 2",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Amyotrophic lateral sclerosis"
+                    },
+                    {
+                        "type": "Is a",
+                        "target": "Autosomal recessive hereditary disorder"
+                    },
+                    {
+                        "type": "Clinical course",
+                        "target": "Progressive"
+                    },
+                    {
+                        "type": "Finding site",
+                        "target": "Structure of nervous system"
+                    }
+                ]
+            }
+        ],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Amyotrophic lateral sclerosis"
+            },
+            {
+                "type": "Is a",
+                "target": "Autosomal recessive hereditary disorder"
+            },
+            {
+                "type": "Clinical course",
+                "target": "Progressive"
+            },
+            {
+                "type": "Finding site",
+                "target": "Structure of nervous system"
+            }
+        ]
+    },
+    {
+        "content": "A rare neuronal ceroid lipofuscinosis disorder with characteristics of juvenile-onset progressive spinocerebellar ataxia, bulbar syndrome (manifesting with dysarthria, dysphagia and dysphonia), pyramidal and extrapyramidal involvement (including myoclonus, amyotrophy, unsteady gait, akinesia, rigidity, dysarthric speech) and intellectual deterioration. Muscle biopsy displays autofluorescent bodies and lipofuscin deposits in brain and occasionally the retina upon post mortem.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Autosomal recessive hereditary disorder"
+            },
+            {
+                "type": "Is a",
+                "target": "Neuronal ceroid lipofuscinosis"
+            },
+            {
+                "type": "Is a",
+                "target": "Parkinsonism"
+            },
+            {
+                "type": "Is a",
+                "target": "Spinocerebellar ataxia"
+            },
+            {
+                "type": "Clinical course",
+                "target": "Progressive"
+            },
+            {
+                "type": "Occurrence",
+                "target": "Childhood"
+            },
+            {
+                "type": "Finding site",
+                "target": "Cerebellar structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Degenerative abnormality"
+            },
+            {
+                "type": "Occurrence",
+                "target": "Childhood"
+            },
+            {
+                "type": "Finding site",
+                "target": "Spinal cord structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Degenerative abnormality"
+            },
+            {
+                "type": "Occurrence",
+                "target": "Childhood"
+            },
+            {
+                "type": "Finding site",
+                "target": "Basal ganglion structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Degenerative abnormality"
+            }
+        ]
+    },
+    {
+        "content": "A rare hyperkinetic movement disorder with characteristics of delayed motor development and infantile onset of axial hypotonia and a generalized hyperkinetic movement disorder, principally with dyskinesia of the limbs and trunk, and facial involvement including orolingual dyskinesia, drooling, and dysarthria. Variable hyperkinetic movements may include a jerky quality, intermittent chorea and ballismus. Brain imaging is normal and cognitive performance is typically preserved.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Autosomal recessive hereditary disorder"
+            },
+            {
+                "type": "Is a",
+                "target": "Dystonia"
+            },
+            {
+                "type": "Is a",
+                "target": "Orofacial dyskinesia"
+            },
+            {
+                "type": "Interprets",
+                "target": "Movement"
+            },
+            {
+                "type": "Finding site",
+                "target": "Extrapyramidal system structure"
+            }
+        ]
+    },
+    {
+        "content": "Main features described as late-onset and slowly progressive gait ataxia and other cerebellar signs such as impaired muscle coordination and nystagmus. The mean age of onset is 45 years but can range from the ages of 16 to 72 years. It usually presents with the cerebellar signs of ataxia and dysarthria as well as dysphagia. Some patients also have episodic vertigo and diplopia. Parkinsonism, dystonia, myoclonus, tremor and cognitive impairment have been reported in rare cases.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Autosomal dominant hereditary disorder"
+            },
+            {
+                "type": "Is a",
+                "target": "Spinocerebellar ataxia"
+            }
+        ]
+    },
+    {
+        "content": "A type of hereditary spastic paraplegia with usual characteristics of pure phenotype of proximal weakness of the lower extremities with spastic gait and brisk reflexes, with a bimodal age of onset of either childhood or adulthood (more than 30 years). In some cases, it can present as a complex phenotype with additional associated manifestations including peripheral neuropathy, bulbar palsy (with dysarthria and dysphagia), distal amyotrophy, and impaired distal vibration sense.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Autosomal dominant hereditary disorder"
+            },
+            {
+                "type": "Is a",
+                "target": "Spastic paraplegia"
+            },
+            {
+                "type": "Clinical course",
+                "target": "Progressive"
+            },
+            {
+                "type": "Finding site",
+                "target": "Lower limb structure"
+            },
+            {
+                "type": "Finding site",
+                "target": "Spinal cord structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Degenerative abnormality"
+            }
+        ]
+    },
+    {
+        "content": "A very rare slowly progressive form of neurodegeneration with brain iron accumulation (NBIA) with characteristics of classic NBIA features. The clinical manifestations include early-onset spastic-dystonic paraparesis, oromandibular dystonia, dysarthria, parkinsonism, axonal neuropathy, progressive cognitive impairment, complex motor tics, and obsessive-compulsive disorder. The disease is caused by homozygous or compound heterozygous mutation in the COASY gene on chromosome 17q21.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Autosomal recessive hereditary disorder"
+            },
+            {
+                "type": "Is a",
+                "target": "Iron overload"
+            },
+            {
+                "type": "Finding site",
+                "target": "Structure of nervous system"
+            },
+            {
+                "type": "Causative agent",
+                "target": "Iron and/or iron compound"
+            }
+        ]
+    },
+    {
+        "content": "A rare hereditary cerebellar ataxia disorder with characteristics of late-onset spinocerebellar ataxia, manifesting with slowly progressive gait disturbances, dysarthria, limb and truncal ataxia and smooth-pursuit eye movement disturbance, associated with a history of psychomotor delay from childhood. Mild atrophy of the cerebellar vermis and hemispheres is observed on brain imaging. There is evidence the disease is caused by homozygous mutation in the SYT14 gene on chromosome 1q32.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Autosomal recessive hereditary disorder"
+            },
+            {
+                "type": "Is a",
+                "target": "Late onset cerebellar ataxia"
+            },
+            {
+                "type": "Is a",
+                "target": "Spinocerebellar ataxia"
+            },
+            {
+                "type": "Clinical course",
+                "target": "Progressive"
+            },
+            {
+                "type": "Finding site",
+                "target": "Cerebellar structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Degenerative abnormality"
+            },
+            {
+                "type": "Finding site",
+                "target": "Spinal cord structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Degenerative abnormality"
+            }
+        ]
+    },
+    {
+        "content": "A rare genetic neurological disease with characteristics of non-progressive, variable spastic quadriparesis in multiple members of a family, in the absence of additional factors complicating pregnancy or birth (for example perinatal asphyxia, congenital infection). Additional clinical features include congenital hypotonia, intellectual disability, and developmental delay. Dysphagia, dysarthria, exotropia, nystagmus, seizures and brain atrophy with ventriculomegaly may be also present.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Hereditary disease"
+            },
+            {
+                "type": "Is a",
+                "target": "Spastic tetraplegia"
+            },
+            {
+                "type": "Occurrence",
+                "target": "Congenital"
+            },
+            {
+                "type": "Finding site",
+                "target": "Structure of central nervous system"
+            },
+            {
+                "type": "Occurrence",
+                "target": "Congenital"
+            },
+            {
+                "type": "Finding site",
+                "target": "Limb structure"
+            }
+        ]
+    },
+    {
+        "content": "A rare autosomal recessive axonal hereditary motor and sensory neuropathy with characteristics of adolescent or adult onset of slowly progressive muscle weakness and atrophy of the distal lower limbs progressing to involve also the upper limbs and proximal muscles and sensory impairment. Patients present gait disturbances and loss of reflexes, at later stages loss of ambulation, dysarthria, dysphagia, facial weakness and impairment of respiratory muscles requiring assisted ventilation.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Autosomal recessive hereditary disorder"
+            },
+            {
+                "type": "Is a",
+                "target": "Charcot-Marie-Tooth disease, type II"
+            },
+            {
+                "type": "Finding site",
+                "target": "Peripheral nervous system structure"
+            },
+            {
+                "type": "Finding site",
+                "target": "Nerve structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Atrophy"
+            }
+        ]
+    },
+    {
+        "content": "A rare X-linked cerebellar ataxia with characteristics of a combination of upper and lower motor neuron signs, with an age of onset in the first or second decade, slow progression, and normal intelligence. Typical features of cerebellar dysfunction include gait and limb ataxia, intention tremor, dysmetria, dysdiadochokinesia, dysarthria, nystagmus, and hyperreflexia. Further phenotypic features are pes cavus, scoliosis, muscle atrophy, and peripheral sensory and motor nerve abnormalities.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Ataxia"
+            },
+            {
+                "type": "Is a",
+                "target": "X-linked recessive hereditary disease"
+            },
+            {
+                "type": "Clinical course",
+                "target": "Progressive"
+            },
+            {
+                "type": "Finding site",
+                "target": "Cerebellar structure"
+            }
+        ]
+    }
+]

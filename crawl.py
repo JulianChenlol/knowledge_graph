@@ -3,6 +3,7 @@ import json
 from structure import Tree, TreeEncoder, Type
 from requests.adapters import HTTPAdapter
 
+file_root_path = "./data/fois/"
 
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0 ",
@@ -55,7 +56,7 @@ def get_request_old(url, params):
                 break
 
 
-# 获取所有stroke相关的数据
+# 获取所有term相关的数据
 def express(term: str, limit: int, pass_num: int):
     url = "https://browser.ihtsdotools.org/snowstorm/snomed-ct/browser/MAIN/2024-01-01/descriptions"
     params = {
@@ -65,6 +66,7 @@ def express(term: str, limit: int, pass_num: int):
         "conceptActive": True,
         "lang": "english",
         "groupByConcept": True,
+        "semanticTags": "regime/therapy",
     }
 
     # response = requests.get(url, params=params, headers=headers, proxies=proxies)
@@ -73,15 +75,15 @@ def express(term: str, limit: int, pass_num: int):
         content = get_request(url, params)
         # content = json.loads(response.text)
         for i, item in enumerate(content.get("items")):
-            term = item.get("term")
-            print(i, term)
+            sub_term = item.get("term")
+            print(i, sub_term)
             if i < pass_num:
                 continue
             id = item.get("concept").get("id")
-            result = Tree(term)
+            result = Tree(sub_term)
             getPro(id, result)
             getChildren(id, result)
-            save_file(result)
+            save_file(result, term)
 
 
 def getChildren(id, tree):
@@ -123,24 +125,30 @@ def getPro(id, tree):
                     )
 
 
-def save_file(tree: Tree):
+def save_file(tree: Tree, term):
     content = []
-    with open("stroke.json", "r") as file:
+    with open(file_root_path + term + ".json", "r") as file:
         content = json.load(file)
     json_str = json.dumps(tree, cls=TreeEncoder)
     json_object = json.loads(json_str)
     content.append(json_object)
-    with open("stroke.json", "w+") as file:
+    with open(file_root_path + term + ".json", "w+") as file:
         json.dump(content, file)
 
 
-def read_file():
+def read_file(term):
     content = []
-    with open("stroke.json", "r") as file:
-        content = json.load(file)
-    return len(content)
+    try:
+        with open(file_root_path + term + ".json", "r") as file:
+            content = json.load(file)
+        return len(content)
+    except FileNotFoundError:
+        with open(file_root_path + term + ".json", "w+") as file:
+            json.dump(content, file)
+        return 0
 
 
 if __name__ == "__main__":
-    # result = express("stroke", 1, read_file())
-    print(read_file())
+    terms = ["feeding"]
+    for term in terms:
+        result = express(term, 100, read_file(term))

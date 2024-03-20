@@ -1,0 +1,12 @@
+[
+    {
+        "content": "LOINC - SNOMED CT Cooperation Project module",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "IHTSDO maintained module"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "content": "Difficulty standing on one leg",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Finding related to ability to stand on one leg"
+            },
+            {
+                "type": "Interprets",
+                "target": "Ability to stand on one leg"
+            },
+            {
+                "type": "Has interpretation",
+                "target": "Difficulty"
+            }
+        ]
+    },
+    {
+        "content": "A form of limb-girdle muscular dystrophy most often with characteristics of an adult onset (but ranging from 11 to 51 years) of mainly proximal lower limb weakness, with difficulties standing on tiptoes being one of the initial signs. Proximal upper limb and distal lower limb weakness is also common as well as atrophy of the quadriceps (most commonly), biceps brachii, and lower leg muscles. However, calf hypertrophy has also been reported in some cases. LGMD2L progresses slowly, with most patients remaining ambulatory until late adulthood.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Autosomal recessive muscular dystrophy with limb girdle distribution"
+            },
+            {
+                "type": "Clinical course",
+                "target": "Progressive"
+            },
+            {
+                "type": "Finding site",
+                "target": "Skeletal muscle structure"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Dystrophy"
+            },
+            {
+                "type": "Pathological process",
+                "target": "Pathological developmental process"
+            }
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "content": "A rare autosomal recessive primary immunodeficiency characterized by infancy onset of severe inflammatory bowel disease with life-threatening diarrhea and failure to thrive, oral aphthous ulcers, and recurrent severe upper and lower respiratory tract infections with finger clubbing. Laboratory examination reveals increased IgE and decreased IgG levels, as well as reduced numbers of circulating CD19+ B-cells including IgM+ naive and class-switched IgG memory B-cells, with a concomitant increase in transitional B-cells, while T-cell numbers and function are normal.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Autosomal recessive hereditary disorder"
+            },
+            {
+                "type": "Is a",
+                "target": "Inflammatory bowel disease"
+            },
+            {
+                "type": "Is a",
+                "target": "Primary immune deficiency disorder"
+            },
+            {
+                "type": "Occurrence",
+                "target": "Infancy"
+            },
+            {
+                "type": "Associated morphology",
+                "target": "Inflammatory morphology"
+            },
+            {
+                "type": "Pathological process",
+                "target": "Dysregulated host response"
+            }
+        ]
+    }
+]

@@ -1,0 +1,113 @@
+[
+    {
+        "content": "Auditory comprehension test for sentences",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Assessment scales"
+            }
+        ]
+    },
+    {
+        "content": "Test of auditory comprehension of language",
+        "children": [
+            {
+                "content": "TACL-4 - Test for Auditory Comprehension of Language Fourth Edition",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Assessment scales"
+                    }
+                ]
+            },
+            {
+                "content": "TACL-3 - Test for Auditory Comprehension of Language Third Edition",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Assessment scales"
+                    }
+                ]
+            }
+        ],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Assessment scales"
+            }
+        ]
+    },
+    {
+        "content": "Carrow screening test of auditory comprehension",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Assessment scales"
+            }
+        ]
+    },
+    {
+        "content": "Auditory Comprehension Test for Sentences score",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Speech and language observable"
+            }
+        ]
+    },
+    {
+        "content": "Test for Auditory Comprehension of Language Third Edition",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Test of auditory comprehension of language"
+            }
+        ]
+    },
+    {
+        "content": "Test for Auditory Comprehension of Language Fourth Edition",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Test of auditory comprehension of language"
+            }
+        ]
+    },
+    {
+        "content": "Assessment using Auditory Comprehension Test for Sentences",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Assessment using assessment scale"
+            }
+        ]
+    },
+    {
+        "content": "Test for Auditory Comprehension of Language Third Edition score",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Speech and language observable"
+            }
+        ]
+    },
+    {
+        "content": "Test for Auditory Comprehension of Language Fourth Edition score",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Speech and language observable"
+            }
+        ]
+    }
+]

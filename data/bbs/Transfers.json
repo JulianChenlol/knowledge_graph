@@ -1,0 +1,2130 @@
+[
+    {
+        "content": "Transfers weight",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Finding related to ability to transfer weight"
+            },
+            {
+                "type": "Interprets",
+                "target": "Ability to transfer weight"
+            },
+            {
+                "type": "Has interpretation",
+                "target": "Does"
+            }
+        ]
+    },
+    {
+        "content": "Transfers using hoist",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Finding of functional performance and activity"
+            }
+        ]
+    },
+    {
+        "content": "Performs wheelchair transfers",
+        "children": [
+            {
+                "content": "Does transfer from wheelchair to toilet",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding related to ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Has interpretation",
+                        "target": "Does"
+                    }
+                ]
+            },
+            {
+                "content": "Does transfer from wheelchair to chair",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding related to ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Has interpretation",
+                        "target": "Does"
+                    }
+                ]
+            },
+            {
+                "content": "Does transfer from wheelchair to car",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding related to ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Has interpretation",
+                        "target": "Does"
+                    }
+                ]
+            },
+            {
+                "content": "Does transfer from wheelchair to bed",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding related to ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Has interpretation",
+                        "target": "Does"
+                    }
+                ]
+            },
+            {
+                "content": "Does transfer from toilet to wheelchair",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding related to ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Has interpretation",
+                        "target": "Does"
+                    }
+                ]
+            },
+            {
+                "content": "Does transfer from chair to wheelchair",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding related to ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Has interpretation",
+                        "target": "Does"
+                    }
+                ]
+            },
+            {
+                "content": "Does transfer from car to wheelchair",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding related to ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Has interpretation",
+                        "target": "Does"
+                    }
+                ]
+            },
+            {
+                "content": "Does transfer from bed to wheelchair",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding related to ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Has interpretation",
+                        "target": "Does"
+                    }
+                ]
+            },
+            {
+                "content": "Does transfer between wheelchair and toilet",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding related to ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Has interpretation",
+                        "target": "Does"
+                    }
+                ]
+            }
+        ],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Finding related to ability to perform wheelchair transfers"
+            },
+            {
+                "type": "Interprets",
+                "target": "Ability to perform wheelchair transfers"
+            },
+            {
+                "type": "Has interpretation",
+                "target": "Does"
+            }
+        ]
+    },
+    {
+        "content": "Mobility/transfers surveillance",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Surveillance"
+            },
+            {
+                "type": "Has focus",
+                "target": "Patient transfer"
+            }
+        ]
+    },
+    {
+        "content": "Mobility/transfers case management",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Care regimes management"
+            },
+            {
+                "type": "Has focus",
+                "target": "Patient transfer"
+            }
+        ]
+    },
+    {
+        "content": "Transfers with patient participation",
+        "children": [
+            {
+                "content": "Lower limb amputee transfer practice",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Functional rehabilitation"
+                    }
+                ]
+            },
+            {
+                "content": "Wheelchair transfer practice",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Functional rehabilitation"
+                    }
+                ]
+            }
+        ],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Functional rehabilitation"
+            }
+        ]
+    },
+    {
+        "content": "Able to perform wheelchair transfers",
+        "children": [
+            {
+                "content": "Able to transfer from wheelchair to toilet",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding related to ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Has interpretation",
+                        "target": "Able"
+                    }
+                ]
+            },
+            {
+                "content": "Able to transfer from wheelchair to chair",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding related to ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Has interpretation",
+                        "target": "Able"
+                    }
+                ]
+            },
+            {
+                "content": "Able to transfer from wheelchair to car",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding related to ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Has interpretation",
+                        "target": "Able"
+                    }
+                ]
+            },
+            {
+                "content": "Able to transfer from wheelchair to bed",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding related to ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Has interpretation",
+                        "target": "Able"
+                    }
+                ]
+            },
+            {
+                "content": "Able to transfer from toilet to wheelchair",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding related to ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Has interpretation",
+                        "target": "Able"
+                    }
+                ]
+            },
+            {
+                "content": "Able to transfer from chair to wheelchair",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding related to ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Has interpretation",
+                        "target": "Able"
+                    }
+                ]
+            },
+            {
+                "content": "Able to transfer from car to wheelchair",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding related to ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Has interpretation",
+                        "target": "Able"
+                    }
+                ]
+            },
+            {
+                "content": "Able to transfer from bed to wheelchair",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding related to ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Has interpretation",
+                        "target": "Able"
+                    }
+                ]
+            },
+            {
+                "content": "Able to transfer between wheelchair and toilet",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding related to ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Has interpretation",
+                        "target": "Able"
+                    }
+                ]
+            }
+        ],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Finding related to ability to perform wheelchair transfers"
+            },
+            {
+                "type": "Interprets",
+                "target": "Ability to perform wheelchair transfers"
+            },
+            {
+                "type": "Has interpretation",
+                "target": "Able"
+            }
+        ]
+    },
+    {
+        "content": "Does not perform wheelchair transfers",
+        "children": [
+            {
+                "content": "Does not transfer from wheelchair to toilet",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding related to ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Has interpretation",
+                        "target": "Does not"
+                    }
+                ]
+            },
+            {
+                "content": "Does not transfer from wheelchair to chair",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding related to ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Has interpretation",
+                        "target": "Does not"
+                    }
+                ]
+            },
+            {
+                "content": "Does not transfer from wheelchair to car",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding related to ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Has interpretation",
+                        "target": "Does not"
+                    }
+                ]
+            },
+            {
+                "content": "Does not transfer from wheelchair to bed",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding related to ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Has interpretation",
+                        "target": "Does not"
+                    }
+                ]
+            },
+            {
+                "content": "Does not transfer from toilet to wheelchair",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding related to ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Has interpretation",
+                        "target": "Does not"
+                    }
+                ]
+            },
+            {
+                "content": "Does not transfer from chair to wheelchair",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding related to ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Has interpretation",
+                        "target": "Does not"
+                    }
+                ]
+            },
+            {
+                "content": "Does not transfer from car to wheelchair",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding related to ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Has interpretation",
+                        "target": "Does not"
+                    }
+                ]
+            },
+            {
+                "content": "Does not transfer from bed to wheelchair",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding related to ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Has interpretation",
+                        "target": "Does not"
+                    }
+                ]
+            },
+            {
+                "content": "Does not transfer between wheelchair and toilet",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding related to ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Has interpretation",
+                        "target": "Does not"
+                    }
+                ]
+            }
+        ],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Finding related to ability to perform wheelchair transfers"
+            },
+            {
+                "type": "Interprets",
+                "target": "Ability to perform wheelchair transfers"
+            },
+            {
+                "type": "Has interpretation",
+                "target": "Does not"
+            }
+        ]
+    },
+    {
+        "content": "Unable to perform wheelchair transfers",
+        "children": [
+            {
+                "content": "Unable to transfer from wheelchair to toilet",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding related to ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Has interpretation",
+                        "target": "Unable"
+                    }
+                ]
+            },
+            {
+                "content": "Unable to transfer from wheelchair to chair",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding related to ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Has interpretation",
+                        "target": "Unable"
+                    }
+                ]
+            },
+            {
+                "content": "Unable to transfer from wheelchair to car",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding related to ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Has interpretation",
+                        "target": "Unable"
+                    }
+                ]
+            },
+            {
+                "content": "Unable to transfer from wheelchair to bed",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding related to ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Has interpretation",
+                        "target": "Unable"
+                    }
+                ]
+            },
+            {
+                "content": "Unable to transfer from toilet to wheelchair",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding related to ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Has interpretation",
+                        "target": "Unable"
+                    }
+                ]
+            },
+            {
+                "content": "Unable to transfer from chair to wheelchair",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding related to ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Has interpretation",
+                        "target": "Unable"
+                    }
+                ]
+            },
+            {
+                "content": "Unable to transfer from car to wheelchair",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding related to ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Has interpretation",
+                        "target": "Unable"
+                    }
+                ]
+            },
+            {
+                "content": "Unable to transfer from bed to wheelchair",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding related to ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Has interpretation",
+                        "target": "Unable"
+                    }
+                ]
+            },
+            {
+                "content": "Unable to transfer between wheelchair and toilet",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding related to ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Has interpretation",
+                        "target": "Unable"
+                    }
+                ]
+            }
+        ],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Finding related to ability to perform wheelchair transfers"
+            },
+            {
+                "type": "Interprets",
+                "target": "Ability to perform wheelchair transfers"
+            },
+            {
+                "type": "Has interpretation",
+                "target": "Unable"
+            }
+        ]
+    },
+    {
+        "content": "Transfers between wheelchair and toilet",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Finding related to ability to transfer between wheelchair and toilet"
+            },
+            {
+                "type": "Interprets",
+                "target": "Ability to transfer between wheelchair and toilet"
+            },
+            {
+                "type": "Has interpretation",
+                "target": "Does"
+            }
+        ]
+    },
+    {
+        "content": "Ability to perform wheelchair transfers",
+        "children": [
+            {
+                "content": "Ability to transfer from car to wheelchair",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Ability to transfer location"
+                    }
+                ]
+            },
+            {
+                "content": "Ability to transfer from wheelchair to car",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Ability to transfer location"
+                    }
+                ]
+            },
+            {
+                "content": "Ability to transfer from wheelchair to chair",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Ability to transfer location"
+                    }
+                ]
+            },
+            {
+                "content": "Ability to transfer from chair to wheelchair",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Ability to transfer location"
+                    }
+                ]
+            },
+            {
+                "content": "Ability to transfer from toilet to wheelchair",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Ability to transfer location"
+                    }
+                ]
+            },
+            {
+                "content": "Ability to transfer from wheelchair to toilet",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Ability to transfer location"
+                    }
+                ]
+            },
+            {
+                "content": "Ability to transfer from bed to wheelchair",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Ability to transfer location"
+                    }
+                ]
+            },
+            {
+                "content": "Ability to transfer from wheelchair to bed",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Ability to transfer location"
+                    }
+                ]
+            },
+            {
+                "content": "Ability to transfer between wheelchair and toilet",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Ability to transfer location"
+                    }
+                ]
+            }
+        ],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Ability to transfer location"
+            }
+        ]
+    },
+    {
+        "content": "Difficulty performing wheelchair transfers",
+        "children": [
+            {
+                "content": "Difficulty transferring from wheelchair to toilet",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding related to ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Has interpretation",
+                        "target": "Difficulty"
+                    }
+                ]
+            },
+            {
+                "content": "Difficulty transferring from wheelchair to chair",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding related to ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Has interpretation",
+                        "target": "Difficulty"
+                    }
+                ]
+            },
+            {
+                "content": "Difficulty transferring from wheelchair to car",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding related to ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Has interpretation",
+                        "target": "Difficulty"
+                    }
+                ]
+            },
+            {
+                "content": "Difficulty transferring from wheelchair to bed",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding related to ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Has interpretation",
+                        "target": "Difficulty"
+                    }
+                ]
+            },
+            {
+                "content": "DIfficulty transferring from toilet to wheelchair",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding related to ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Has interpretation",
+                        "target": "Difficulty"
+                    }
+                ]
+            },
+            {
+                "content": "Difficulty transferring from chair to wheelchair",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding related to ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Has interpretation",
+                        "target": "Difficulty"
+                    }
+                ]
+            },
+            {
+                "content": "Difficulty transferring from car to wheelchair",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding related to ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Has interpretation",
+                        "target": "Difficulty"
+                    }
+                ]
+            },
+            {
+                "content": "Difficulty transferring from bed to wheelchair",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding related to ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Has interpretation",
+                        "target": "Difficulty"
+                    }
+                ]
+            },
+            {
+                "content": "Difficulty transferring between wheelchair and toilet",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding related to ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to perform wheelchair transfers"
+                    },
+                    {
+                        "type": "Has interpretation",
+                        "target": "Difficulty"
+                    }
+                ]
+            }
+        ],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Finding related to ability to perform wheelchair transfers"
+            },
+            {
+                "type": "Interprets",
+                "target": "Ability to perform wheelchair transfers"
+            },
+            {
+                "type": "Has interpretation",
+                "target": "Difficulty"
+            }
+        ]
+    },
+    {
+        "content": "Mobility/transfers teaching, guidance, and counseling",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Counseling"
+            },
+            {
+                "type": "Is a",
+                "target": "Education"
+            },
+            {
+                "type": "Has focus",
+                "target": "Patient transfer"
+            }
+        ]
+    },
+    {
+        "content": "Finding related to ability to perform wheelchair transfers",
+        "children": [
+            {
+                "content": "Requires supervision to perform wheelchair transfer",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding of functional performance and activity"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to perform wheelchair transfers"
+                    }
+                ]
+            },
+            {
+                "content": "Finding related to ability to transfer between wheelchair and toilet",
+                "children": [
+                    {
+                        "content": "Difficulty transferring between wheelchair and toilet",
+                        "children": [],
+                        "relationships": [
+                            {
+                                "type": "Is a",
+                                "target": "Finding related to ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Interprets",
+                                "target": "Ability to transfer between wheelchair and toilet"
+                            }
+                        ]
+                    },
+                    {
+                        "content": "Does not transfer between wheelchair and toilet",
+                        "children": [],
+                        "relationships": [
+                            {
+                                "type": "Is a",
+                                "target": "Finding related to ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Interprets",
+                                "target": "Ability to transfer between wheelchair and toilet"
+                            }
+                        ]
+                    },
+                    {
+                        "content": "Does transfer between wheelchair and toilet",
+                        "children": [],
+                        "relationships": [
+                            {
+                                "type": "Is a",
+                                "target": "Finding related to ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Interprets",
+                                "target": "Ability to transfer between wheelchair and toilet"
+                            }
+                        ]
+                    },
+                    {
+                        "content": "Unable to transfer between wheelchair and toilet",
+                        "children": [],
+                        "relationships": [
+                            {
+                                "type": "Is a",
+                                "target": "Finding related to ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Interprets",
+                                "target": "Ability to transfer between wheelchair and toilet"
+                            }
+                        ]
+                    },
+                    {
+                        "content": "Able to transfer between wheelchair and toilet",
+                        "children": [],
+                        "relationships": [
+                            {
+                                "type": "Is a",
+                                "target": "Finding related to ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Interprets",
+                                "target": "Ability to transfer between wheelchair and toilet"
+                            }
+                        ]
+                    }
+                ],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding of functional performance and activity"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to perform wheelchair transfers"
+                    }
+                ]
+            },
+            {
+                "content": "Difficulty performing wheelchair transfers",
+                "children": [
+                    {
+                        "content": "Difficulty transferring from wheelchair to toilet",
+                        "children": [],
+                        "relationships": [
+                            {
+                                "type": "Is a",
+                                "target": "Finding related to ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Interprets",
+                                "target": "Ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Has interpretation",
+                                "target": "Difficulty"
+                            }
+                        ]
+                    },
+                    {
+                        "content": "Difficulty transferring from wheelchair to chair",
+                        "children": [],
+                        "relationships": [
+                            {
+                                "type": "Is a",
+                                "target": "Finding related to ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Interprets",
+                                "target": "Ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Has interpretation",
+                                "target": "Difficulty"
+                            }
+                        ]
+                    },
+                    {
+                        "content": "Difficulty transferring from wheelchair to car",
+                        "children": [],
+                        "relationships": [
+                            {
+                                "type": "Is a",
+                                "target": "Finding related to ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Interprets",
+                                "target": "Ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Has interpretation",
+                                "target": "Difficulty"
+                            }
+                        ]
+                    },
+                    {
+                        "content": "Difficulty transferring from wheelchair to bed",
+                        "children": [],
+                        "relationships": [
+                            {
+                                "type": "Is a",
+                                "target": "Finding related to ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Interprets",
+                                "target": "Ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Has interpretation",
+                                "target": "Difficulty"
+                            }
+                        ]
+                    },
+                    {
+                        "content": "DIfficulty transferring from toilet to wheelchair",
+                        "children": [],
+                        "relationships": [
+                            {
+                                "type": "Is a",
+                                "target": "Finding related to ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Interprets",
+                                "target": "Ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Has interpretation",
+                                "target": "Difficulty"
+                            }
+                        ]
+                    },
+                    {
+                        "content": "Difficulty transferring from chair to wheelchair",
+                        "children": [],
+                        "relationships": [
+                            {
+                                "type": "Is a",
+                                "target": "Finding related to ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Interprets",
+                                "target": "Ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Has interpretation",
+                                "target": "Difficulty"
+                            }
+                        ]
+                    },
+                    {
+                        "content": "Difficulty transferring from car to wheelchair",
+                        "children": [],
+                        "relationships": [
+                            {
+                                "type": "Is a",
+                                "target": "Finding related to ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Interprets",
+                                "target": "Ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Has interpretation",
+                                "target": "Difficulty"
+                            }
+                        ]
+                    },
+                    {
+                        "content": "Difficulty transferring from bed to wheelchair",
+                        "children": [],
+                        "relationships": [
+                            {
+                                "type": "Is a",
+                                "target": "Finding related to ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Interprets",
+                                "target": "Ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Has interpretation",
+                                "target": "Difficulty"
+                            }
+                        ]
+                    },
+                    {
+                        "content": "Difficulty transferring between wheelchair and toilet",
+                        "children": [],
+                        "relationships": [
+                            {
+                                "type": "Is a",
+                                "target": "Finding related to ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Interprets",
+                                "target": "Ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Has interpretation",
+                                "target": "Difficulty"
+                            }
+                        ]
+                    }
+                ],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding of functional performance and activity"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to perform wheelchair transfers"
+                    }
+                ]
+            },
+            {
+                "content": "Does not perform wheelchair transfers",
+                "children": [
+                    {
+                        "content": "Does not transfer from wheelchair to toilet",
+                        "children": [],
+                        "relationships": [
+                            {
+                                "type": "Is a",
+                                "target": "Finding related to ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Interprets",
+                                "target": "Ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Has interpretation",
+                                "target": "Does not"
+                            }
+                        ]
+                    },
+                    {
+                        "content": "Does not transfer from wheelchair to chair",
+                        "children": [],
+                        "relationships": [
+                            {
+                                "type": "Is a",
+                                "target": "Finding related to ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Interprets",
+                                "target": "Ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Has interpretation",
+                                "target": "Does not"
+                            }
+                        ]
+                    },
+                    {
+                        "content": "Does not transfer from wheelchair to car",
+                        "children": [],
+                        "relationships": [
+                            {
+                                "type": "Is a",
+                                "target": "Finding related to ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Interprets",
+                                "target": "Ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Has interpretation",
+                                "target": "Does not"
+                            }
+                        ]
+                    },
+                    {
+                        "content": "Does not transfer from wheelchair to bed",
+                        "children": [],
+                        "relationships": [
+                            {
+                                "type": "Is a",
+                                "target": "Finding related to ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Interprets",
+                                "target": "Ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Has interpretation",
+                                "target": "Does not"
+                            }
+                        ]
+                    },
+                    {
+                        "content": "Does not transfer from toilet to wheelchair",
+                        "children": [],
+                        "relationships": [
+                            {
+                                "type": "Is a",
+                                "target": "Finding related to ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Interprets",
+                                "target": "Ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Has interpretation",
+                                "target": "Does not"
+                            }
+                        ]
+                    },
+                    {
+                        "content": "Does not transfer from chair to wheelchair",
+                        "children": [],
+                        "relationships": [
+                            {
+                                "type": "Is a",
+                                "target": "Finding related to ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Interprets",
+                                "target": "Ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Has interpretation",
+                                "target": "Does not"
+                            }
+                        ]
+                    },
+                    {
+                        "content": "Does not transfer from car to wheelchair",
+                        "children": [],
+                        "relationships": [
+                            {
+                                "type": "Is a",
+                                "target": "Finding related to ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Interprets",
+                                "target": "Ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Has interpretation",
+                                "target": "Does not"
+                            }
+                        ]
+                    },
+                    {
+                        "content": "Does not transfer from bed to wheelchair",
+                        "children": [],
+                        "relationships": [
+                            {
+                                "type": "Is a",
+                                "target": "Finding related to ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Interprets",
+                                "target": "Ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Has interpretation",
+                                "target": "Does not"
+                            }
+                        ]
+                    },
+                    {
+                        "content": "Does not transfer between wheelchair and toilet",
+                        "children": [],
+                        "relationships": [
+                            {
+                                "type": "Is a",
+                                "target": "Finding related to ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Interprets",
+                                "target": "Ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Has interpretation",
+                                "target": "Does not"
+                            }
+                        ]
+                    }
+                ],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding of functional performance and activity"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to perform wheelchair transfers"
+                    }
+                ]
+            },
+            {
+                "content": "Does perform wheelchair transfers",
+                "children": [
+                    {
+                        "content": "Does transfer from wheelchair to toilet",
+                        "children": [],
+                        "relationships": [
+                            {
+                                "type": "Is a",
+                                "target": "Finding related to ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Interprets",
+                                "target": "Ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Has interpretation",
+                                "target": "Does"
+                            }
+                        ]
+                    },
+                    {
+                        "content": "Does transfer from wheelchair to chair",
+                        "children": [],
+                        "relationships": [
+                            {
+                                "type": "Is a",
+                                "target": "Finding related to ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Interprets",
+                                "target": "Ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Has interpretation",
+                                "target": "Does"
+                            }
+                        ]
+                    },
+                    {
+                        "content": "Does transfer from wheelchair to car",
+                        "children": [],
+                        "relationships": [
+                            {
+                                "type": "Is a",
+                                "target": "Finding related to ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Interprets",
+                                "target": "Ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Has interpretation",
+                                "target": "Does"
+                            }
+                        ]
+                    },
+                    {
+                        "content": "Does transfer from wheelchair to bed",
+                        "children": [],
+                        "relationships": [
+                            {
+                                "type": "Is a",
+                                "target": "Finding related to ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Interprets",
+                                "target": "Ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Has interpretation",
+                                "target": "Does"
+                            }
+                        ]
+                    },
+                    {
+                        "content": "Does transfer from toilet to wheelchair",
+                        "children": [],
+                        "relationships": [
+                            {
+                                "type": "Is a",
+                                "target": "Finding related to ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Interprets",
+                                "target": "Ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Has interpretation",
+                                "target": "Does"
+                            }
+                        ]
+                    },
+                    {
+                        "content": "Does transfer from chair to wheelchair",
+                        "children": [],
+                        "relationships": [
+                            {
+                                "type": "Is a",
+                                "target": "Finding related to ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Interprets",
+                                "target": "Ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Has interpretation",
+                                "target": "Does"
+                            }
+                        ]
+                    },
+                    {
+                        "content": "Does transfer from car to wheelchair",
+                        "children": [],
+                        "relationships": [
+                            {
+                                "type": "Is a",
+                                "target": "Finding related to ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Interprets",
+                                "target": "Ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Has interpretation",
+                                "target": "Does"
+                            }
+                        ]
+                    },
+                    {
+                        "content": "Does transfer from bed to wheelchair",
+                        "children": [],
+                        "relationships": [
+                            {
+                                "type": "Is a",
+                                "target": "Finding related to ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Interprets",
+                                "target": "Ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Has interpretation",
+                                "target": "Does"
+                            }
+                        ]
+                    },
+                    {
+                        "content": "Does transfer between wheelchair and toilet",
+                        "children": [],
+                        "relationships": [
+                            {
+                                "type": "Is a",
+                                "target": "Finding related to ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Interprets",
+                                "target": "Ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Has interpretation",
+                                "target": "Does"
+                            }
+                        ]
+                    }
+                ],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding of functional performance and activity"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to perform wheelchair transfers"
+                    }
+                ]
+            },
+            {
+                "content": "Unable to perform wheelchair transfers",
+                "children": [
+                    {
+                        "content": "Unable to transfer from wheelchair to toilet",
+                        "children": [],
+                        "relationships": [
+                            {
+                                "type": "Is a",
+                                "target": "Finding related to ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Interprets",
+                                "target": "Ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Has interpretation",
+                                "target": "Unable"
+                            }
+                        ]
+                    },
+                    {
+                        "content": "Unable to transfer from wheelchair to chair",
+                        "children": [],
+                        "relationships": [
+                            {
+                                "type": "Is a",
+                                "target": "Finding related to ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Interprets",
+                                "target": "Ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Has interpretation",
+                                "target": "Unable"
+                            }
+                        ]
+                    },
+                    {
+                        "content": "Unable to transfer from wheelchair to car",
+                        "children": [],
+                        "relationships": [
+                            {
+                                "type": "Is a",
+                                "target": "Finding related to ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Interprets",
+                                "target": "Ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Has interpretation",
+                                "target": "Unable"
+                            }
+                        ]
+                    },
+                    {
+                        "content": "Unable to transfer from wheelchair to bed",
+                        "children": [],
+                        "relationships": [
+                            {
+                                "type": "Is a",
+                                "target": "Finding related to ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Interprets",
+                                "target": "Ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Has interpretation",
+                                "target": "Unable"
+                            }
+                        ]
+                    },
+                    {
+                        "content": "Unable to transfer from toilet to wheelchair",
+                        "children": [],
+                        "relationships": [
+                            {
+                                "type": "Is a",
+                                "target": "Finding related to ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Interprets",
+                                "target": "Ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Has interpretation",
+                                "target": "Unable"
+                            }
+                        ]
+                    },
+                    {
+                        "content": "Unable to transfer from chair to wheelchair",
+                        "children": [],
+                        "relationships": [
+                            {
+                                "type": "Is a",
+                                "target": "Finding related to ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Interprets",
+                                "target": "Ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Has interpretation",
+                                "target": "Unable"
+                            }
+                        ]
+                    },
+                    {
+                        "content": "Unable to transfer from car to wheelchair",
+                        "children": [],
+                        "relationships": [
+                            {
+                                "type": "Is a",
+                                "target": "Finding related to ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Interprets",
+                                "target": "Ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Has interpretation",
+                                "target": "Unable"
+                            }
+                        ]
+                    },
+                    {
+                        "content": "Unable to transfer from bed to wheelchair",
+                        "children": [],
+                        "relationships": [
+                            {
+                                "type": "Is a",
+                                "target": "Finding related to ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Interprets",
+                                "target": "Ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Has interpretation",
+                                "target": "Unable"
+                            }
+                        ]
+                    },
+                    {
+                        "content": "Unable to transfer between wheelchair and toilet",
+                        "children": [],
+                        "relationships": [
+                            {
+                                "type": "Is a",
+                                "target": "Finding related to ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Interprets",
+                                "target": "Ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Has interpretation",
+                                "target": "Unable"
+                            }
+                        ]
+                    }
+                ],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding of functional performance and activity"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to perform wheelchair transfers"
+                    }
+                ]
+            },
+            {
+                "content": "Able to perform wheelchair transfers",
+                "children": [
+                    {
+                        "content": "Able to transfer from wheelchair to toilet",
+                        "children": [],
+                        "relationships": [
+                            {
+                                "type": "Is a",
+                                "target": "Finding related to ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Interprets",
+                                "target": "Ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Has interpretation",
+                                "target": "Able"
+                            }
+                        ]
+                    },
+                    {
+                        "content": "Able to transfer from wheelchair to chair",
+                        "children": [],
+                        "relationships": [
+                            {
+                                "type": "Is a",
+                                "target": "Finding related to ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Interprets",
+                                "target": "Ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Has interpretation",
+                                "target": "Able"
+                            }
+                        ]
+                    },
+                    {
+                        "content": "Able to transfer from wheelchair to car",
+                        "children": [],
+                        "relationships": [
+                            {
+                                "type": "Is a",
+                                "target": "Finding related to ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Interprets",
+                                "target": "Ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Has interpretation",
+                                "target": "Able"
+                            }
+                        ]
+                    },
+                    {
+                        "content": "Able to transfer from wheelchair to bed",
+                        "children": [],
+                        "relationships": [
+                            {
+                                "type": "Is a",
+                                "target": "Finding related to ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Interprets",
+                                "target": "Ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Has interpretation",
+                                "target": "Able"
+                            }
+                        ]
+                    },
+                    {
+                        "content": "Able to transfer from toilet to wheelchair",
+                        "children": [],
+                        "relationships": [
+                            {
+                                "type": "Is a",
+                                "target": "Finding related to ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Interprets",
+                                "target": "Ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Has interpretation",
+                                "target": "Able"
+                            }
+                        ]
+                    },
+                    {
+                        "content": "Able to transfer from chair to wheelchair",
+                        "children": [],
+                        "relationships": [
+                            {
+                                "type": "Is a",
+                                "target": "Finding related to ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Interprets",
+                                "target": "Ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Has interpretation",
+                                "target": "Able"
+                            }
+                        ]
+                    },
+                    {
+                        "content": "Able to transfer from car to wheelchair",
+                        "children": [],
+                        "relationships": [
+                            {
+                                "type": "Is a",
+                                "target": "Finding related to ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Interprets",
+                                "target": "Ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Has interpretation",
+                                "target": "Able"
+                            }
+                        ]
+                    },
+                    {
+                        "content": "Able to transfer from bed to wheelchair",
+                        "children": [],
+                        "relationships": [
+                            {
+                                "type": "Is a",
+                                "target": "Finding related to ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Interprets",
+                                "target": "Ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Has interpretation",
+                                "target": "Able"
+                            }
+                        ]
+                    },
+                    {
+                        "content": "Able to transfer between wheelchair and toilet",
+                        "children": [],
+                        "relationships": [
+                            {
+                                "type": "Is a",
+                                "target": "Finding related to ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Interprets",
+                                "target": "Ability to perform wheelchair transfers"
+                            },
+                            {
+                                "type": "Has interpretation",
+                                "target": "Able"
+                            }
+                        ]
+                    }
+                ],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Finding of functional performance and activity"
+                    },
+                    {
+                        "type": "Interprets",
+                        "target": "Ability to perform wheelchair transfers"
+                    }
+                ]
+            }
+        ],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Finding of functional performance and activity"
+            },
+            {
+                "type": "Interprets",
+                "target": "Ability to perform wheelchair transfers"
+            }
+        ]
+    }
+]
