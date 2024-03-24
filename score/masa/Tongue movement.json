@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Full range of movements/no abnormality detected",
+        "score": 10
+    },
+    {
+        "name": "Mild impairment in range",
+        "score": 8
+    },
+    {
+        "name": "Incomplete movement",
+        "score": 6
+    },
+    {
+        "name": "Minimal movement",
+        "score": 4
+    },
+    {
+        "name": "No movement or unable to perform",
+        "score": 2
+    }
+]

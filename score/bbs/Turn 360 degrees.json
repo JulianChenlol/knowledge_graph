@@ -1,0 +1,22 @@
+[
+    {
+        "name": "able to turn 360 degrees safely in 4 seconds or less",
+        "score": 4
+    },
+    {
+        "name": "able to turn 360 degrees safely one side only in 4 seconds or less",
+        "score": 3
+    },
+    {
+        "name": "able to turn 360 degrees safely but slowly",
+        "score": 2
+    },
+    {
+        "name": "needs close supervision or verbal cueing",
+        "score": 1
+    },
+    {
+        "name": "needs assistance while turning",
+        "score": 0
+    }
+]

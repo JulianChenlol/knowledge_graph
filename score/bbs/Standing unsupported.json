@@ -1,0 +1,22 @@
+[
+    {
+        "name": "able to stand safely for 2 minutes",
+        "score": 4
+    },
+    {
+        "name": "able to stand 2 minutes with supervision",
+        "score": 3
+    },
+    {
+        "name": "able to stand 30 seconds unsupported",
+        "score": 2
+    },
+    {
+        "name": "needs several tries to stand 30 seconds unsupported",
+        "score": 1
+    },
+    {
+        "name": "unable to stand 30 seconds unsupported",
+        "score": 0
+    }
+]

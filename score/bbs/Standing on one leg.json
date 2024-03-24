@@ -1,0 +1,22 @@
+[
+    {
+        "name": "able to lift leg independently and hold >10 seconds",
+        "score": 4
+    },
+    {
+        "name": "able to lift leg independently and hold 5-10 seconds",
+        "score": 3
+    },
+    {
+        "name": "able to lift leg independently and hold \u22653 seconds",
+        "score": 2
+    },
+    {
+        "name": "tries to lift leg unable to hold 3 seconds but remains standing independently",
+        "score": 1
+    },
+    {
+        "name": "unable to try or needs assist to prevent fall",
+        "score": 0
+    }
+]

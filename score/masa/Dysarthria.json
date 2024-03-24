@@ -1,0 +1,22 @@
+[
+    {
+        "name": "No abnormality",
+        "score": 5
+    },
+    {
+        "name": "Slow with occasional hesitation and slurring",
+        "score": 4
+    },
+    {
+        "name": "Speech intelligible but obviously defective rate/range/strength/coordination",
+        "score": 3
+    },
+    {
+        "name": "Speech unintelligible",
+        "score": 2
+    },
+    {
+        "name": "Unable to assess",
+        "score": 1
+    }
+]

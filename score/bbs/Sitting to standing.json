@@ -1,0 +1,22 @@
+[
+    {
+        "name": "able to stand without using hands, stabilizes independently",
+        "score": 4
+    },
+    {
+        "name": "able to stand independently using hands",
+        "score": 3
+    },
+    {
+        "name": "able to stand using hands after several tries",
+        "score": 2
+    },
+    {
+        "name": "needs minimal aid to stand or to stabilize",
+        "score": 1
+    },
+    {
+        "name": "needs moderate or maximal assist to stand",
+        "score": 0
+    }
+]

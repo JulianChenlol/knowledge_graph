@@ -1,0 +1,65 @@
+[
+    {
+        "content": "Expressive dysphasia",
+        "children": [
+            {
+                "content": "Intellectual disability, expressive aphasia, facial dysmorphism syndrome",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Dysphasia"
+                    }
+                ]
+            },
+            {
+                "content": "Efferent motor dysphasia",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Dysphasia"
+                    }
+                ]
+            },
+            {
+                "content": "Broca's dysphasia",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Dysphasia"
+                    }
+                ]
+            }
+        ],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Dysphasia"
+            }
+        ]
+    },
+    {
+        "content": "Congenital expressive dysphasia",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Disease"
+            },
+            {
+                "type": "Is a",
+                "target": "Dysphasia"
+            },
+            {
+                "type": "Occurrence",
+                "target": "Congenital"
+            },
+            {
+                "type": "Finding site",
+                "target": "Cerebrum"
+            }
+        ]
+    }
+]

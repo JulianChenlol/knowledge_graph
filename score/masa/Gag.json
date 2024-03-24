@@ -1,0 +1,22 @@
+[
+    {
+        "name": "No abnormality",
+        "score": 5
+    },
+    {
+        "name": "Diminished bilaterally",
+        "score": 4
+    },
+    {
+        "name": "Diminished unilaterally",
+        "score": 3
+    },
+    {
+        "name": "Absent unilaterally",
+        "score": 2
+    },
+    {
+        "name": "No gag response",
+        "score": 1
+    }
+]

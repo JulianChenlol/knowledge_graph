@@ -1,0 +1,22 @@
+[
+    {
+        "name": "No abnormality",
+        "score": 10
+    },
+    {
+        "name": "Follows ordinary conversation with little difficulty",
+        "score": 8
+    },
+    {
+        "name": "Follows simple conversation/instructions with repetition",
+        "score": 6
+    },
+    {
+        "name": "Occasional response if cued",
+        "score": 4
+    },
+    {
+        "name": "No response",
+        "score": 1
+    }
+]

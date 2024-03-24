@@ -1,0 +1,22 @@
+[
+    {
+        "name": "able to pick up slipper safely and easily",
+        "score": 4
+    },
+    {
+        "name": "able to pick up slipper but needs supervision",
+        "score": 3
+    },
+    {
+        "name": "unable to pick up but reaches 2-5 cm (1-2 in) from slipper and keeps balance independently",
+        "score": 2
+    },
+    {
+        "name": "unable to pick up and needs supervision while trying",
+        "score": 1
+    },
+    {
+        "name": "unable to try/needs assist to keep from losing balance or falling",
+        "score": 0
+    }
+]

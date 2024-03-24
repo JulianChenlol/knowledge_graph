@@ -1,0 +1,22 @@
+[
+    {
+        "name": "able to stand independently and safely and complete 8 steps in 20 seconds",
+        "score": 4
+    },
+    {
+        "name": "able to stand independently and complete 8 steps in > 20 seconds",
+        "score": 3
+    },
+    {
+        "name": "able to complete 4 steps without aid with supervision",
+        "score": 2
+    },
+    {
+        "name": "able to complete >2 steps needs minimal assist",
+        "score": 1
+    },
+    {
+        "name": "needs assistance to keep from falling/unable to try",
+        "score": 0
+    }
+]

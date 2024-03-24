@@ -1,0 +1,22 @@
+[
+    {
+        "name": "No abnormality",
+        "score": 5
+    },
+    {
+        "name": "Mild difficulty finding words/expressing ideas",
+        "score": 4
+    },
+    {
+        "name": "Expresses self in a limited manner/short phrases or words",
+        "score": 3
+    },
+    {
+        "name": "No functional speech sounds or undecipherable single words",
+        "score": 2
+    },
+    {
+        "name": "Unable to assess",
+        "score": 1
+    }
+]

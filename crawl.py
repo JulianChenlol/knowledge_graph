@@ -3,7 +3,7 @@ import json
 from structure import Tree, TreeEncoder, Type
 from requests.adapters import HTTPAdapter
 
-file_root_path = "./data/fois/"
+file_root_path = "./data/s5q/"
 
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0 ",
@@ -66,7 +66,7 @@ def express(term: str, limit: int, pass_num: int):
         "conceptActive": True,
         "lang": "english",
         "groupByConcept": True,
-        "semanticTags": "regime/therapy",
+        # "semanticTags": "observable entity",
     }
 
     # response = requests.get(url, params=params, headers=headers, proxies=proxies)
@@ -149,6 +149,12 @@ def read_file(term):
 
 
 if __name__ == "__main__":
-    terms = ["feeding"]
+    terms = [
+        "Open and close your eyes",
+        "Look at me",
+        "Open your mouth and put out your tongue",
+        "Nod your head",
+        "Raise your eyebrows after I have counted to five",
+    ]
     for term in terms:
         result = express(term, 100, read_file(term))

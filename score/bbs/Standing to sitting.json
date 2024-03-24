@@ -1,0 +1,22 @@
+[
+    {
+        "name": "sits safely with minimal use of hands",
+        "score": 4
+    },
+    {
+        "name": "controls descent by using hands",
+        "score": 3
+    },
+    {
+        "name": "uses back of legs against chair to control descent",
+        "score": 2
+    },
+    {
+        "name": "sits independently but has uncontrolled descent",
+        "score": 1
+    },
+    {
+        "name": "needs assistance to sit",
+        "score": 0
+    }
+]

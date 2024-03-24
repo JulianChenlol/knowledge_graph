@@ -1,0 +1,22 @@
+[
+    {
+        "name": "able to place feet together independently and stand 1 minute safely",
+        "score": 4
+    },
+    {
+        "name": "able to place feet together independently and stand 1 minute with supervision",
+        "score": 3
+    },
+    {
+        "name": "able to place feet together independently but unable to hold for 30 seconds",
+        "score": 2
+    },
+    {
+        "name": "needs help to attain position but able to stand 15 seconds feet together",
+        "score": 1
+    },
+    {
+        "name": "needs help to attain position and unable to hold 15 seconds",
+        "score": 0
+    }
+]

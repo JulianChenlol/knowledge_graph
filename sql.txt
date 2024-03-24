@@ -1,0 +1,1 @@
+match (a:Grade) -[r:Score]-> (b:`Scale Item`{name: "Pick up object from the floor from a standing position"}) return (a); 

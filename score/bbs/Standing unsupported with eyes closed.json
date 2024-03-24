@@ -1,0 +1,22 @@
+[
+    {
+        "name": "able to stand 10 seconds safely",
+        "score": 4
+    },
+    {
+        "name": "able to stand 10 seconds with supervision",
+        "score": 3
+    },
+    {
+        "name": "able to stand 3 seconds",
+        "score": 2
+    },
+    {
+        "name": "unable to keep eyes closed 3 seconds but stays safely",
+        "score": 1
+    },
+    {
+        "name": "needs help to keep from falling",
+        "score": 0
+    }
+]

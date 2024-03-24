@@ -1,0 +1,22 @@
+[
+    {
+        "name": "able to place foot tandem independently and hold 30 seconds",
+        "score": 4
+    },
+    {
+        "name": "able to place foot ahead of other independently and hold 30 seconds. Foot must completely pass the other foot. Step width should be no wider than shoulders",
+        "score": 3
+    },
+    {
+        "name": "able to take small step independently and hold 30 seconds",
+        "score": 2
+    },
+    {
+        "name": "needs help to step but can hold 15 seconds",
+        "score": 1
+    },
+    {
+        "name": "loses balance while stepping or standing",
+        "score": 0
+    }
+]

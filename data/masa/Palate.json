@@ -1,0 +1,134 @@
+[
+    {
+        "content": "Motor function of palate",
+        "children": [
+            {
+                "content": "Movement of uvula",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Feature of local motor movement"
+                    }
+                ]
+            }
+        ],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Feature of local motor movement"
+            }
+        ]
+    },
+    {
+        "content": "Ability to move soft palate",
+        "children": [
+            {
+                "content": "Ability to depress soft palate",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Ability to perform oral motor function"
+                    }
+                ]
+            },
+            {
+                "content": "Ability to maintain elevation of soft palate",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Ability to perform oral motor function"
+                    }
+                ]
+            },
+            {
+                "content": "Ability to elevate soft palate",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Ability to perform oral motor function"
+                    }
+                ]
+            }
+        ],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Ability to perform oral motor function"
+            }
+        ]
+    },
+    {
+        "content": "Ability to elevate soft palate",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Ability to move soft palate"
+            }
+        ]
+    },
+    {
+        "content": "Ability to depress soft palate",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Ability to move soft palate"
+            }
+        ]
+    },
+    {
+        "content": "Ability to maintain elevation of soft palate",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Ability to move soft palate"
+            }
+        ]
+    },
+    {
+        "content": "Resonating forces provided by soft palate, tongue and lips",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Vocal articulation"
+            }
+        ]
+    },
+    {
+        "content": "Laterality of neoplasms of the pharynx are based on the orientation of the neoplasm to the midline of the body for both single body structures such as the soft palate and lateralized structures such as the tonsils.",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Observable entity"
+            },
+            {
+                "type": "Inheres in",
+                "target": "Malignant neoplasm"
+            },
+            {
+                "type": "Scale type",
+                "target": "Nominal value"
+            },
+            {
+                "type": "Inherent location",
+                "target": "Pharyngeal structure"
+            },
+            {
+                "type": "Characterizes",
+                "target": "Primary malignant neoplastic proliferation"
+            },
+            {
+                "type": "Time aspect",
+                "target": "Single point in time"
+            }
+        ]
+    }
+]

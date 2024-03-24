@@ -1,0 +1,22 @@
+[
+    {
+        "name": "able to sit safely and securely for 2 minutes",
+        "score": 4
+    },
+    {
+        "name": "able to sit 2 minutes under supervision",
+        "score": 3
+    },
+    {
+        "name": "able to sit 30 seconds",
+        "score": 2
+    },
+    {
+        "name": "able to sit 10 seconds",
+        "score": 1
+    },
+    {
+        "name": "unable to sit without support 10 seconds",
+        "score": 0
+    }
+]

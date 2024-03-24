@@ -1,0 +1,22 @@
+[
+    {
+        "name": "No abnormality",
+        "score": 10
+    },
+    {
+        "name": "Slight asymmetry noted; mobile palate",
+        "score": 8
+    },
+    {
+        "name": "Unilaterally weak and inconsistently maintained",
+        "score": 6
+    },
+    {
+        "name": "Minimal movement, nasal regurgitation, nasal air escape",
+        "score": 4
+    },
+    {
+        "name": "No elevation of palate or unable to perform",
+        "score": 2
+    }
+]

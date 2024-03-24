@@ -1,0 +1,22 @@
+[
+    {
+        "name": "can reach forward confidently 25 cm (10 in)",
+        "score": 4
+    },
+    {
+        "name": "can reach forward 12 cm safely (5 in)",
+        "score": 3
+    },
+    {
+        "name": "can reach forward 5 cm safely (2 in)",
+        "score": 2
+    },
+    {
+        "name": "reaches forward but needs supervision",
+        "score": 1
+    },
+    {
+        "name": "loses balance while trying/requires external support",
+        "score": 0
+    }
+]

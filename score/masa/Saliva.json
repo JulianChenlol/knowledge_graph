@@ -1,0 +1,22 @@
+[
+    {
+        "name": "No abnormality",
+        "score": 5
+    },
+    {
+        "name": "Frothy/expectorated into cup",
+        "score": 4
+    },
+    {
+        "name": "Drooling at times, during speech, while side lying or fatigued",
+        "score": 3
+    },
+    {
+        "name": "Some drool consistently",
+        "score": 2
+    },
+    {
+        "name": "Gross drooling, unable to control drooling",
+        "score": 1
+    }
+]

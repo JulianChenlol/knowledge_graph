@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Chest clear, no clinical or radiographic evidence of abnormality",
+        "score": 10
+    },
+    {
+        "name": "Sputum in the upper airway or other respiratory condition (e.g., asthma/bronchospasm, chronic obstructive pulmonary disease)",
+        "score": 8
+    },
+    {
+        "name": "Fine basal crepitations/self-clearing",
+        "score": 6
+    },
+    {
+        "name": "Coarse basal crepitations",
+        "score": 4
+    },
+    {
+        "name": "Suspected infection/frequent suctioning/respirator dependent",
+        "score": 2
+    }
+]

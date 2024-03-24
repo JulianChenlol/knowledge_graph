@@ -1,0 +1,22 @@
+[
+    {
+        "name": "looks behind from both sides and weight shifts well",
+        "score": 4
+    },
+    {
+        "name": "looks behind one side only other side shows less weight shift",
+        "score": 3
+    },
+    {
+        "name": "turns sideways only but maintains balance",
+        "score": 2
+    },
+    {
+        "name": "needs supervision when turning",
+        "score": 1
+    },
+    {
+        "name": "needs assist to keep from losing balance or falling",
+        "score": 0
+    }
+]

@@ -1,0 +1,55 @@
+[
+    {
+        "content": "Visual alertness",
+        "children": [
+            {
+                "content": "Visual attentiveness",
+                "children": [],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "Vision observable"
+                    }
+                ]
+            }
+        ],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Vision observable"
+            }
+        ]
+    },
+    {
+        "content": "Mental alertness",
+        "children": [
+            {
+                "content": "Attentiveness",
+                "children": [
+                    {
+                        "content": "Ability to direct attention",
+                        "children": [],
+                        "relationships": [
+                            {
+                                "type": "Is a",
+                                "target": "Mental alertness"
+                            }
+                        ]
+                    }
+                ],
+                "relationships": [
+                    {
+                        "type": "Is a",
+                        "target": "State of consciousness and awareness"
+                    }
+                ]
+            }
+        ],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "State of consciousness and awareness"
+            }
+        ]
+    }
+]

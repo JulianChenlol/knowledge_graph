@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Normal",
+        "score": 5
+    },
+    {
+        "name": "Movement against gravity and resistance",
+        "score": 4
+    },
+    {
+        "name": "Movement against gravity over (almost) the full range",
+        "score": 3
+    },
+    {
+        "name": "Movement of the limb but not against gravity",
+        "score": 2
+    },
+    {
+        "name": "Visible contraction without movement of the limb (not existent for hip flexion)",
+        "score": 1
+    },
+    {
+        "name": "No visible contraction",
+        "score": 0
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "content": "GAg gene",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Genetic marker"
+            }
+        ]
+    },
+    {
+        "content": "Pharyngeal gag reflex",
+        "children": [],
+        "relationships": [
+            {
+                "type": "Is a",
+                "target": "Cranial nerve reflex"
+            }
+        ]
+    }
+]

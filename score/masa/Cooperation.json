@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Cooperative-engages in some form of verbal or nonverbal exchange",
+        "score": 10
+    },
+    {
+        "name": "Fluctuating co-operation",
+        "score": 8
+    },
+    {
+        "name": "Reluctant co-operation",
+        "score": 5
+    },
+    {
+        "name": "No co-operation/response",
+        "score": 2
+    }
+]

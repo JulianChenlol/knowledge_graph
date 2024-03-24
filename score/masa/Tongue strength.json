@@ -1,0 +1,18 @@
+[
+    {
+        "name": "No abnormality",
+        "score": 10
+    },
+    {
+        "name": "Minimal weakness",
+        "score": 8
+    },
+    {
+        "name": "Obvious unilateral weakness",
+        "score": 5
+    },
+    {
+        "name": "Gross weakness or unable to perform",
+        "score": 2
+    }
+]
